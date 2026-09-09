@@ -1,0 +1,289 @@
+#!/usr/bin/env python3
+# Auth: hitem
+import subprocess
+import asyncio
+import aiohttp
+import feedparser
+from lxml import etree
+import datetime
+import calendar
+import os
+from bs4 import BeautifulSoup
+from urllib.parse import urlparse
+from email.utils import parsedate_to_datetime
+
+# Ensure our local copy is exactly in sync with origin/main.
+try:
+    subprocess.run(["git", "fetch", "origin"], check=True)
+    subprocess.run(["git", "reset", "--hard", "origin/main"], check=True)
+except Exception as e:
+    print(f"Error during git reset: {e}")
+
+# Set to True for appending, False for overwriting
+append_mode = True
+# Set the maximum age for entries in days when in append mode
+max_age_days = 365
+
+# Define the list of RSS feed URLs
+rss_feed_urls = [
+"https://www.cisa.gov/cybersecurity-advisories/all.xml",
+"https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml",
+"https://www.cisa.gov/cybersecurity-advisories/ics-medical-advisories.xml",
+"https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
+"https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+"https://www.ncsc.gov.uk/api/1/services/v1/news-rss-feed.xml",
+"https://www.ncsc.gov.uk/api/1/services/v1/guidance-rss-feed.xml",
+"https://isc.sans.edu/rssfeed_full.xml",
+"https://www.usom.gov.tr/rss/tehdit.rss",
+"https://www.usom.gov.tr/rss/duyuru.rss",
+"https://filestore.fortinet.com/fortiguard/rss/ir.xml",
+"https://api.msrc.microsoft.com/update-guide/rss",
+"https://ubuntu.com/security/notices/rss.xml",
+"https://www.zerodayinitiative.com/rss/published/",
+"https://www.zerodayinitiative.com/rss/upcoming/",
+"https://www.zerodayinitiative.com/blog/?format=rss",
+"https://googleprojectzero.blogspot.com/feeds/posts/default",
+"https://www.crowdstrike.com/blog/feed/",
+"https://securelist.com/feed/",
+"https://feeds.feedburner.com/eset/blog",
+"https://news.sophos.com/en-us/category/threat-research/feed/",
+"https://news.sophos.com/en-us/category/security-operations/feed/",
+"https://krebsonsecurity.com/feed/",
+"https://www.theregister.com/security/headlines.atom",
+"https://www.darkreading.com/rss/all.xml",
+"https://feeds.feedburner.com/TheHackersNews?format=xml",
+"https://www.bleepingcomputer.com/feed/",
+"https://www.securityweek.com/feed/",
+"https://grahamcluley.com/feed/",
+"https://www.schneier.com/feed/atom/",
+"https://www.troyhunt.com/rss/",
+"https://podcast.darknetdiaries.com/",
+"https://sec.cloudapps.cisco.com/security/center/psirtrss20/CiscoSecurityAdvisory.xml",
+"https://community.citrix.com/rss/3-citrix-tech-zone-blogs.xml",
+"https://www.netscaler.com/blog/feed/",
+"https://www.watchguard.com/wgrd-psirt/advisories.xml",
+"https://chromereleases.googleblog.com/atom.xml",
+"https://docs.cpanel.net/release-notes/release-notes/index.xml",
+"https://www.veeam.com/services/open/kb/security-feed",
+"https://feeds.feedburner.com/threatintelligence/pvexyqv7v0v",
+"https://cert.europa.eu/publications/threat-intelligence-rss",
+"https://www.cert.se/feed/atom.xml",
+]
+
+# Set the output file name and state file
+output_file = "aggregated_feed.xml"
+processed_links_file = "processed_links.txt"
+
+# Define the time threshold: only process entries from the last 4 days (3 hours should be default).
+recent_time_threshold = datetime.datetime.now(
+    datetime.timezone.utc) - datetime.timedelta(days=4)
+
+# Helper to normalize URLs (remove fragments, queries, and trailing slashes)
+def normalize_url(url: str) -> str:
+    parsed = urlparse(url.strip())
+    return parsed._replace(fragment="", query="").geturl().rstrip("/")
+
+# Read previously processed links
+try:
+    with open(processed_links_file, "r") as f:
+        processed_links = set(
+            normalize_url(line.split()[1]) for line in f if line.strip()
+        )
+except FileNotFoundError:
+    processed_links = set()
+
+# Asynchronous function to fetch RSS feed content
+async def fetch_rss_feed(url, session):
+    separator = "&" if "?" in url else "?"
+    cache_buster = int(datetime.datetime.now(datetime.timezone.utc).timestamp())
+    fetch_url = f"{url}{separator}_cb={cache_buster}"
+
+    for attempt_url in (fetch_url, url):
+        try:
+            async with session.get(attempt_url, timeout=10) as response:
+                if response.status == 200:
+                    content = await response.text()
+                    return feedparser.parse(content)
+
+                print(f"Error fetching {attempt_url}: HTTP {response.status}")
+        except Exception as e:
+            print(f"Error fetching {attempt_url}: {e}")
+
+    return None
+
+# Convert struct_time to datetime with UTC timezone
+def struct_time_to_datetime(t):
+    timestamp = calendar.timegm(t)
+    return datetime.datetime.fromtimestamp(timestamp, tz=datetime.timezone.utc)
+
+# Main asynchronous function to process RSS feeds
+async def process_feeds():
+    async with aiohttp.ClientSession() as session:
+        tasks = [fetch_rss_feed(url, session) for url in rss_feed_urls]
+        feeds = await asyncio.gather(*tasks)
+
+        # Gather all entries from all feeds
+        all_entries = []
+        for feed in feeds:
+            if feed and feed.entries:
+                all_entries.extend(feed.entries)
+
+        # Remove duplicates from the current run and ignore already processed links
+        deduped_entries = {}
+        for entry in all_entries:
+            if hasattr(entry, "link"):
+                norm_link = normalize_url(entry.link)
+                if norm_link not in processed_links:
+                    deduped_entries.setdefault(norm_link, entry)
+        unique_entries = list(deduped_entries.values())
+
+        # Filter for recent entries using the published time
+        recent_entries = []
+        for entry in unique_entries:
+            date_struct = getattr(entry, "published_parsed", None) or getattr(
+                entry, "updated_parsed", None
+            )
+            if not date_struct:
+                continue
+            entry_datetime = struct_time_to_datetime(date_struct)
+            if entry_datetime >= recent_time_threshold:
+                recent_entries.append(entry)
+
+        # Sort entries by published time, most recent first
+        sorted_entries = sorted(
+            recent_entries,
+            key=lambda x: getattr(x, "published_parsed", None)
+            or getattr(x, "updated_parsed", None),
+            reverse=True,
+        )
+
+        # Append new links to processed_links.txt immediately
+        with open(processed_links_file, "a") as f:
+            for entry in sorted_entries:
+                try:
+                    date_struct = getattr(entry, "published_parsed", None) or getattr(
+                        entry, "updated_parsed", None
+                    )
+                    if date_struct:
+                        dt = struct_time_to_datetime(date_struct)
+                    else:
+                        dt = datetime.datetime.now(datetime.timezone.utc)
+
+                    timestamp = dt.strftime("%Y-%m-%dT%H:%M:%S")
+                    f.write(f"{timestamp} {normalize_url(entry.link)}\n")
+                except Exception:
+                    continue
+
+        # Update the aggregated XML feed with the new entries
+        update_feed(sorted_entries)
+        return sorted_entries
+
+# Function to update or create the XML feed
+def update_feed(sorted_entries):
+    now = datetime.datetime.now(datetime.timezone.utc)
+    existing_links = set()
+    changed = False
+
+    if append_mode and os.path.exists(output_file):
+        # Load existing feed if appending
+        tree = etree.parse(output_file)
+        root = tree.getroot()
+        channel = root.find("channel")
+
+        # Prune old items from the existing XML when appending, using max_age_days
+        cutoff = now - datetime.timedelta(days=max_age_days)
+
+        # Iterate over a copy since we may remove elements
+        for item in list(channel.findall("item")):
+            link_text = item.findtext("link") or ""
+            if link_text:
+                existing_links.add(normalize_url(link_text))
+
+            pub_text = item.findtext("pubDate") or ""
+            if not pub_text:
+                continue
+
+            try:
+                dt = parsedate_to_datetime(pub_text)
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=datetime.timezone.utc)
+                else:
+                    dt = dt.astimezone(datetime.timezone.utc)
+
+                if dt < cutoff:
+                    channel.remove(item)
+                    changed = True
+            except Exception:
+                # If pubDate isn't parseable, keep the item (avoid accidental deletions)
+                continue
+    else:
+        # Otherwise, create a new feed structure
+        root = etree.Element("rss", version="2.0")
+        channel = etree.SubElement(root, "channel")
+        etree.SubElement(channel, "title").text = "RSS Aggregator Feed"
+        etree.SubElement(
+            channel, "link"
+        ).text = "https://hitem.github.io/rss-aggregator/aggregated_feed.xml"
+        etree.SubElement(
+            channel, "description"
+        ).text = "An aggregated feed of Microsoft blogs"
+
+    # Only update lastBuildDate if the feed content actually changes
+    last_build_date = channel.find("lastBuildDate")
+    if last_build_date is None:
+        last_build_date = etree.SubElement(channel, "lastBuildDate")
+        changed = True
+
+    # Add new entries to the feed
+    for entry in sorted_entries:
+        if not hasattr(entry, "title") or not hasattr(entry, "link"):
+            continue
+
+        norm_link = normalize_url(entry.link)
+
+        # Extra safety in append mode: don't add an item that already exists in the XML
+        if append_mode and norm_link in existing_links:
+            continue
+
+        item = etree.SubElement(channel, "item")
+        changed = True
+        etree.SubElement(item, "title").text = entry.title
+        etree.SubElement(item, "link").text = entry.link
+
+        # Track link once inserted
+        if append_mode:
+            existing_links.add(norm_link)
+
+        pubdate = getattr(entry, "published", None) or getattr(
+            entry, "updated", None) or ""
+        etree.SubElement(item, "pubDate").text = pubdate
+        etree.SubElement(item, "guid", isPermaLink="false").text = (
+            entry.id if hasattr(entry, "id") else entry.link
+        )
+
+        soup = BeautifulSoup(entry.summary, "lxml") if hasattr(
+            entry, "summary") else None
+        summary_text = soup.get_text() if soup else "No summary available."
+        limited_summary = summary_text[:600] + \
+            "..." if len(summary_text) > 350 else summary_text
+        etree.SubElement(item, "description").text = limited_summary
+
+    if changed:
+        last_build_date.text = now.strftime("%a, %d %b %Y %H:%M:%S GMT")
+
+        # Write the updated feed to file only when content changed
+        with open(output_file, "wb") as f:
+            f.write(etree.tostring(root, pretty_print=True))
+    else:
+        print("No feed changes; aggregated_feed.xml was not rewritten.")
+
+# Run the feed processing
+print(f"Run started at {datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')}")
+sorted_entries = asyncio.run(process_feeds())
+
+# Output the RSS feed entry count
+if "GITHUB_ENV" in os.environ:
+    with open(os.environ["GITHUB_ENV"], "a") as f:
+        f.write(f"RSS_FEED_ENTRIES={len(sorted_entries)}\n")
+else:
+    print(f"RSS_FEED_ENTRIES={len(sorted_entries)}")

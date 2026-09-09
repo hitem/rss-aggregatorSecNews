@@ -1,0 +1,72 @@
+name: RSS & HTML Aggregator
+
+on:
+  schedule:
+    - cron: "37 * * * *" # Run every hour, away from the top-of-hour Actions rush
+    # Use a second run incase you are experiencing skips in github actions causing duplicates (i have one duplicate happening 02:50 and 03:50 due to github actions maintinance and delays on microsofts side once a month)
+    #- cron: "10 * * * *" # Run 10 mina after every hour
+  workflow_dispatch:
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  
+jobs:
+  aggregate_rss_feeds:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Pull latest changes
+        run: git pull origin main
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run RSS aggregator script
+        run: python rss_aggregator.py
+
+      - name: Prune & dedupe processed_links.txt
+        run: |
+          cutoff=$(date -u --date="365 days ago" +%Y-%m-%dT%H:%M:%S)
+          awk -v cutoff="$cutoff" '$1 > cutoff' processed_links.txt > filtered.txt
+          sort -t ' ' -k2,2 -k1,1r filtered.txt | sort -u -t ' ' -k2,2 | sort -t ' ' -k1,1 > processed_links.txt
+          rm filtered.txt
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v10
+        with:
+          add: "."
+          message: "feat: RSS feed update"
+          push: true
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: "."
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
