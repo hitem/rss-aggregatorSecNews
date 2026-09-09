@@ -22,7 +22,7 @@ except Exception as e:
 # Set to True for appending, False for overwriting
 append_mode = True
 # Set the maximum age for entries in days when in append mode
-max_age_days = 365
+max_age_days = 14
 
 # Define the list of RSS feed URLs
 rss_feed_urls = [
