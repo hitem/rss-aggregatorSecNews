@@ -220,10 +220,10 @@ def update_feed(sorted_entries):
         # Otherwise, create a new feed structure
         root = etree.Element("rss", version="2.0")
         channel = etree.SubElement(root, "channel")
-        etree.SubElement(channel, "title").text = "RSS Aggregator Feed"
+        etree.SubElement(channel, "title").text = "RSS Aggregator Feed Sec News"
         etree.SubElement(
             channel, "link"
-        ).text = "https://hitem.github.io/rss-aggregator/aggregated_feed.xml"
+        ).text = "https://hitem.github.io/rss-aggregatorSecNews/aggregated_feed.xml"
         etree.SubElement(
             channel, "description"
         ).text = "An aggregated feed of Microsoft blogs"
