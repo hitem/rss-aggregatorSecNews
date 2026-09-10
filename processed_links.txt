@@ -1171,3 +1171,6 @@
 2026-09-09T18:26:05 https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html
 2026-09-09T22:09:50 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85046
 2026-09-09T22:28:53 https://www.theregister.com/research/2026/09/09/novel-blue-moon-kit-targeting-chrome-and-windows-reflects-new-reality-of-ai-driven-exploits/5295399
+2026-09-09T23:05:54 https://grahamcluley.com/smashing-security-podcast-484
+2026-09-09T23:20:59 https://www.theregister.com/ai-and-ml/2026/09/10/anthropic-reveals-fourth-likely-crime-committed-by-its-ai/5295412
+2026-09-10T00:42:26 https://community.citrix.com/techzone-blogs/netscaler/managing-tls-at-enterprise-scale-in-a-world-of-short-lived-certificates-r1611
