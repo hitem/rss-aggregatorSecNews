@@ -1225,6 +1225,7 @@
 2026-09-10T12:58:10 https://isc.sans.edu/diary/rss/33326
 2026-09-10T13:13:00 https://www.theregister.com/security/2026/09/10/shinyhunters-expose-64m-in-attack-on-medical-supplier-mckesson/5295550
 2026-09-10T13:32:28 https://www.bitdefender.com/en-us/blog/hotforsecurity/anne-hathaway-245-million-crypto-theft-nightclubs-watches-luxury-cars
+2026-09-10T13:53:24 https://ubuntu.com/security/notices/USN-8744-1
 2026-09-10T14:28:33 http://chromereleases.googleblog.com/2026/09/chrome-dev-for-android-update_02129170922.html
 2026-09-10T14:36:47 https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html
 2026-09-10T14:44:07 https://community.citrix.com/techzone-blogs/110_security-updates/netscaler-waf-signatures-update-v181%C2%A0-r1612
@@ -1233,3 +1234,7 @@
 2026-09-10T15:36:46 https://ubuntu.com/security/notices/USN-8745-1
 2026-09-10T15:48:52 https://ubuntu.com/security/notices/USN-8746-1
 2026-09-10T15:56:46 https://ubuntu.com/security/notices/USN-8747-1
+2026-09-10T16:13:33 http://chromereleases.googleblog.com/2026/09/chrome-dev-for-desktop-update_01644394249.html
+2026-09-10T17:47:38 https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html
+2026-09-10T18:49:43 https://www.theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650
+2026-09-10T19:50:24 https://www.theregister.com/security/2026/09/10/watch-out-apple-timepiece-can-grab-snippets-of-conversation-without-both-speakers-consent/5295666
