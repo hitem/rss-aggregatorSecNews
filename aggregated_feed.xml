@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 10 Sep 2026 01:25:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:22:08 GMT</lastBuildDate>
   <item><title>Webinar: Learn How to Answer &#8220;Are We Exposed?&#8221; Faster After a New CVE</title><link>https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html</link><pubDate>Wed, 09 Sep 2026 17:27:36 +0530</pubDate><guid isPermaLink="false">https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html</guid><description>A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?
 
 For many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventories, SBOMs, repositories, and application data to build enough context to act.
@@ -373,5 +373,37 @@ Original advisory details:
 
 Meanwhile, the intelligence agencies of the "Five Eyes" (not Five Guys) have got together and published advice on how companies should communicate after a cyber attack. The summary? For the love of God, stop calling every breach "sophisticated."
 
-All thi...</description></item></channel>
+All thi...</description></item><item><title>Patchtisdag september 2026 &#8211; samlad information om m&#229;nadens s&#228;kerhetsuppdateringar</title><link>https://www.cert.se/2026/09/patchtisdag-september-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html</link><pubDate>2026-09-10T13:50:00+02:00</pubDate><guid isPermaLink="false">https://www.cert.se/2026/09/patchtisdag-september-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html</guid><description>S&#229;rbarhet Patchtisdag Cisco Microsoft SAP Ivanti Adobe</description></item><item><title>AIs Compress Exploit Timeline</title><link>https://www.schneier.com/blog/archives/2026/09/ais-compress-exploit-timeline.html</link><pubDate>2026-09-10T10:40:35Z</pubDate><guid isPermaLink="false">https://www.schneier.com/?p=72571</guid><description>Give an AI agent a mere rumor of an exploit, and it&#8217;s enough for them to find it.
+What&#8217;s worse, I found I could use my own agents to find the exploit just by knowing roughly what it was about and so could have been exploiting it well before the public patch was available! Given that just the rumour of a security issue seems enough to give attackers enough info to find new exploits, we&#8217;re going to need to change the way we deal with security responses in open source.
+Simon Willison comments:
+Anil points out that this rate of discovery appears incompatible with existing open source embargo pract...</description></item><item><title>CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline</title><link>https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html</link><pubDate>Thu, 10 Sep 2026 16:06:46 +0530</pubDate><guid isPermaLink="false">https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html</guid><description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the patches by September 12, 2026.
+
+The vulnerabilities are listed below -
+
+
+  CVE-2026-20079 (CVSS score: 10.0) - An authentication...</description></item><item><title>ISC Stormcast For Thursday, September 10th, 2026 https://isc.sans.edu/podcastdetail/10088, (Thu, Sep 10th)</title><link>https://isc.sans.edu/diary/rss/33328</link><pubDate>Thu, 10 Sep 2026 10:10:11 GMT</pubDate><guid isPermaLink="false">https://isc.sans.edu/diary/rss/33328</guid><description>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</description></item><item><title>USN-8742-1: Netty vulnerability</title><link>https://ubuntu.com/security/notices/USN-8742-1</link><pubDate>Thu, 10 Sep 2026 09:01:53 +0000</pubDate><guid isPermaLink="false">https://ubuntu.com/security/notices/USN-8742-1</guid><description>It was discovered that Netty incorrectly validates the bailiwick of NS
+records. An attacker could possibly use this issue to facilitate DNS
+cache poisoning attacks.</description></item><item><title>USN-8741-1: Flatpak vulnerabilities</title><link>https://ubuntu.com/security/notices/USN-8741-1</link><pubDate>Thu, 10 Sep 2026 08:44:18 +0000</pubDate><guid isPermaLink="false">https://ubuntu.com/security/notices/USN-8741-1</guid><description>It was discovered that Flatpak did not properly validate paths in
+sandbox-expose options. A malicious or compromised Flatpak app could
+use app-controlled symlinks to access arbitrary host files and gain
+code execution in the host context. This issue was addressed in Ubuntu
+Ubuntu 20.04 LTS, Ubuntu 22.04 LTS and Ubuntu 24.04 LTS. (CVE-2026-34078) 
+
+It was discovered that Flatpak did not properly validate paths when   
+removing outdated ld.so cache files. A malicious or compromised Flatpak
+app could use this issue to delete arbitrary files on the host. 
+(CVE-2026-34079)...</description></item><item><title>Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example "sk-1234" Admin Key</title><link>https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html</link><pubDate>Thu, 10 Sep 2026 12:42:55 +0530</pubDate><guid isPermaLink="false">https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html</guid><description>Nearly one in ten of the internet-facing LiteLLM servers that&#160;Wiz Research&#160;scanned in February accepted&#160;sk-1234, the example admin key in LiteLLM's own setup guide.
+
+LiteLLM is an open-source AI gateway, the software a company puts between its applications and the model providers it pays for. That key is the gateway's administrator credential.
+
+Anyone who holds it can read every...</description></item><item><title>Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6</title><link>https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html</link><pubDate>Thu, 10 Sep 2026 12:34:01 +0530</pubDate><guid isPermaLink="false">https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html</guid><description>Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the security risks posed by autonomous AI agents.
+
+The AI company said the incident dates back to January 2026 and involved an early version of Claude Opus 4.6 that breached "...</description></item><item><title>Dental contractor set up secret account with access to 4,000 patient records then left the company</title><link>https://www.theregister.com/security/2026/09/10/dental-contractor-set-up-secret-account-with-access-to-4000-patient-records-then-left-the-company/5295361</link><pubDate>Thu, 10 Sep 2026 09:00:00 +0200</pubDate><guid isPermaLink="false">https://www.theregister.com/a/5295361</guid><description>Toothless security</description></item><item><title>USN-8740-1: .NET vulnerabilities</title><link>https://ubuntu.com/security/notices/USN-8740-1</link><pubDate>Thu, 10 Sep 2026 06:57:42 +0000</pubDate><guid isPermaLink="false">https://ubuntu.com/security/notices/USN-8740-1</guid><description>Weeraphat Srisutham discovered that the .NET watch BrowserRefreshServer did
+not properly validate cross-origin WebSocket connections. An attacker could
+possibly use this issue to expose sensitive information. (CVE-2026-58649)
+
+Rajesh Chada discovered that the .NET watch AspireServerService improperly
+exposed information through the use of certain arguments. An attacker could
+possibly use this issue to elevate privileges and execute arbitrary code.
+(CVE-2026-69806)...</description></item></channel>
 </rss>

@@ -1174,3 +1174,13 @@
 2026-09-09T23:05:54 https://grahamcluley.com/smashing-security-podcast-484
 2026-09-09T23:20:59 https://www.theregister.com/ai-and-ml/2026/09/10/anthropic-reveals-fourth-likely-crime-committed-by-its-ai/5295412
 2026-09-10T00:42:26 https://community.citrix.com/techzone-blogs/netscaler/managing-tls-at-enterprise-scale-in-a-world-of-short-lived-certificates-r1611
+2026-09-10T06:57:42 https://ubuntu.com/security/notices/USN-8740-1
+2026-09-10T07:00:00 https://www.theregister.com/security/2026/09/10/dental-contractor-set-up-secret-account-with-access-to-4000-patient-records-then-left-the-company/5295361
+2026-09-10T07:04:01 https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html
+2026-09-10T07:12:55 https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html
+2026-09-10T08:44:18 https://ubuntu.com/security/notices/USN-8741-1
+2026-09-10T09:01:53 https://ubuntu.com/security/notices/USN-8742-1
+2026-09-10T10:10:11 https://isc.sans.edu/diary/rss/33328
+2026-09-10T10:36:46 https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html
+2026-09-10T10:40:35 https://www.schneier.com/blog/archives/2026/09/ais-compress-exploit-timeline.html
+2026-09-10T11:50:00 https://www.cert.se/2026/09/patchtisdag-september-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html
