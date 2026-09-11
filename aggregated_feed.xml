@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Thu, 10 Sep 2026 20:00:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 01:26:05 GMT</lastBuildDate>
   <item><title>Webinar: Learn How to Answer &#8220;Are We Exposed?&#8221; Faster After a New CVE</title><link>https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html</link><pubDate>Wed, 09 Sep 2026 17:27:36 +0530</pubDate><guid isPermaLink="false">https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html</guid><description>A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?
 
 For many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventories, SBOMs, repositories, and application data to build enough context to act.
@@ -480,5 +480,19 @@ Ubuntu 22.04 LTS and Ubuntu 24.04 LTS. (CVE-2026-3644)
 It was discovered that the Python pyexpat module was vulnerable to
 unbounded recursion in the Expat XML parser. An attacker could possibly use
 this issue to cause Python to crash, resulting in a denial of service. This
-issue only affected Ubuntu 14.04 LTS...</description></item></channel>
+issue only affected Ubuntu 14.04 LTS...</description></item><item><title>USN-8571-2: Apache HTTP Server regression</title><link>https://ubuntu.com/security/notices/USN-8571-2</link><pubDate>Thu, 10 Sep 2026 19:36:17 +0000</pubDate><guid isPermaLink="false">https://ubuntu.com/security/notices/USN-8571-2</guid><description>USN-8571-1 fixed vulnerabilities in Apache HTTP Server. That fix was
+incomplete due to a missing library symbol, resulting in a regression
+that could cause Apache HTTP Server to fail to start when HTTP/2
+proxying was enabled. This update fixes the problem.
+
+We apologize for the inconvenience.
+
+Original advisory details:
+
+ Pavel Kohout and Arkadi Vainbrand discovered that Apache HTTP Server
+ incorrectly handled certain memory operations in mod_authn_socache. A
+ remote attacker could possibly use this issue to cause a denial of service.
+ (CVE-2026-33007)
+
+ Haruki Oyama, Merih Mengisteab, and Daw...</description></item></channel>
 </rss>

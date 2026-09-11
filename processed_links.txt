@@ -1237,4 +1237,5 @@
 2026-09-10T16:13:33 http://chromereleases.googleblog.com/2026/09/chrome-dev-for-desktop-update_01644394249.html
 2026-09-10T17:47:38 https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html
 2026-09-10T18:49:43 https://www.theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650
+2026-09-10T19:36:17 https://ubuntu.com/security/notices/USN-8571-2
 2026-09-10T19:50:24 https://www.theregister.com/security/2026/09/10/watch-out-apple-timepiece-can-grab-snippets-of-conversation-without-both-speakers-consent/5295666
