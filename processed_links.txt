@@ -1250,4 +1250,10 @@
 2026-09-11T08:44:10 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-1920
 2026-09-11T08:44:19 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-2137
 2026-09-11T11:09:55 https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html
+2026-09-11T11:30:00 https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html
 2026-09-11T11:34:41 https://www.theregister.com/security/2026/09/11/eus-cyber-resilience-act-starts-the-24-hour-vulnerability-clock/5295821
+2026-09-11T12:15:00 https://www.theregister.com/cyber-crime/2026/09/11/ukrainian-lawyers-second-career-as-a-conti-coder-earns-him-4-years-behind-bars/5295841
+2026-09-11T12:30:00 https://www.cert.se/2026/09/cert-se-veckobrev-v37.html
+2026-09-11T14:10:20 https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html
+2026-09-11T14:29:47 https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html
+2026-09-11T14:40:32 https://isc.sans.edu/diary/rss/33332
