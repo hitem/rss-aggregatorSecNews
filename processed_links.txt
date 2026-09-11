@@ -1243,3 +1243,11 @@
 2026-09-10T22:38:35 https://www.theregister.com/ai-and-ml/2026/09/10/latest-anthropic-horror-story-chills-with-tales-of-kamikaze-drone-swarms-and-bioweapons-research/5295702
 2026-09-11T02:00:02 https://isc.sans.edu/diary/rss/33330
 2026-09-11T02:29:25 http://chromereleases.googleblog.com/2026/09/long-term-support-channel-update-for.html
+2026-09-11T06:19:59 https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html
+2026-09-11T06:46:18 https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html
+2026-09-11T07:14:09 https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html
+2026-09-11T07:31:05 https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html
+2026-09-11T08:44:10 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-1920
+2026-09-11T08:44:19 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-2137
+2026-09-11T11:09:55 https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html
+2026-09-11T11:34:41 https://www.theregister.com/security/2026/09/11/eus-cyber-resilience-act-starts-the-24-hour-vulnerability-clock/5295821
