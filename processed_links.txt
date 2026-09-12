@@ -1293,3 +1293,6 @@
 2026-09-12T01:01:59 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-76022
 2026-09-12T01:02:00 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-76023
 2026-09-12T04:56:50 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87491
+2026-09-12T06:48:55 http://chromereleases.googleblog.com/2026/09/long-term-support-channel-update-for_0889074137.html
+2026-09-12T09:07:56 https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html
+2026-09-12T10:24:44 https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html
