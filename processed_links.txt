@@ -1296,3 +1296,4 @@
 2026-09-12T06:48:55 http://chromereleases.googleblog.com/2026/09/long-term-support-channel-update-for_0889074137.html
 2026-09-12T09:07:56 https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html
 2026-09-12T10:24:44 https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html
+2026-09-12T15:54:45 https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html
