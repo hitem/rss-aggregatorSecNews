@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 14 Sep 2026 07:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:23:53 GMT</lastBuildDate>
   <item><title>Webinar: Learn How to Answer &#8220;Are We Exposed?&#8221; Faster After a New CVE</title><link>https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html</link><pubDate>Wed, 09 Sep 2026 17:27:36 +0530</pubDate><guid isPermaLink="false">https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html</guid><description>A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?
 
 For many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventories, SBOMs, repositories, and application data to build enough context to act.
@@ -549,5 +549,14 @@ Ubuntu 22.04 LTS and Ubuntu 24.04 LTS. (CVE-2025-55763)
 
 It was discovered that CivetWeb did not correctly handle parsing certain
 HTTP requests. A remote attacker could possibly use this issue to cause
-a denial of service. (CVE-2025-9648)...</description></item></channel>
+a denial of service. (CVE-2025-9648)...</description></item><item><title>AI Changed the Exposure Problem. Validation Needs to Change With It.</title><link>https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html</link><pubDate>Mon, 14 Sep 2026 17:28:00 +0530</pubDate><guid isPermaLink="false">https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html</guid><description>There's a lot of noise around AI and cybersecurity right now. What&#8217;s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to work out which findings actually deserve their action.
+
+In the first half of 2026, a whopping 35,853 CVEs were published, roughly 49% more than in the...</description></item><item><title>Microsoft&#8217;s Patching</title><link>https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html</link><pubDate>2026-09-14T11:03:26Z</pubDate><guid isPermaLink="false">https://www.schneier.com/?p=72629</guid><description>Once a month, Microsoft pushes a security update to all Windows users. Tomorrow&#8217;s is a new record:
+Microsoft&#8217;s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold.
+It was only two months ago that Microsoft patched a then-record 570 vulnerabilities. Then, last month, Microsoft patched some 620 of them. Google and other companies have also published record numbers of vulnerabilities in recent months. Two weeks ago, OpenAI, Anthropic, Amazon Web Services, Google, Microsoft, and 100 companies and org...</description></item><item><title>UK.gov begins killing off passwords for 23 million users</title><link>https://www.theregister.com/security/2026/09/14/ukgov-begins-killing-off-passwords-for-23-million-users/5296088</link><pubDate>Mon, 14 Sep 2026 11:16:11 +0200</pubDate><guid isPermaLink="false">https://www.theregister.com/a/5296088</guid><description>Passkeys promise fewer phishing headaches &#8211; and &#163;600 a day off Whitehall's SMS bill</description></item><item><title>Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users</title><link>https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html</link><pubDate>Mon, 14 Sep 2026 12:54:39 +0530</pubDate><guid isPermaLink="false">https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html</guid><description>A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service.
+
+The extension, named "Twitch Enhanced Viewer | JeetBot," lists HISHIMIRO/jeetbot.cc as its developer and has the following identifiers on the Google Chrome Web Store and Mozilla Firefox Add-Ons store -
+
+
+  Chrome -...</description></item></channel>
 </rss>
