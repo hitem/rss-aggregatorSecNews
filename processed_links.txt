@@ -1299,3 +1299,7 @@
 2026-09-12T15:54:45 https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html
 2026-09-13T10:11:48 https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html
 2026-09-13T11:21:00 https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/5296000
+2026-09-14T01:27:29 https://ubuntu.com/security/notices/USN-8749-1
+2026-09-14T02:00:03 https://isc.sans.edu/diary/rss/33334
+2026-09-14T03:25:59 https://ubuntu.com/security/notices/USN-8750-1
+2026-09-14T03:34:34 https://ubuntu.com/security/notices/USN-8751-1
