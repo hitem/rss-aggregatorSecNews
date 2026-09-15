@@ -1614,3 +1614,9 @@
 2026-09-15T16:16:00 https://ubuntu.com/security/notices/USN-8770-1
 2026-09-15T16:29:51 https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html
 2026-09-15T18:01:57 https://www.theregister.com/security/2026/09/15/iranian-spies-hit-windows-machines-with-chosen-brick-data-stealing-malware/5296646
+2026-09-15T18:54:14 https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html
+2026-09-15T19:38:58 https://www.theregister.com/security/2026/09/15/low-quality-casino-sites-conceal-highly-dangerous-threat-actors/5296652
+2026-09-15T20:13:26 http://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html
+2026-09-15T20:29:39 http://chromereleases.googleblog.com/2026/09/extended-stable-update-for-desktop_01936140552.html
+2026-09-15T20:36:48 https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cimc-arg-inject-upSHdMfU
+2026-09-15T21:38:31 https://www.theregister.com/security/2026/09/15/the-vulnpocalypse-rains-ibugs-down-on-apple-with-record-setting-number-of-patches/5296679
