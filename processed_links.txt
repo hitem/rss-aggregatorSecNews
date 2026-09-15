@@ -1563,3 +1563,7 @@
 2026-09-15T00:55:31 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87656
 2026-09-15T00:55:32 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87657
 2026-09-15T00:55:33 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87658
+2026-09-15T02:25:12 https://isc.sans.edu/diary/rss/33338
+2026-09-15T04:56:09 https://www.theregister.com/ai-and-ml/2026/09/15/the-latest-ai-doomsayer-is-chinas-intelligence-boss/5296451
+2026-09-15T05:31:05 https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html
+2026-09-15T06:11:11 https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html
