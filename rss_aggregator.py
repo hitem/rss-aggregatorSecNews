@@ -81,6 +81,7 @@ rss_feed_urls = [
 "https://techcrunch.com/category/security/feed/",
 # Breach-focused
 "https://databreaches.net/feed/",
+"https://www.databreachtoday.com/rss-feeds",
 # Enterprise security
 "https://www.csoonline.com/feed/",
 ]
