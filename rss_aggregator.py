@@ -68,6 +68,21 @@ rss_feed_urls = [
 "https://feeds.feedburner.com/threatintelligence/pvexyqv7v0v",
 "https://cert.europa.eu/publications/threat-intelligence-rss",
 "https://www.cert.se/feed/atom.xml",
+"https://therecord.media/feed/",
+"https://cyberscoop.com/feed/",
+"https://www.helpnetsecurity.com/feed/",
+"https://securityaffairs.com/feed/",
+"https://www.infosecurity-magazine.com/rss/news/",
+"https://www.cybersecuritydive.com/feeds/news/",
+"https://www.scworld.com/feed/topic/latest",
+"https://thecyberwire.com/feeds/rss.xml",
+# Broader tech outlets with strong dedicated security desks
+"https://www.wired.com/feed/category/security/latest/rss",
+"https://techcrunch.com/category/security/feed/",
+# Breach-focused
+"https://databreaches.net/feed/",
+# Enterprise security
+"https://www.csoonline.com/feed/",
 ]
 
 # Set the output file name and state file
