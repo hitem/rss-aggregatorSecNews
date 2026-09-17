@@ -1699,6 +1699,11 @@
 2026-09-16T05:00:00 http://www.zerodayinitiative.com/advisories/ZDI-26-706
 2026-09-16T05:00:00 http://www.zerodayinitiative.com/advisories/ZDI-26-707
 2026-09-16T05:00:00 http://www.zerodayinitiative.com/advisories/ZDI-26-708
+2026-09-16T05:00:00 http://www.zerodayinitiative.com/advisories/ZDI-26-709
+2026-09-16T05:00:00 http://www.zerodayinitiative.com/advisories/ZDI-26-710
+2026-09-16T05:00:00 http://www.zerodayinitiative.com/advisories/ZDI-26-711
+2026-09-16T05:00:00 http://www.zerodayinitiative.com/advisories/ZDI-26-712
+2026-09-16T05:00:00 http://www.zerodayinitiative.com/advisories/ZDI-26-713
 2026-09-16T05:18:06 https://thehackernews.com/2026/09/active-exploitation-attempts-target.html
 2026-09-16T05:48:28 https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html
 2026-09-16T05:54:47 https://www.theregister.com/security/2026/09/16/mythos-has-made-2026-patching-hell-it-might-make-2027-a-breeze/5296747
@@ -1794,6 +1799,7 @@
 2026-09-16T16:05:50 https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftdvirtual-dos-MuenGnYR
 2026-09-16T16:19:26 https://www.csoonline.com/article/4222904/big-techs-ai-safety-rift-signals-disruption-and-disparity-for-enterprises-3.html
 2026-09-16T16:28:32 http://chromereleases.googleblog.com/2026/09/chrome-beta-for-ios-update_01806830578.html
+2026-09-16T16:36:02 https://ubuntu.com/security/notices/USN-8774-1
 2026-09-16T16:58:33 http://chromereleases.googleblog.com/2026/09/chrome-beta-for-desktop-update_01695577434.html
 2026-09-16T17:28:14 http://chromereleases.googleblog.com/2026/09/chrome-for-android-update_01800800102.html
 2026-09-16T17:56:31 https://www.theregister.com/security/2026/09/16/google-pixel-phones-pwned-in-zero-click-attacks/5296936
@@ -1811,3 +1817,9 @@
 2026-09-16T20:22:03 https://cyberscoop.com/cisa-guidance-cyber-decoys-critical-infrastructure
 2026-09-16T20:33:48 https://www.theregister.com/security/2026/09/16/cisa-decides-weekly-vulnerability-bulletin-isnt-necessary-anymore/5296968
 2026-09-16T21:07:00 https://therecord.media/frontier-act-ai-bill-house-brett-guthrie
+2026-09-16T21:43:20 https://www.scworld.com/resource/identity-at-machine-speed-okta-pushes-governance-beyond-human-users
+2026-09-16T22:47:30 https://databreaches.net/2026/09/16/canada-nipigon-hospital-hit-by-ransomware-attack
+2026-09-16T23:07:19 https://grahamcluley.com/smashing-security-podcast-485
+2026-09-16T23:09:00 http://chromereleases.googleblog.com/2026/09/early-stable-update-for-desktop_096324202.html
+2026-09-17T00:09:49 https://community.citrix.com/techzone-blogs/netscaler/how-do-i-migrate-from-netscaler-131-fips-firmware-to-141-fips-firmware-strengthening-security-compliance-and-long-term-supportability-r1616
+2026-09-17T00:17:00 https://community.citrix.com/techzone-blogs/netscaler/when-the-physicists-arrived-understanding-post-quantum-cryptography-in-netscaler-r1617
