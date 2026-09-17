@@ -1905,5 +1905,11 @@
 2026-09-17T15:46:10 https://www.csoonline.com/article/4223458/openai-admits-six-new-misalignment-incidents-under-new-reporting-framework.html
 2026-09-17T15:48:06 https://databreaches.net/2026/09/17/eu-chief-wants-joint-response-to-cyberattacks-sabotage
 2026-09-17T15:48:11 https://databreaches.net/2026/09/17/port-of-la-fended-off-120-million-cyberattacks-in-august
+2026-09-17T15:50:32 https://ubuntu.com/security/notices/USN-8779-1
 2026-09-17T16:00:00 https://www.scworld.com/podcast-segment/15652-global-cyber-resilience-report-cyber-recovery-plans-werent-designed-for-this-moment-rob-sadowski-bh26-3
 2026-09-17T16:30:00 https://therecord.media/china-hackers-latin-america-espionage
+2026-09-17T18:00:17 https://www.theregister.com/security/2026/09/17/chinas-salt-typhoon-backdoors-latin-american-orgs-with-new-snooping-malware/5297286
+2026-09-17T18:06:07 https://securityaffairs.com/199280/hacking/cyberattacks-on-oil-tankers-put-maritime-critical-infrastructure-at-risk.html
+2026-09-17T19:18:07 https://cyberscoop.com/ai-agent-hacking-apocalypse-cybersecurity
+2026-09-17T19:35:54 https://www.scworld.com/news/cisco-patches-10-0-ise-bug-exploited-in-the-wild
+2026-09-17T19:36:10 https://www.theregister.com/security/2026/09/17/researchers-find-way-to-listen-in-on-headphones-from-afar/5297303
