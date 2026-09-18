@@ -1996,6 +1996,7 @@
 2026-09-18T13:00:00 https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters
 2026-09-18T13:24:00 https://therecord.media/hacking-group-nighteagle-expands-russia-china
 2026-09-18T13:30:00 https://www.infosecurity-magazine.com/news/settra-ransomware-retail
+2026-09-18T14:00:00 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88097
 2026-09-18T14:00:14 https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai
 2026-09-18T14:29:00 https://therecord.media/nations-take-action-on-north-korean-it-worker-schemes
 2026-09-18T14:42:38 https://www.cybersecuritydive.com/news/cisa-vulnerability-bulletins-sunset-prioritization/830779
@@ -2017,5 +2018,15 @@
 2026-09-18T17:17:15 https://www.scworld.com/perspective/how-teams-can-patch-faster-when-a-bug-gets-added-to-cisas-kev
 2026-09-18T17:19:49 https://cyberscoop.com/hacktron-ai-heif-heist-vulnerability
 2026-09-18T17:28:03 https://community.citrix.com/techzone-blogs/netscaler/how-do-i-automate-tls-certificate-renewal-on-netscaler-console-using-acme-r1618
+2026-09-18T18:02:24 https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html
 2026-09-18T19:44:46 https://www.scworld.com/resource/ai-reshapes-exposure-management-around-real-world-risk-says-brinqa-exec
 2026-09-18T19:56:05 https://databreaches.net/2026/09/18/the-u-s-military-leaked-more-than-93000-tips-via-insecure-p3-global-intel-has-anyone-been-notified
+2026-09-18T20:11:01 https://databreaches.net/2026/09/18/foreign-actors-breach-colorado-water-systems
+2026-09-18T20:24:15 https://cyberscoop.com/scattered-spider-member-guilty-ahmed-elbadawy
+2026-09-18T20:32:40 https://www.scworld.com/news/congress-pledges-mental-health-support-after-cyber-command-suicides
+2026-09-18T20:43:36 https://databreaches.net/2026/09/18/ransomware-attack-on-kansas-county-will-affect-some-services
+2026-09-18T21:00:00 https://www.scworld.com/podcast-segment/15302-bacteria-spartans-ai-gone-wild-cisco-wordpress-settra-plugin4shell-josh-marpet-swn-617
+2026-09-18T21:04:53 https://www.scworld.com/resource/closing-the-ai-control-gap-from-shadow-ai-to-continuous-protection
+2026-09-18T21:06:00 https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html
+2026-09-18T21:38:15 https://securityaffairs.com/199355/hacking/brevo-supply-chain-attack-infected-over-100000-websites.html
+2026-09-18T22:01:00 https://www.scworld.com/news/new-cisa-hosted-vince-nt-system-revealed-for-coordinated-vulnerability-disclosure
