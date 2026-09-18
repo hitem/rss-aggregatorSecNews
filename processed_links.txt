@@ -1952,6 +1952,7 @@
 2026-09-17T23:25:23 http://chromereleases.googleblog.com/2026/09/chrome-for-android-update_01970946217.html
 2026-09-18T02:00:02 https://isc.sans.edu/diary/rss/33350
 2026-09-18T02:28:30 https://www.theregister.com/security/2026/09/18/usas-venezuela-takeover-comes-with-bonus-exposure-to-chinese-ai-surveillance-tech/5297357
+2026-09-18T04:00:00 https://therecord.media/north-korean-hackers-infect-thousands-of-devices-waterplum-scheme
 2026-09-18T04:00:53 https://www.helpnetsecurity.com/2026/09/18/new-infosec-products-of-the-week-september-18-2026
 2026-09-18T04:30:56 https://www.helpnetsecurity.com/2026/09/18/wordpress-security-survey-recovery-plan
 2026-09-18T05:00:00 http://www.zerodayinitiative.com/advisories/ZDI-26-715
@@ -2005,3 +2006,16 @@
 2026-09-18T15:44:09 https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast
 2026-09-18T15:48:21 https://cyberscoop.com/north-korea-waterplum-job-seeker-crypto-attacks
 2026-09-18T16:00:00 https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang
+2026-09-18T16:19:27 https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499
+2026-09-18T16:43:32 http://chromereleases.googleblog.com/2026/09/chrome-dev-for-desktop-update_01634269358.html
+2026-09-18T16:52:04 https://www.csoonline.com/article/4223933/cisa-is-ending-its-monthly-vulnerability-bulletin.html
+2026-09-18T16:53:00 https://www.theregister.com/security/2026/09/18/north-koreas-fake-job-interviews-infected-30000-devices/5297461
+2026-09-18T16:56:19 https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html
+2026-09-18T16:58:32 http://chromereleases.googleblog.com/2026/09/chrome-dev-for-android-update_01287307620.html
+2026-09-18T17:10:37 https://securityaffairs.com/199338/data-breach/gyazo-data-breach-exposes-23-million-user-records.html
+2026-09-18T17:16:00 https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517
+2026-09-18T17:17:15 https://www.scworld.com/perspective/how-teams-can-patch-faster-when-a-bug-gets-added-to-cisas-kev
+2026-09-18T17:19:49 https://cyberscoop.com/hacktron-ai-heif-heist-vulnerability
+2026-09-18T17:28:03 https://community.citrix.com/techzone-blogs/netscaler/how-do-i-automate-tls-certificate-renewal-on-netscaler-console-using-acme-r1618
+2026-09-18T19:44:46 https://www.scworld.com/resource/ai-reshapes-exposure-management-around-real-world-risk-says-brinqa-exec
+2026-09-18T19:56:05 https://databreaches.net/2026/09/18/the-u-s-military-leaked-more-than-93000-tips-via-insecure-p3-global-intel-has-anyone-been-notified
