@@ -1940,3 +1940,4 @@
 2026-09-17T21:37:53 https://www.scworld.com/resource/from-autonomous-agent-to-trusted-worker-building-identity-and-accountability-for-ai-agents
 2026-09-17T22:20:14 https://ubuntu.com/security/notices/USN-8779-2
 2026-09-17T22:42:29 https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335
+2026-09-17T23:07:21 https://securityaffairs.com/199302/ai/openai-admits-its-models-lie-to-cover-their-own-mistakes.html
