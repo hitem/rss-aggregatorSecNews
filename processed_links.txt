@@ -2054,3 +2054,4 @@
 2026-09-19T14:04:50 https://databreaches.net/2026/09/19/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang
 2026-09-19T14:09:34 https://securityaffairs.com/199392/ai/google-gemini-also-broke-out-of-its-test-environment.html
 2026-09-19T14:25:00 https://www.theregister.com/security/2026/09/19/agentic-security-is-the-billion-dollar-challenge-for-some-clever-startup-to-solve/5297546
+2026-09-19T17:30:00 https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies
