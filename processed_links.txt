@@ -2032,3 +2032,4 @@
 2026-09-18T21:38:15 https://securityaffairs.com/199355/hacking/brevo-supply-chain-attack-infected-over-100000-websites.html
 2026-09-18T22:01:00 https://www.scworld.com/news/new-cisa-hosted-vince-nt-system-revealed-for-coordinated-vulnerability-disclosure
 2026-09-19T00:47:51 https://databreaches.net/2026/09/18/hhs-office-for-civil-rights-settles-hipaa-investigation-of-ambry-genetics-for-security-rule-violations
+2026-09-19T02:22:54 https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees
