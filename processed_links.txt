@@ -1979,6 +1979,7 @@
 2026-09-18T08:49:00 https://www.helpnetsecurity.com/2026/09/18/plugin4shell-ai-coding-agents-vulnerability
 2026-09-18T08:50:47 https://ubuntu.com/security/notices/USN-8781-1
 2026-09-18T08:55:00 https://www.helpnetsecurity.com/2026/09/18/arcjet-agent-runtime-security
+2026-09-18T09:00:00 https://www.welivesecurity.com/en/privacy/nudify-apps-fake-nude-you
 2026-09-18T09:18:03 https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html
 2026-09-18T10:00:00 https://www.infosecurity-magazine.com/news/cisa-upgrades-vulnerability
 2026-09-18T10:04:52 https://securityaffairs.com/199317/malware/rathat-turns-android-accessibility-into-an-attack-weapon.html
@@ -2033,3 +2034,12 @@
 2026-09-18T22:01:00 https://www.scworld.com/news/new-cisa-hosted-vince-nt-system-revealed-for-coordinated-vulnerability-disclosure
 2026-09-19T00:47:51 https://databreaches.net/2026/09/18/hhs-office-for-civil-rights-settles-hipaa-investigation-of-ambry-genetics-for-security-rule-violations
 2026-09-19T02:22:54 https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees
+2026-09-19T06:24:10 https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html
+2026-09-19T07:14:54 https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html
+2026-09-19T07:51:34 https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html
+2026-09-19T08:18:54 https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html
+2026-09-19T09:00:00 https://www.wired.com/gallery/best-vpn
+2026-09-19T09:31:17 https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html
+2026-09-19T10:01:10 https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html
+2026-09-19T11:00:00 https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion
+2026-09-19T11:13:37 https://databreaches.net/2026/09/19/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai
