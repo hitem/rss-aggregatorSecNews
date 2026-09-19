@@ -2043,3 +2043,14 @@
 2026-09-19T10:01:10 https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html
 2026-09-19T11:00:00 https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion
 2026-09-19T11:13:37 https://databreaches.net/2026/09/19/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai
+2026-09-19T12:22:42 https://www.scworld.com/tech-explainer/the-ai-security-control-problem-why-ai-requires-a-different-security-discipline
+2026-09-19T12:45:25 https://databreaches.net/2026/09/19/national-cancer-centre-e-mail-lapse-allegedly-exposes-patients-details
+2026-09-19T12:46:05 https://www.scworld.com/tech-explainer/what-ot-resilience-actually-controls
+2026-09-19T12:58:03 https://www.scworld.com/implementation-guides/how-to-build-an-ot-security-operating-model
+2026-09-19T13:01:08 https://securityaffairs.com/199378/ai/ai-helps-hackers-hijack-openai-staff-accounts-through-a-forum.html
+2026-09-19T13:13:49 https://www.scworld.com/tech-explainer/spear-phishing-how-the-attack-works-and-how-to-stop-it
+2026-09-19T13:28:41 https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html
+2026-09-19T13:31:03 https://www.scworld.com/executive-decision-guide/what-model-access-failure-costs-the-business
+2026-09-19T14:04:50 https://databreaches.net/2026/09/19/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang
+2026-09-19T14:09:34 https://securityaffairs.com/199392/ai/google-gemini-also-broke-out-of-its-test-environment.html
+2026-09-19T14:25:00 https://www.theregister.com/security/2026/09/19/agentic-security-is-the-billion-dollar-challenge-for-some-clever-startup-to-solve/5297546
