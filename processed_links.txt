@@ -1999,6 +1999,7 @@
 2026-09-18T14:00:00 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88097
 2026-09-18T14:00:14 https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai
 2026-09-18T14:29:00 https://therecord.media/nations-take-action-on-north-korean-it-worker-schemes
+2026-09-18T14:38:46 https://www.scworld.com/brief/ai-agents-can-modify-themselves-raising-security-concerns
 2026-09-18T14:42:38 https://www.cybersecuritydive.com/news/cisa-vulnerability-bulletins-sunset-prioritization/830779
 2026-09-18T15:18:40 https://www.csoonline.com/article/4223898/ghostcode-attackers-abuse-device-codes-to-take-over-microsoft-365-accounts-2.html
 2026-09-18T15:24:16 https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html
@@ -2030,3 +2031,4 @@
 2026-09-18T21:06:00 https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html
 2026-09-18T21:38:15 https://securityaffairs.com/199355/hacking/brevo-supply-chain-attack-infected-over-100000-websites.html
 2026-09-18T22:01:00 https://www.scworld.com/news/new-cisa-hosted-vince-nt-system-revealed-for-coordinated-vulnerability-disclosure
+2026-09-19T00:47:51 https://databreaches.net/2026/09/18/hhs-office-for-civil-rights-settles-hipaa-investigation-of-ambry-genetics-for-security-rule-violations
