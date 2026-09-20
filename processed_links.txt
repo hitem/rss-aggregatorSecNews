@@ -2058,3 +2058,5 @@
 2026-09-20T00:08:59 https://securityaffairs.com/199400/security/security-affairs-newsletter-round-595-by-pierluigi-paganini-international-edition.html
 2026-09-20T08:00:21 https://www.helpnetsecurity.com/2026/09/20/week-in-review-cisco-patches-exploited-email-gateway-0-day-revolut-breach
 2026-09-20T12:22:06 https://securityaffairs.com/199409/malware/security-affairs-malware-newsletter-round-115.html
+2026-09-20T13:44:39 https://securityaffairs.com/199415/ai/ai-hallucination-nearly-triggered-a-us-china-military-confrontation.html
+2026-09-20T16:12:59 https://securityaffairs.com/199430/security/u-s-cisa-adds-linux-kernel-flaws-to-its-known-exploited-vulnerabilities-catalog-2.html
