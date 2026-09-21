@@ -2060,3 +2060,7 @@
 2026-09-20T12:22:06 https://securityaffairs.com/199409/malware/security-affairs-malware-newsletter-round-115.html
 2026-09-20T13:44:39 https://securityaffairs.com/199415/ai/ai-hallucination-nearly-triggered-a-us-china-military-confrontation.html
 2026-09-20T16:12:59 https://securityaffairs.com/199430/security/u-s-cisa-adds-linux-kernel-flaws-to-its-known-exploited-vulnerabilities-catalog-2.html
+2026-09-21T04:00:31 https://www.helpnetsecurity.com/2026/09/21/ai-compliance-issues-research
+2026-09-21T04:30:55 https://www.helpnetsecurity.com/2026/09/21/6g-intent-injection-attacks
+2026-09-21T05:00:32 https://www.helpnetsecurity.com/2026/09/21/gopass-open-source-password-manager
+2026-09-21T05:15:12 https://isc.sans.edu/diary/rss/33354
