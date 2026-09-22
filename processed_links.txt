@@ -2171,6 +2171,7 @@
 2026-09-22T04:00:23 https://www.helpnetsecurity.com/2026/09/22/cybersecurity-jobs-available-right-now-september-22-2026
 2026-09-22T04:30:28 https://www.helpnetsecurity.com/2026/09/22/idc-european-ai-spending
 2026-09-22T04:42:58 http://chromereleases.googleblog.com/2026/09/long-term-support-channel-update-for_01751285105.html
+2026-09-22T05:00:00 http://www.zerodayinitiative.com/advisories/ZDI-26-719
 2026-09-22T05:00:49 https://www.helpnetsecurity.com/2026/09/22/passwork-nis2-compliance-guide
 2026-09-22T05:31:59 https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html
 2026-09-22T06:03:14 https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html
@@ -2219,6 +2220,8 @@
 2026-09-22T13:20:05 https://ubuntu.com/security/notices/USN-8802-1
 2026-09-22T13:46:45 https://www.helpnetsecurity.com/2026/09/22/elsevier-domains-hijack-lapsus
 2026-09-22T13:56:55 https://www.helpnetsecurity.com/2026/09/22/cairn-open-source-framework-ai-malware-closedquorum
+2026-09-22T14:00:00 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-55134
+2026-09-22T14:00:00 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-57091
 2026-09-22T14:00:00 https://play.prx.org/listen
 2026-09-22T14:00:00 https://www.infosecurity-magazine.com/news/north-korean-waterplum-30000
 2026-09-22T14:04:00 https://securityaffairs.com/199538/hacking/chaotic-eclipse-released-bigdiskbuster-a-poc-for-windows-defender-update-dos-zero-day.html
@@ -2250,6 +2253,20 @@
 2026-09-22T16:52:54 https://www.scworld.com/perspective/we-can-take-down-the-hackers-but-its-up-to-us-to-make-ot-environments-safe
 2026-09-22T17:03:31 https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html
 2026-09-22T17:24:13 https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385
+2026-09-22T17:58:15 https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html
+2026-09-22T18:03:10 https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html
+2026-09-22T18:19:01 http://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0856730748.html
+2026-09-22T18:19:05 http://chromereleases.googleblog.com/2026/09/extended-stable-update-for-desktop_01917179067.html
+2026-09-22T18:20:17 http://chromereleases.googleblog.com/2026/09/chrome-for-android-update_0557044394.html
+2026-09-22T18:29:39 https://thehackernews.com/2026/09/check-point-warns-of-management-server.html
 2026-09-22T18:40:30 https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data
 2026-09-22T18:43:51 https://databreaches.net/2026/09/22/shinyhunters-escalates-dispute-with-fbi-claims-to-have-seized-job-applicants-site-and-acquired-data
 2026-09-22T18:47:07 https://cyberscoop.com/volexity-uta0565-china-exploit-chain-chrome-microsoft
+2026-09-22T19:31:40 https://securityaffairs.com/199549/security/check-point-fixes-a-new-actively-exploited-critical-security-flaw.html
+2026-09-22T19:52:00 https://therecord.media/canadian-regulator-opens-probe-of-idscan-following-data-breach
+2026-09-22T20:13:16 https://www.scworld.com/news/just-13-of-network-segments-are-ot-only-says-forescout-research
+2026-09-22T20:40:34 https://www.csoonline.com/article/4225175/microsofts-eviltokens-takedown-sheds-light-on-state-of-ai-powered-cybercrime.html
+2026-09-22T21:00:00 https://www.scworld.com/podcast-segment/15304-wwiii-debt-jfk-cisa-suse-openai-google-dora-aaran-leyland-and-more-swn-618
+2026-09-22T21:14:32 https://cyberscoop.com/gottheimer-ai-cyber-defense-act-cisa-pilot
+2026-09-22T21:30:01 https://databreaches.net/2026/09/22/elsevier-evolve-clinicalpharmacology-and-gsdd-apis-hijacked-lapsus-redirect-campaign
+2026-09-22T21:33:29 https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435
