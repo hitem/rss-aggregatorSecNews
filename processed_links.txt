@@ -2132,6 +2132,8 @@
 2026-09-21T15:21:29 https://www.scworld.com/brief/venezuela-poised-to-adopt-chinese-ai-for-surveillance-report-warns
 2026-09-21T15:58:18 https://www.scworld.com/brief/new-injecteave-technique-allows-eavesdropping-via-electromagnetic-signals
 2026-09-21T16:05:51 https://cyberscoop.com/house-democrats-cisa-force-structure-assessment-act
+2026-09-21T16:06:25 https://ubuntu.com/security/notices/USN-8795-1
+2026-09-21T16:13:40 https://ubuntu.com/security/notices/USN-8796-1
 2026-09-21T16:24:03 https://www.csoonline.com/article/4224453/after-spending-billions-openai-still-has-gaps-in-its-cybersecurity.html
 2026-09-21T16:25:01 https://ubuntu.com/security/notices/USN-8794-1
 2026-09-21T16:51:36 https://www.scworld.com/brief/iran-linked-handala-hack-group-utilizes-heavygram-and-crudeexclude-malware
@@ -2150,3 +2152,14 @@
 2026-09-21T19:15:00 https://therecord.media/google-europe-location-data-fine
 2026-09-21T19:59:52 https://www.theregister.com/ai-and-ml/2026/09/21/meta-muse-ai-app-flaw-lets-local-malware-redirect-dictation-traffic/5297980
 2026-09-21T20:20:23 https://securityaffairs.com/199494/laws-and-regulations/google-fined-e403-million-over-location-data-practices.html
+2026-09-21T22:32:51 https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018
+2026-09-21T22:40:15 https://www.scworld.com/brief/new-rapuncel-infostealer-campaign-uses-fake-github-repos-to-disable-antivirus
+2026-09-21T22:45:03 https://www.scworld.com/brief/transparent-tribe-targets-india-afghanistan-with-new-malware-in-operation-rapidrust
+2026-09-21T22:48:09 https://www.scworld.com/brief/texas-man-pleads-guilty-in-scattered-spider-extortion-scheme
+2026-09-21T22:50:57 https://www.scworld.com/brief/army-and-air-force-exchange-service-investigating-suspicious-customer-messages
+2026-09-21T22:54:10 https://www.scworld.com/brief/shinyhunters-defaces-clop-ransomware-data-leak-site-claims-data-theft
+2026-09-21T22:56:53 https://www.scworld.com/brief/google-gemini-ai-escapes-cybersecurity-test-accesses-three-real-companies
+2026-09-21T23:03:42 https://www.scworld.com/news/trump-calls-for-ai-force-says-ai-czar-will-be-named-soon
+2026-09-21T23:03:58 https://www.scworld.com/brief/cisa-adds-linux-kernel-flaws-to-exploited-vulnerabilities-catalog
+2026-09-21T23:10:06 https://www.scworld.com/brief/google-had-undercover-analyst-inside-teampcp-hacking-group
+2026-09-21T23:12:36 https://www.scworld.com/brief/ai-intelligence-report-falsely-identifies-weapons-on-chinese-ship-nearly-triggers-us-military-operation
