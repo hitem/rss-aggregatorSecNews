@@ -2079,6 +2079,7 @@
 2026-09-21T09:00:00 https://www.cybersecuritydive.com/spons/securitys-30-year-habit-layering-around-the-problem/830105
 2026-09-21T09:00:00 https://www.infosecurity-magazine.com/news/revolut-customers-targeted-wave
 2026-09-21T09:00:00 https://www.scworld.com/podcast-segment/15202-cyber-resilience-with-cohesity-when-to-use-ai-for-writing-and-the-news-rob-sadowski-esw-477
+2026-09-21T09:00:00 https://www.welivesecurity.com/en/business-security/smb-cybersecurity-squeeze-ai-agents-work-old-attacks-overdrive
 2026-09-21T09:30:00 https://www.infosecurity-magazine.com/news/experts-gyazos-breach-490-million
 2026-09-21T09:39:44 https://www.helpnetsecurity.com/2026/09/21/siemba-idor-automated-testing
 2026-09-21T10:00:40 https://securelist.com/tr/payload-ransomware-via-group-policy/121335
@@ -2163,3 +2164,9 @@
 2026-09-21T23:03:58 https://www.scworld.com/brief/cisa-adds-linux-kernel-flaws-to-exploited-vulnerabilities-catalog
 2026-09-21T23:10:06 https://www.scworld.com/brief/google-had-undercover-analyst-inside-teampcp-hacking-group
 2026-09-21T23:12:36 https://www.scworld.com/brief/ai-intelligence-report-falsely-identifies-weapons-on-chinese-ship-nearly-triggers-us-military-operation
+2026-09-22T01:02:19 https://www.csoonline.com/article/4224570/gemini-broke-into-3-companies-but-google-kept-it-quiet-because-no-damage-was-done.html
+2026-09-22T03:48:17 https://www.helpnetsecurity.com/2026/09/22/davmail-7-0-0-microsoft-graph
+2026-09-22T03:50:10 https://isc.sans.edu/diary/rss/33356
+2026-09-22T04:00:23 https://www.helpnetsecurity.com/2026/09/22/cybersecurity-jobs-available-right-now-september-22-2026
+2026-09-22T04:30:28 https://www.helpnetsecurity.com/2026/09/22/idc-european-ai-spending
+2026-09-22T05:00:49 https://www.helpnetsecurity.com/2026/09/22/passwork-nis2-compliance-guide
