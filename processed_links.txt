@@ -2270,3 +2270,15 @@
 2026-09-22T21:14:32 https://cyberscoop.com/gottheimer-ai-cyber-defense-act-cisa-pilot
 2026-09-22T21:30:01 https://databreaches.net/2026/09/22/elsevier-evolve-clinicalpharmacology-and-gsdd-apis-hijacked-lapsus-redirect-campaign
 2026-09-22T21:33:29 https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435
+2026-09-22T22:30:07 https://www.scworld.com/brief/new-exvicy-malware-as-a-service-framework-copies-rivals-code
+2026-09-22T22:32:28 https://www.scworld.com/brief/microsoft-entra-id-to-retire-sms-sign-in-in-2027
+2026-09-22T22:37:29 https://www.scworld.com/brief/fbi-cjis-security-policy-updates-to-version-6-1
+2026-09-22T22:38:37 https://www.scworld.com/brief/u-s-jails-adopt-continuous-biometric-monitoring-amid-data-privacy-concerns
+2026-09-22T22:43:14 https://www.scworld.com/brief/byd-shark-6-remotely-hacked-exposing-vehicle-controls-and-cabin-audio
+2026-09-22T22:48:07 https://www.scworld.com/brief/taskstomp-campaign-uses-powershell-backdoor-for-data-theft
+2026-09-22T22:53:05 https://www.scworld.com/brief/amazon-blocks-metas-muse-ai-agent-from-its-marketplace
+2026-09-22T22:55:50 https://www.scworld.com/brief/va-criticizes-baylor-genetics-for-delayed-notification-after-data-breach
+2026-09-22T23:02:25 https://www.scworld.com/brief/bigcommerce-merchants-impacted-by-third-party-app-data-breach
+2026-09-22T23:47:43 https://cyberscoop.com/shinyhunters-claims-fbi-attack
+2026-09-23T00:39:51 https://www.csoonline.com/article/4225264/ai-malware-just-removed-the-human-from-the-attack-loop.html
+2026-09-23T00:46:03 https://isc.sans.edu/diary/rss/33360
