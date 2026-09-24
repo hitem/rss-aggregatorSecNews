@@ -2415,3 +2415,13 @@
 2026-09-23T23:33:59 https://www.scworld.com/brief/d-link-warns-of-critical-vulnerabilities-in-legacy-dir-822a-routers-with-public-exploit-code
 2026-09-23T23:47:09 https://www.scworld.com/brief/malicious-bot-traffic-surges-124-overwhelming-website-defenses
 2026-09-23T23:52:58 https://databreaches.net/2026/09/23/fbi-hack-exposed-fbis-own-hacking-unit
+2026-09-24T00:03:03 https://www.theregister.com/security/2026/09/24/openai-agents-infiltrated-australian-government-website/5298702
+2026-09-24T00:20:47 https://ubuntu.com/security/notices/USN-8810-1
+2026-09-24T00:31:36 https://cyberscoop.com/cisa-cve-data-quality-white-paper-expert-reaction
+2026-09-24T02:05:30 https://www.csoonline.com/article/4225812/check-point-hacked-the-security-software-protecting-your-network-has-become-a-prime-attack-target.html
+2026-09-24T02:57:22 https://www.scworld.com/resource/okta-lets-collaborate-not-compete-on-agentic-ai-security
+2026-09-24T03:50:11 https://isc.sans.edu/diary/rss/33364
+2026-09-24T04:00:02 https://www.helpnetsecurity.com/2026/09/24/enisa-eu-cyber-threats-report
+2026-09-24T04:27:02 https://www.helpnetsecurity.com/2026/09/24/ubuntu-kernel-cve-fixes-release-schedule
+2026-09-24T04:30:14 https://www.helpnetsecurity.com/2026/09/24/ot-asset-visibility-challenges
+2026-09-24T05:00:41 https://www.helpnetsecurity.com/2026/09/24/kelly-herrell-nol8-ai-agent-data-security
