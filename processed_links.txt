@@ -2370,6 +2370,7 @@
 2026-09-23T14:10:39 https://databreaches.net/2026/09/23/the-eu-spent-billions-on-a-cyberattack-shield-nobody-checked-if-it-worked
 2026-09-23T14:17:58 https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html
 2026-09-23T14:22:00 https://therecord.media/fbi-investigating-alleged-shinyhunters-job-site-breach
+2026-09-23T14:43:05 https://ubuntu.com/security/notices/USN-8805-1
 2026-09-23T15:00:00 https://www.infosecurity-magazine.com/news/hundreds-leaked-github-app-keys
 2026-09-23T15:00:00 https://www.theregister.com/security/2026/09/23/sponsored-closing-the-observability-gap-for-the-ai-ready-enterprise/5298070
 2026-09-23T15:08:00 https://www.theregister.com/security/2026/09/23/academic-publisher-elsevier-hit-by-lapsus-redirect-attack/5298592
@@ -2418,6 +2419,7 @@
 2026-09-24T00:03:03 https://www.theregister.com/security/2026/09/24/openai-agents-infiltrated-australian-government-website/5298702
 2026-09-24T00:20:47 https://ubuntu.com/security/notices/USN-8810-1
 2026-09-24T00:31:36 https://cyberscoop.com/cisa-cve-data-quality-white-paper-expert-reaction
+2026-09-24T01:39:52 https://ubuntu.com/security/notices/USN-8811-1
 2026-09-24T02:05:30 https://www.csoonline.com/article/4225812/check-point-hacked-the-security-software-protecting-your-network-has-become-a-prime-attack-target.html
 2026-09-24T02:57:22 https://www.scworld.com/resource/okta-lets-collaborate-not-compete-on-agentic-ai-security
 2026-09-24T03:50:11 https://isc.sans.edu/diary/rss/33364
@@ -2425,3 +2427,20 @@
 2026-09-24T04:27:02 https://www.helpnetsecurity.com/2026/09/24/ubuntu-kernel-cve-fixes-release-schedule
 2026-09-24T04:30:14 https://www.helpnetsecurity.com/2026/09/24/ot-asset-visibility-challenges
 2026-09-24T05:00:41 https://www.helpnetsecurity.com/2026/09/24/kelly-herrell-nol8-ai-agent-data-security
+2026-09-24T05:36:18 https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html
+2026-09-24T05:44:13 https://securityaffairs.com/199640/malware/closedquorum-the-malware-that-asks-four-ai-models-what-to-do-next.html
+2026-09-24T06:25:06 https://isc.sans.edu/diary/rss/33366
+2026-09-24T06:32:03 https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html
+2026-09-24T07:07:25 https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html
+2026-09-24T08:01:04 https://www.helpnetsecurity.com/2026/09/24/anthropic-claude-ai-faster
+2026-09-24T08:02:31 https://www.helpnetsecurity.com/2026/09/24/apple-ios-27-impersonation-risk-detection
+2026-09-24T08:17:04 https://www.helpnetsecurity.com/2026/09/24/gnome-50-5-security-fixes
+2026-09-24T08:25:00 https://www.csoonline.com/article/567525/hardware-and-firmware-vulnerabilities-a-guide-to-the-threats.html
+2026-09-24T08:30:00 https://www.infosecurity-magazine.com/news/data-top-bottleneck-barrier-threat
+2026-09-24T09:00:00 https://www.csoonline.com/article/4225613/aviation-solved-the-vigilance-problem-ai-just-gave-security-a-worse-one.html
+2026-09-24T09:30:00 https://www.infosecurity-magazine.com/news/75-organizations-microsoft-365
+2026-09-24T09:32:29 https://www.helpnetsecurity.com/2026/09/24/google-private-ai-compute-server-side-memory
+2026-09-24T09:40:43 https://www.helpnetsecurity.com/2026/09/24/remcontrol-android-banking-trojan-fake-tv-app
+2026-09-24T10:00:00 https://cyberscoop.com/how-federal-tax-incentives-can-protect-state-local-cybersecurity-op-ed
+2026-09-24T10:00:21 https://securelist.com/macsync-new-version/121383
+2026-09-24T10:15:00 https://www.infosecurity-magazine.com/news/openai-hacks-australian-medicare
