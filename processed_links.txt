@@ -2523,3 +2523,13 @@
 2026-09-24T18:55:51 https://www.scworld.com/news/critical-jetbrains-teamcity-rce-exploited-by-ransomware-says-cisa
 2026-09-24T18:57:00 https://therecord.media/rydox-criminal-marketplace-operator-pleads-guilty
 2026-09-24T19:01:15 https://www.theregister.com/security/2026/09/24/salesforce-agentforce-vulns-allowed-0-click-crm-data-theft-anonymous-phishing/5298958
+2026-09-24T19:18:41 https://ubuntu.com/security/notices/USN-8821-1
+2026-09-24T19:28:13 https://www.scworld.com/brief/linkedin-introduces-new-tools-to-combat-ai-generated-fake-identities
+2026-09-24T20:13:19 https://ubuntu.com/security/notices/USN-8820-1
+2026-09-24T20:15:00 https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules
+2026-09-24T20:26:22 https://www.csoonline.com/article/4226330/wordpress-patches-a-critical-severity-security-vulnerability.html
+2026-09-24T20:30:00 https://therecord.media/russia-forensics-technology-doj
+2026-09-24T20:50:17 https://securityaffairs.com/199692/cyber-crime/ryuk-member-karen-vardanyan-sentenced-to-two-years-in-u-s-prison.html
+2026-09-24T21:00:00 https://www.scworld.com/podcast-segment/15244-ai-will-save-us-or-not-psw-945
+2026-09-24T21:07:38 https://databreaches.net/2026/09/24/openai-agent-breached-australian-government-health-website-albanese-says
+2026-09-24T21:23:40 https://cyberscoop.com/biotech-critical-infrastructure-cybersecurity-legislation
