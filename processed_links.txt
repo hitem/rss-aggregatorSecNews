@@ -2533,3 +2533,15 @@
 2026-09-24T21:00:00 https://www.scworld.com/podcast-segment/15244-ai-will-save-us-or-not-psw-945
 2026-09-24T21:07:38 https://databreaches.net/2026/09/24/openai-agent-breached-australian-government-health-website-albanese-says
 2026-09-24T21:23:40 https://cyberscoop.com/biotech-critical-infrastructure-cybersecurity-legislation
+2026-09-24T23:00:01 https://www.scworld.com/brief/lookout-launches-social-engineering-protection-for-mobile-devices
+2026-09-24T23:05:14 https://www.scworld.com/brief/new-windows-botnet-offers-ai-credit-draining-and-other-attack-methods
+2026-09-24T23:10:28 https://www.scworld.com/brief/vicarius-launches-ai-engine-to-write-software-flaw-remediation-scripts
+2026-09-24T23:11:16 http://chromereleases.googleblog.com/2026/09/stable-channel-update-for-chromeos_01638908712.html
+2026-09-24T23:16:11 https://www.scworld.com/brief/scammers-impersonating-police-and-government-officials-have-stolen-1-6-billion
+2026-09-24T23:18:22 https://www.scworld.com/brief/new-edr-evasion-technique-proves-difficult-to-detect
+2026-09-24T23:21:59 https://www.scworld.com/brief/f5-patches-critical-zero-day-flaw-exploited-in-big-ip-apm
+2026-09-24T23:32:15 https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012
+2026-09-24T23:34:09 https://www.scworld.com/brief/federal-agencies-fail-to-meet-cloud-security-directive-deadline
+2026-09-24T23:42:13 https://www.scworld.com/brief/new-ransomware-group-n0n-escalates-threats-by-targeting-backups
+2026-09-24T23:52:35 https://www.scworld.com/brief/new-classical-computing-attack-weakens-rsa-encryption
+2026-09-24T23:56:37 https://www.scworld.com/brief/private-gitlab-email-addresses-exposed-in-public-documentation
