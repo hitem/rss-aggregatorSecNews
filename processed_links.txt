@@ -2439,6 +2439,7 @@
 2026-09-24T08:30:00 https://www.infosecurity-magazine.com/news/data-top-bottleneck-barrier-threat
 2026-09-24T08:30:00 https://www.theregister.com/security/2026/09/24/government-contractor-exposed-path-to-immigration-records/5298689
 2026-09-24T09:00:00 https://www.csoonline.com/article/4225613/aviation-solved-the-vigilance-problem-ai-just-gave-security-a-worse-one.html
+2026-09-24T09:00:00 https://www.welivesecurity.com/en/scams/been-told-pay-bitcoin-atm-read-first
 2026-09-24T09:14:21 https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html
 2026-09-24T09:30:00 https://www.infosecurity-magazine.com/news/75-organizations-microsoft-365
 2026-09-24T09:32:29 https://www.helpnetsecurity.com/2026/09/24/google-private-ai-compute-server-side-memory
@@ -2545,3 +2546,9 @@
 2026-09-24T23:42:13 https://www.scworld.com/brief/new-ransomware-group-n0n-escalates-threats-by-targeting-backups
 2026-09-24T23:52:35 https://www.scworld.com/brief/new-classical-computing-attack-weakens-rsa-encryption
 2026-09-24T23:56:37 https://www.scworld.com/brief/private-gitlab-email-addresses-exposed-in-public-documentation
+2026-09-25T03:45:12 https://isc.sans.edu/diary/rss/33370
+2026-09-25T04:46:34 https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html
+2026-09-25T04:49:22 https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html
+2026-09-25T06:45:47 https://isc.sans.edu/diary/rss/33368
+2026-09-25T09:21:44 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-4450
+2026-09-25T09:35:30 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-2135
