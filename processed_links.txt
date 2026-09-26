@@ -2750,8 +2750,15 @@
 2026-09-26T07:48:33 https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html
 2026-09-26T08:49:53 https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html
 2026-09-26T09:55:22 https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html
+2026-09-26T10:30:00 https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html
 2026-09-26T10:49:26 https://databreaches.net/2026/09/26/labcorp-to-overhaul-data-security-practices-pay-2-3-million-fine-for-cybersecurity-failings
 2026-09-26T10:49:41 https://databreaches.net/2026/09/26/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web
+2026-09-26T11:46:40 https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html
 2026-09-26T11:47:03 https://databreaches.net/2026/09/26/pentagon-data-breach-of-military-personnel-raises-national-security-concerns
 2026-09-26T12:00:00 https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams
 2026-09-26T12:34:33 https://databreaches.net/2026/09/26/poland-reports-a-second-medical-data-cyberattack-in-recent-weeks
+2026-09-26T14:34:26 https://securityaffairs.com/199800/cyber-crime/exploit-in-database-reveals-the-roots-of-todays-ransomware-ecosystem.html
+2026-09-26T15:41:32 https://securityaffairs.com/199815/ai/openai-agents-accessed-us-government-websites-without-authorization.html
+2026-09-26T16:20:04 https://www.scworld.com/tech-explainer/ai-application-security-explained
+2026-09-26T16:29:54 https://www.scworld.com/tech-explainer/ai-red-teaming-vs-traditional-application-security-testing
+2026-09-26T16:47:23 https://www.scworld.com/tech-explainer/mdr-explained-what-it-is-what-it-is-not-and-what-outcome-it-delivers
