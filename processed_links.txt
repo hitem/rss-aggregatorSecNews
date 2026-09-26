@@ -2762,3 +2762,4 @@
 2026-09-26T16:20:04 https://www.scworld.com/tech-explainer/ai-application-security-explained
 2026-09-26T16:29:54 https://www.scworld.com/tech-explainer/ai-red-teaming-vs-traditional-application-security-testing
 2026-09-26T16:47:23 https://www.scworld.com/tech-explainer/mdr-explained-what-it-is-what-it-is-not-and-what-outcome-it-delivers
+2026-09-26T18:22:52 https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html
