@@ -2765,3 +2765,11 @@
 2026-09-26T18:22:52 https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html
 2026-09-27T07:47:57 https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html
 2026-09-27T08:00:49 https://www.helpnetsecurity.com/2026/09/27/week-in-review-gyazo-breach-exposes-23-6m-user-data-taskstomp-steals-documents
+2026-09-27T09:27:52 https://securityaffairs.com/199825/uncategorized/rydox-admin-faces-20-years-after-selling-stolen-data-and-fraud-tools.html
+2026-09-27T12:04:39 https://www.scworld.com/tech-explainer/oauth-token-abuse-how-the-attack-works-and-how-to-stop-it
+2026-09-27T12:15:13 https://www.scworld.com/executive-decision-guide/what-cloud-entitlement-risk-means-for-executive-cloud-security-decisions
+2026-09-27T12:22:53 https://www.scworld.com/tech-explainer/kerberos-how-enterprise-authentication-actually-works
+2026-09-27T13:22:48 https://databreaches.net/2026/09/27/personal-information-of-over-23500-simba-customers-leaked-in-data-breach
+2026-09-27T13:22:57 https://databreaches.net/2026/09/27/uk-ten-nhs-staff-removed-over-noah-woods-data-breach
+2026-09-27T13:23:18 https://databreaches.net/2026/09/27/openais-systems-meddled-with-u-s-government-sites
+2026-09-27T13:40:23 https://securityaffairs.com/199841/breaking-news/security-affairs-newsletter-round-597-by-pierluigi-paganini-international-edition.html
