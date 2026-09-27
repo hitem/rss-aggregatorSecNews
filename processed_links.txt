@@ -2773,3 +2773,9 @@
 2026-09-27T13:22:57 https://databreaches.net/2026/09/27/uk-ten-nhs-staff-removed-over-noah-woods-data-breach
 2026-09-27T13:23:18 https://databreaches.net/2026/09/27/openais-systems-meddled-with-u-s-government-sites
 2026-09-27T13:40:23 https://securityaffairs.com/199841/breaking-news/security-affairs-newsletter-round-597-by-pierluigi-paganini-international-edition.html
+2026-09-27T15:04:49 https://isc.sans.edu/diary/rss/33372
+2026-09-27T15:05:39 https://securityaffairs.com/199850/malware/security-affairs-malware-newsletter-round-116.html
+2026-09-27T15:26:18 https://securityaffairs.com/199862/ai/security-affairs-ai-cybersecurity-newsletter-round-1.html
+2026-09-27T15:28:00 https://community.citrix.com/techzone-blogs/110_security-updates/netscaler-adc-and-netscaler-gateway-security-bulletin-for-cve-2026-88771-through-cve-2026-88778
+2026-09-27T16:09:00 https://www.cert.se/2026/09/information-om-kritiska-sarbarheter-i-citrixnetscaler.html
+2026-09-27T17:29:20 https://securityaffairs.com/199873/security/citrix-confirmed-two-new-netscaler-flaws-exploited-as-zero-day.html
