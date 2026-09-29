@@ -2802,6 +2802,7 @@
 2026-09-28T09:00:00 https://www.cybersecuritydive.com/spons/context-matters-when-it-comes-to-cybersecuritys-agentic-operating-model/830973
 2026-09-28T09:00:00 https://www.cybersecuritydive.com/spons/security-testing-has-to-keep-pace-with-ai-driven-attackers/830603
 2026-09-28T09:00:00 https://www.cybersecuritydive.com/spons/your-attack-surface-is-bigger-than-you-think-and-hackers-know-that/830809
+2026-09-28T09:00:00 https://www.welivesecurity.com/en/business-security/devil-email-wearing-new-mask
 2026-09-28T09:08:21 https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html
 2026-09-28T09:45:00 https://www.infosecurity-magazine.com/news/mcp-creating-major-governance-gaps
 2026-09-28T09:51:32 https://www.helpnetsecurity.com/2026/09/28/citrix-netscaler-rce-zero-days-exploited-for-weeks-cve-2026-88771-cve-2026-88772
@@ -2884,3 +2885,19 @@
 2026-09-29T01:06:28 https://www.csoonline.com/article/4227843/nvidia-releases-open-agent-safety-platform-to-monitor-and-govern-agentic-ai.html
 2026-09-29T02:00:02 https://isc.sans.edu/diary/rss/33378
 2026-09-29T02:13:51 https://www.theregister.com/ai-and-ml/2026/09/29/openais-dirty-deeds-down-under-included-security-bypass-attempts-using-exposed-keys-source-code-siphon/5299666
+2026-09-29T04:00:33 https://www.helpnetsecurity.com/2026/09/29/cybersecurity-jobs-available-right-now-september-29-2026
+2026-09-29T04:30:00 https://www.helpnetsecurity.com/2026/09/29/hottest-cybersecurity-open-source-tools-of-the-month-september-2026
+2026-09-29T04:45:20 https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html
+2026-09-29T05:00:20 https://www.helpnetsecurity.com/2026/09/29/vendor-concentration-risk-video
+2026-09-29T05:12:32 https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html
+2026-09-29T06:08:25 https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html
+2026-09-29T06:27:29 https://securityaffairs.com/199947/ai/gpt-6-astra-and-the-supply-chain-attack-it-wasnt-asked-to-launch.html
+2026-09-29T06:39:42 https://www.helpnetsecurity.com/2026/09/29/github-ai-android-app-vulnerabilities
+2026-09-29T07:30:30 https://securityaffairs.com/199979/cyber-crime/24-year-old-arrested-in-dutch-investigation-into-shinyhunters.html
+2026-09-29T07:52:52 https://ubuntu.com/security/notices/USN-8729-6
+2026-09-29T07:52:53 https://ubuntu.com/security/notices/USN-8816-2
+2026-09-29T07:53:08 https://ubuntu.com/security/notices/USN-8728-3
+2026-09-29T08:03:31 https://ubuntu.com/security/notices/USN-8842-1
+2026-09-29T08:15:18 https://www.helpnetsecurity.com/2026/09/29/anthropic-claude-sonnet-5-5
+2026-09-29T08:46:17 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-91745
+2026-09-29T08:46:34 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-91728
