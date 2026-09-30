@@ -2986,3 +2986,13 @@
 2026-09-29T20:27:25 https://www.scworld.com/news/sc-awards-celebrate-30-years-of-recognizing-the-people-and-technology-advancing-cybersecurity
 2026-09-29T20:35:00 https://therecord.media/controversial-spyware-firm-paragon-to-go-public
 2026-09-29T20:54:29 https://securityaffairs.com/200027/data-breach/japanese-railway-operators-keio-corporation-and-tokyo-metro-disclose-security-breaches.html
+2026-09-29T21:00:00 https://www.scworld.com/podcast-segment/15308-venus-in-furs-money-laundering-ai-hijinx-mcp-thunderbastard-and-aaran-leyland-swn-620
+2026-09-29T21:01:00 https://therecord.media/us-air-force-members-given-6-year-sentence-cyber
+2026-09-29T21:30:22 https://cyberscoop.com/citrix-netscaler-zero-day-attacks-three-weeks-undetected
+2026-09-29T21:34:39 https://www.theregister.com/security/2026/09/29/add-one-more-ai-worry-to-the-nightmare-scenario-self-replicating-prompt-injections/5299922
+2026-09-29T22:19:26 https://www.scworld.com/brief/phantomsub-campaign-uses-101-npm-packages-to-add-developers-to-whatsapp-groups
+2026-09-29T22:21:18 https://www.scworld.com/brief/rig-security-launches-with-12-million-to-manage-ai-agent-identities
+2026-09-29T22:25:31 https://www.scworld.com/brief/vietnamese-national-charged-in-16-million-cryptocurrency-pig-butchering-scam
+2026-09-29T22:33:21 https://www.scworld.com/brief/former-ibm-x-force-red-leaders-launch-ai-powered-offensive-cybersecurity-startup
+2026-09-29T22:35:15 https://www.scworld.com/brief/cloudflare-announces-plans-for-post-quantum-certificate-authority
+2026-09-29T22:38:43 https://www.scworld.com/brief/gtt-launches-ai-powered-network-defense-platform
