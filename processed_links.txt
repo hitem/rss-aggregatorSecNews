@@ -2905,6 +2905,7 @@
 2026-09-29T08:46:17 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-91745
 2026-09-29T08:46:34 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-91728
 2026-09-29T09:00:00 https://www.scworld.com/podcast-segment/15124-going-from-bug-bounty-bugs-to-more-secure-systems-shlomie-liberow-asw-402
+2026-09-29T09:00:00 https://www.welivesecurity.com/en/scams/timeshare-exit-scams-fake-buyers-recovery-scams
 2026-09-29T09:19:24 https://ubuntu.com/security/notices/USN-8819-3
 2026-09-29T09:19:25 https://ubuntu.com/security/notices/USN-8818-3
 2026-09-29T09:30:00 https://www.infosecurity-magazine.com/news/kiteworks-customers-restart
@@ -2996,3 +2997,17 @@
 2026-09-29T22:33:21 https://www.scworld.com/brief/former-ibm-x-force-red-leaders-launch-ai-powered-offensive-cybersecurity-startup
 2026-09-29T22:35:15 https://www.scworld.com/brief/cloudflare-announces-plans-for-post-quantum-certificate-authority
 2026-09-29T22:38:43 https://www.scworld.com/brief/gtt-launches-ai-powered-network-defense-platform
+2026-09-29T22:40:21 https://www.scworld.com/brief/two-former-air-force-members-sentenced-for-bec-scams-and-phishing
+2026-09-30T01:00:45 https://databreaches.net/2026/09/29/data-breach-incident-targets-prisoner-medical-records-at-2-mass-jails
+2026-09-30T02:00:03 https://isc.sans.edu/diary/rss/33384
+2026-09-30T03:09:51 https://www.helpnetsecurity.com/2026/09/30/cloudflare-certificate-authority-2027
+2026-09-30T03:30:01 https://www.helpnetsecurity.com/2026/09/30/relentless-defense-cisco-cybersecurity-survey
+2026-09-30T03:47:25 https://www.helpnetsecurity.com/2026/09/30/microsoft-wsl-containers-available
+2026-09-30T04:00:38 https://www.helpnetsecurity.com/2026/09/30/research-unpatched-vulnerabilities-backlog
+2026-09-30T04:30:17 https://www.helpnetsecurity.com/2026/09/30/bh-haven-sme-cybersecurity-service
+2026-09-30T05:00:53 https://www.helpnetsecurity.com/2026/09/30/rapidfort-cra-container-compliance
+2026-09-30T05:30:30 https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html
+2026-09-30T05:30:36 https://www.helpnetsecurity.com/2026/09/30/owasp-noir-open-source-static-analysis-tool
+2026-09-30T06:31:58 https://www.helpnetsecurity.com/2026/09/30/claude-compliance-api-integrations
+2026-09-30T06:49:24 https://www.helpnetsecurity.com/2026/09/30/genea-mcp
+2026-09-30T07:01:00 https://www.theregister.com/security/2026/09/30/spectre-bug-is-back-this-time-to-haunt-jit-engines/5299937
