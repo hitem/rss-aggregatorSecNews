@@ -3120,3 +3120,4 @@
 2026-09-30T22:00:00 https://community.citrix.com/techzone-blogs/110_security-updates/understanding-netscaler-indicators-of-compromise-what-the-ioc-feature-does-how-it-evolves-and-how-to-interpret-results
 2026-09-30T22:17:34 https://cyberscoop.com/openai-moonshot-ai-model-distillation-attack
 2026-09-30T22:35:00 https://therecord.media/us-sanctions-10-atm-jackpotting-tren-de-aragua
+2026-10-01T02:00:02 https://isc.sans.edu/diary/rss/33386
