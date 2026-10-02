@@ -3221,3 +3221,11 @@
 2026-10-01T21:00:00 https://www.scworld.com/podcast-segment/15246-hacking-without-boundaries-michael-jenkins-psw-946
 2026-10-01T21:26:42 https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652
 2026-10-01T21:55:22 https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation
+2026-10-01T22:42:06 https://www.scworld.com/brief/retailers-face-rising-cyber-threats-with-87-experiencing-incidents
+2026-10-01T22:46:58 https://www.scworld.com/brief/russian-hacking-group-star-blizzard-expands-phishing-operations-with-new-malware-technique
+2026-10-01T22:49:32 https://www.scworld.com/brief/ai-agent-exploits-zero-day-flaws-in-zammad-ticketing-system
+2026-10-01T22:54:58 https://www.scworld.com/brief/uk-security-agency-warns-academics-of-chinas-espionage-efforts
+2026-10-01T22:59:26 https://www.scworld.com/brief/chinese-ransomware-group-warlock-targets-spanish-and-portuguese-speaking-countries
+2026-10-01T23:02:17 https://www.scworld.com/brief/teenager-arrested-in-spain-suspected-of-leading-killsec-ransomware-group
+2026-10-01T23:05:22 https://www.scworld.com/brief/mspalliance-updates-certification-standard-to-include-ai-and-third-party-services
+2026-10-02T01:31:03 https://www.scworld.com/resource/cyber-resilience-is-becoming-a-supply-chain-problem
