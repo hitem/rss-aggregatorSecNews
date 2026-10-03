@@ -3330,3 +3330,4 @@
 2026-10-03T16:46:08 https://www.scworld.com/brief/new-linux-malware-mimics-network-edge-appliances-to-evade-detection
 2026-10-03T16:47:59 https://www.scworld.com/brief/microsoft-x-account-hijacked-for-crypto-scam
 2026-10-03T16:51:00 https://www.scworld.com/brief/researchers-bypass-ai-agent-protections-with-javascript-obfuscation
+2026-10-03T19:33:15 https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance
