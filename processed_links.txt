@@ -3304,4 +3304,9 @@
 2026-10-02T22:43:32 http://chromereleases.googleblog.com/2026/10/chrome-dev-for-android-update.html
 2026-10-02T22:46:18 https://securityaffairs.com/200248/security/u-s-cisa-adds-zammad-gmbh-zammad-flaws-to-its-known-exploited-vulnerabilities-catalog.html
 2026-10-03T00:58:33 http://chromereleases.googleblog.com/2026/10/chrome-dev-for-desktop-update.html
+2026-10-03T08:29:54 https://www.fortra.com/blog/n0n-ransomware-what-you-need-know
 2026-10-03T09:05:04 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-10502
+2026-10-03T09:26:04 https://securityaffairs.com/200264/apt/antino-backdoor-uses-your-inbox-as-its-control-panel.html
+2026-10-03T10:43:39 https://securityaffairs.com/200283/hacking/cve-2026-90970-critical-gitlab-ai-gateway-flaw-fixed.html
+2026-10-03T11:00:00 https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html
+2026-10-03T12:00:00 https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family
