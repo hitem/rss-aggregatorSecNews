@@ -3333,3 +3333,9 @@
 2026-10-03T19:33:15 https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance
 2026-10-03T20:41:36 https://databreaches.net/2026/10/03/italys-data-protection-authority-fines-iqvia-e7-million-over-data-protection-breach
 2026-10-04T01:42:00 https://community.citrix.com/techzone-blogs/110_security-updates/understanding-and-addressing-cve-2026-88779-in-citrix-netscaler-adc-and-citrix-netscaler-gateway
+2026-10-04T07:20:32 https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html
+2026-10-04T07:22:05 https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html
+2026-10-04T07:49:27 https://securityaffairs.com/200304/malware/warlock-ransomware-still-exploits-year-old-sharepoint-flaws-to-hit-critical-infrastructure.html
+2026-10-04T07:58:06 https://securityaffairs.com/200326/breaking-news/security-affairs-newsletter-round-598-by-pierluigi-paganini-international-edition.html
+2026-10-04T07:58:51 https://isc.sans.edu/diary/rss/33394
+2026-10-04T08:00:19 https://www.helpnetsecurity.com/2026/10/04/week-in-review-researcher-breaks-into-microsoft-analytics-service-netscaler-rce-0-day-exploited
