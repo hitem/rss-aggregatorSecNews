@@ -3343,3 +3343,5 @@
 2026-10-04T13:41:21 https://securityaffairs.com/200338/cyber-crime/shinyhunters-suspect-detained-in-jordan-helps-fbi-track-down-the-group.html
 2026-10-04T14:00:02 https://securityaffairs.com/200354/security/security-affairs-malware-newsletter-round-117.html
 2026-10-04T15:28:51 https://securityaffairs.com/200367/ai/security-affairs-ai-cybersecurity-newsletter-round-2.html
+2026-10-04T18:11:25 https://www.scworld.com/brief/frontline-education-data-breach-exposes-employee-social-security-numbers
+2026-10-04T18:13:43 https://www.scworld.com/brief/scammers-increasingly-target-mobile-users-with-banking-fraud
