@@ -3339,3 +3339,7 @@
 2026-10-04T07:58:06 https://securityaffairs.com/200326/breaking-news/security-affairs-newsletter-round-598-by-pierluigi-paganini-international-edition.html
 2026-10-04T07:58:51 https://isc.sans.edu/diary/rss/33394
 2026-10-04T08:00:19 https://www.helpnetsecurity.com/2026/10/04/week-in-review-researcher-breaks-into-microsoft-analytics-service-netscaler-rce-0-day-exploited
+2026-10-04T11:52:23 https://www.troyhunt.com/weekly-update-524
+2026-10-04T13:41:21 https://securityaffairs.com/200338/cyber-crime/shinyhunters-suspect-detained-in-jordan-helps-fbi-track-down-the-group.html
+2026-10-04T14:00:02 https://securityaffairs.com/200354/security/security-affairs-malware-newsletter-round-117.html
+2026-10-04T15:28:51 https://securityaffairs.com/200367/ai/security-affairs-ai-cybersecurity-newsletter-round-2.html
