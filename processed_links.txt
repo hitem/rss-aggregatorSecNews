@@ -3434,3 +3434,6 @@
 2026-10-05T22:09:31 https://www.scworld.com/brief/cling-botnet-exploits-realtek-sdk-flaw-uses-stun-for-c2
 2026-10-05T22:55:13 https://databreaches.net/2026/10/05/cisa-to-keep-cyber-pay-incentives-but-less-staff-will-qualify
 2026-10-05T23:07:17 https://cyberscoop.com/citrix-netscaler-third-exploited-zero-day-vulnerability
+2026-10-06T01:02:05 https://www.csoonline.com/article/4230892/shinyhunters-exploitation-of-a-new-peoplesoft-zero-day-hole-threatens-to-change-enterprise-risk-dynamics.html
+2026-10-06T01:25:24 https://www.csoonline.com/article/4230923/dell-patches-18-critical-flaws-that-could-hand-attackers-the-keys-to-storage-and-kubernetes.html
+2026-10-06T02:06:20 https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-to-they-found-kvm-guest-host-escape-flaw/5301267
