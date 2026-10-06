@@ -1,4 +1,3 @@
-2026-09-06T21:43:17 https://isc.sans.edu/diary/rss/33314
 2026-09-06T23:31:36 https://www.troyhunt.com/weekly-update-520
 2026-09-07T00:00:00 https://www.sophos.com/en-us/blog/dissecting-a-php-web-server-rootkit
 2026-09-07T07:53:04 https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html
@@ -3451,6 +3450,7 @@
 2026-10-06T06:56:57 https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html
 2026-10-06T06:58:56 https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html
 2026-10-06T07:00:00 https://darknetdiaries.com/episode/180
+2026-10-06T07:00:00 https://projectzero.google/2026/10/emergency-patching.html
 2026-10-06T07:01:46 https://securityaffairs.com/200458/security/dell-urges-customers-to-patch-critical-dsu-flaw-that-can-give-attackers-root-access.html
 2026-10-06T08:25:00 https://www.csoonline.com/article/4230247/ai-accelerates-n-day-attacks-as-flaw-disclosures-and-exploits-double.html
 2026-10-06T08:30:00 https://www.infosecurity-magazine.com/news/affiliate-doublecrosses-raas
@@ -3532,6 +3532,21 @@
 2026-10-06T15:46:18 https://ubuntu.com/security/notices/USN-8889-1
 2026-10-06T15:50:44 https://www.scworld.com/brief/vermont-embraces-ai-as-a-power-tool-for-state-employees
 2026-10-06T15:53:00 https://therecord.media/atm-malware-creator-appears-in-nebraska-court
+2026-10-06T16:09:02 https://ubuntu.com/security/notices/USN-8884-1
 2026-10-06T17:00:00 https://www.scworld.com/perspective/mcp-fixed-secret-handling-url-elicitation-moved-the-phishing-risk-into-the-browser
 2026-10-06T17:02:10 https://www.scworld.com/brief/phishing-scam-targets-tourists-applying-for-schengen-visas
 2026-10-06T17:02:30 https://www.scworld.com/brief/financial-phishing-campaigns-exploit-fragmented-hosting-ai-tools
+2026-10-06T17:13:03 http://chromereleases.googleblog.com/2026/10/extended-stable-update-for-desktop_01274589277.html
+2026-10-06T17:13:33 http://chromereleases.googleblog.com/2026/10/chrome-stable-for-ios-update.html
+2026-10-06T17:17:52 http://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html
+2026-10-06T17:32:25 https://www.theregister.com/security/2026/10/06/trump-mobile-customers-data-dumped-and-some-never-even-received-their-gold-device/5301433
+2026-10-06T17:56:12 https://cyberscoop.com/nsa-reorganization-paul-nakasone-ai-cyberthreats
+2026-10-06T18:24:25 https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html
+2026-10-06T18:26:16 https://www.csoonline.com/article/4231356/fbi-removes-contractor-working-with-its-peoplesoft-system-after-data-breach-says-report.html
+2026-10-06T18:38:55 https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html
+2026-10-06T18:42:06 https://www.scworld.com/news/critical-atlassian-flaw-exposes-files-across-eight-products
+2026-10-06T19:55:05 https://cyberscoop.com/california-cipa-pen-register-privacy-lawsuit-bill
+2026-10-06T21:00:00 https://www.scworld.com/podcast-segment/15312-typing-textgrain-netscaler-fortinet-copilot-libreoffice-dots-aaran-leyland-swn-622
+2026-10-06T21:03:37 https://www.scworld.com/resource/changing-the-game-how-ai-forces-organizations-to-revisit-assumptions-about-recovery-and-resilience
+2026-10-06T21:03:58 https://cyberscoop.com/fortibleed-fortinet-vpn-ransomware-fbi-warning
+2026-10-06T21:31:10 https://www.scworld.com/perspective/a-personnel-file-is-a-map-why-the-fbi-breach-matters
