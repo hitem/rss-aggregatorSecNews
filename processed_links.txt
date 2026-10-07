@@ -1,6 +1,3 @@
-2026-09-07T07:53:04 https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html
-2026-09-07T08:30:00 https://www.theregister.com/columnists/2026/09/07/openais-rebel-agent-swarm-died-young-but-its-chilling-logs-live-on/5294446
-2026-09-07T08:31:12 https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html
 2026-09-07T09:15:00 https://www.theregister.com/security/2026/09/07/peers-ask-why-uk-cyber-bill-leaves-execs-off-the-personal-liability-hook/5294586
 2026-09-07T10:06:10 https://www.theregister.com/security/2026/09/07/uk-food-supply-chain-at-risk-from-hostile-attacks/5294719
 2026-09-07T10:30:27 https://www.bitdefender.com/en-us/blog/hotforsecurity/lenovo-login-system-hackers-dropbox
@@ -3454,6 +3451,7 @@
 2026-10-06T08:30:00 https://www.infosecurity-magazine.com/news/affiliate-doublecrosses-raas
 2026-10-06T09:00:00 https://www.csoonline.com/article/4230792/what-exactly-is-isoc-and-what-does-it-mean-for-you.html
 2026-10-06T09:00:00 https://www.scworld.com/podcast-segment/15126-getting-granular-with-access-attributes-and-intent-alex-olivier-asw-403
+2026-10-06T09:00:00 https://www.welivesecurity.com/en/business-security/quest-simplicity-why-smbs-want-advanced-protection-without-complexity
 2026-10-06T09:15:00 https://www.infosecurity-magazine.com/news/police-urge-passkey-surge
 2026-10-06T09:21:47 https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html
 2026-10-06T09:27:57 https://securityaffairs.com/200468/data-breach/fbi-drops-accenture-contractor-after-sensitive-data-breach.html
@@ -3553,3 +3551,20 @@
 2026-10-06T22:00:00 http://chromereleases.googleblog.com/2026/10/chrome-for-android-update_01835271525.html
 2026-10-06T23:29:27 https://www.theregister.com/security/2026/10/07/anthropic-reconfigures-its-cool-kids-security-program/5301509
 2026-10-06T23:59:13 https://databreaches.net/2026/10/06/engineer-sentenced-for-locking-over-3000-devices-on-employers-network
+2026-10-07T01:03:41 http://chromereleases.googleblog.com/2026/10/long-term-support-lts-channel-for.html
+2026-10-07T01:51:40 https://www.csoonline.com/article/4231527/atlassians-critical-flaw-turns-eight-enterprise-products-into-one-big-security-problem.html
+2026-10-07T02:00:02 https://isc.sans.edu/diary/rss/33404
+2026-10-07T03:56:25 https://www.theregister.com/public-sector/2026/10/07/south-korean-president-calls-for-creation-of-tools-that-stop-all-cyber-attacks/5301533
+2026-10-07T03:58:02 https://www.helpnetsecurity.com/2026/10/07/x-org-server-fixed-vulnerabilities
+2026-10-07T04:30:01 https://www.helpnetsecurity.com/2026/10/07/software-security-vulnerability-management-survey
+2026-10-07T04:50:20 https://www.helpnetsecurity.com/2026/10/07/ot-network-visibility-challenges
+2026-10-07T05:00:22 https://www.helpnetsecurity.com/2026/10/07/hcl-software-ai-endpoint-management
+2026-10-07T05:12:21 https://www.helpnetsecurity.com/2026/10/07/openssh-10-6-released
+2026-10-07T05:30:59 https://www.helpnetsecurity.com/2026/10/07/open-source-ai-agent-gateway
+2026-10-07T06:57:54 https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html
+2026-10-07T07:50:21 https://securityaffairs.com/200506/ai/wikimedia-finds-unauthorized-openai-agent-activity-on-wikipedia.html
+2026-10-07T08:20:00 https://www.infosecurity-magazine.com/news/danish-cpr-breach-supply-chain-risk
+2026-10-07T08:25:00 https://www.csoonline.com/article/4231510/ai-is-turning-offensive-security-into-a-continuous-necessity.html
+2026-10-07T08:48:07 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-0612
+2026-10-07T09:00:00 https://www.csoonline.com/article/4231283/your-enterprise-doesnt-need-six-bom-programs-it-needs-one-evidence-graph.html
+2026-10-07T09:00:20 https://www.helpnetsecurity.com/2026/10/07/anthropic-expands-cyber-verification-program
