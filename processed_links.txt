@@ -1,12 +1,3 @@
-2026-09-10T14:44:07 https://community.citrix.com/techzone-blogs/110_security-updates/netscaler-waf-signatures-update-v181%C2%A0-r1612
-2026-09-10T14:45:50 https://community.citrix.com/techzone-blogs/110_security-updates/netscaler-waf-signatures-update-v182%C2%A0-r1613
-2026-09-10T15:32:51 https://ubuntu.com/security/notices/USN-8748-1
-2026-09-10T15:36:46 https://ubuntu.com/security/notices/USN-8745-1
-2026-09-10T15:48:52 https://ubuntu.com/security/notices/USN-8746-1
-2026-09-10T15:56:46 https://ubuntu.com/security/notices/USN-8747-1
-2026-09-10T16:13:33 http://chromereleases.googleblog.com/2026/09/chrome-dev-for-desktop-update_01644394249.html
-2026-09-10T17:47:38 https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html
-2026-09-10T18:49:43 https://www.theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650
 2026-09-10T19:36:17 https://ubuntu.com/security/notices/USN-8571-2
 2026-09-10T19:50:24 https://www.theregister.com/security/2026/09/10/watch-out-apple-timepiece-can-grab-snippets-of-conversation-without-both-speakers-consent/5295666
 2026-09-10T22:38:35 https://www.theregister.com/ai-and-ml/2026/09/10/latest-anthropic-horror-story-chills-with-tales-of-kamikaze-drone-swarms-and-bioweapons-research/5295702
@@ -2713,3 +2704,4 @@
 2026-10-10T11:57:52 https://databreaches.net/2026/10/10/fbi-announces-yet-another-arrest-allegedly-connected-to-the-fbi-jobs-hack
 2026-10-10T12:00:00 https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals
 2026-10-10T13:35:50 https://cyberscoop.com/edward-dubrovsky-cypfer-arrested-fbi-extortion-charges
+2026-10-10T15:05:54 https://securityaffairs.com/200719/cyber-crime/silent-ransom-group-allegedly-extorted-207-million-without-encrypting-files.html
