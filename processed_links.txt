@@ -1,17 +1,3 @@
-2026-09-11T20:37:33 https://www.troyhunt.com/weekly-update-521
-2026-09-11T21:03:27 https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html
-2026-09-11T21:30:00 https://www.cert.se/2026/09/gitlab-rattar-kritiska-sarbarheter.html
-2026-09-11T22:58:23 https://community.citrix.com/techzone-blogs/netscaler/how-do-i-get-started-with-netscaler-ai-gateway-for-enterprise-llm-deployments-r1615
-2026-09-11T23:49:30 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85042
-2026-09-11T23:49:33 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85043
-2026-09-11T23:49:35 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85045
-2026-09-11T23:49:36 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85048
-2026-09-11T23:49:38 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85049
-2026-09-11T23:49:39 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85051
-2026-09-11T23:49:40 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85052
-2026-09-11T23:49:42 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85053
-2026-09-11T23:49:52 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-76036
-2026-09-11T23:49:53 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-76039
 2026-09-12T01:01:52 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-76017
 2026-09-12T01:01:54 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-76018
 2026-09-12T01:01:56 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-76019
