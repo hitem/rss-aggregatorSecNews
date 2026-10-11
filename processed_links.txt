@@ -1,7 +1,3 @@
-2026-09-11T16:15:29 https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html
-2026-09-11T16:30:18 https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html
-2026-09-11T17:43:30 https://www.theregister.com/security/2026/09/11/more-jfrog-artifactory-bugs-under-attack-and-all-3-have-patches/5295943
-2026-09-11T18:06:24 https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html
 2026-09-11T20:37:33 https://www.troyhunt.com/weekly-update-521
 2026-09-11T21:03:27 https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html
 2026-09-11T21:30:00 https://www.cert.se/2026/09/gitlab-rattar-kritiska-sarbarheter.html
@@ -2684,3 +2680,14 @@
 2026-10-11T13:51:15 https://databreaches.net/2026/10/11/the-luna-moth-files-werent-hacked-heres-how-they-leaked
 2026-10-11T14:41:18 https://securityaffairs.com/200759/malware/bitdefender-finds-preinstalled-android-malware-you-cant-uninstall-seen-in-150-countries.html
 2026-10-11T15:23:21 https://securityaffairs.com/200775/breaking-news/security-affairs-malware-newsletter-round-118.html
+2026-10-11T17:45:19 https://www.scworld.com/brief/leader-of-child-sextortion-group-764-pleads-guilty
+2026-10-11T17:49:34 https://www.scworld.com/brief/uk-privacy-watchdog-secures-ai-company-commitments-on-data-protection
+2026-10-11T17:56:06 https://www.scworld.com/brief/joint-alert-details-chinese-cyber-activity-linked-to-integrity-technology-group
+2026-10-11T17:56:32 https://www.scworld.com/brief/quantum-computing-threat-to-data-security-requires-immediate-preparation
+2026-10-11T17:59:28 https://www.scworld.com/brief/microsoft-to-end-security-updates-for-unsupported-windows-versions-in-2027
+2026-10-11T17:59:52 https://www.scworld.com/brief/microsoft-announces-new-ai-security-features-and-copilot-pcs
+2026-10-11T18:02:51 https://www.scworld.com/brief/critical-vulnerabilities-in-ahsaycbs-exploited-for-webshells-and-crypto-miners
+2026-10-11T18:03:03 https://www.scworld.com/brief/anydesk-linux-exploit-grants-root-access-before-connection-approval
+2026-10-11T18:07:53 https://www.scworld.com/brief/openai-revenue-miss-shakes-ai-stocks-but-innovation-continues
+2026-10-11T18:08:13 https://www.scworld.com/brief/ai-agents-make-identity-the-front-line-of-enterprise-security
+2026-10-11T18:43:54 https://securityaffairs.com/200794/ai/security-affairs-ai-cybersecurity-newsletter-round-3.html
