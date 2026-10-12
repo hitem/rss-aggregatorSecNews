@@ -2665,6 +2665,7 @@
 2026-10-11T18:07:53 https://www.scworld.com/brief/openai-revenue-miss-shakes-ai-stocks-but-innovation-continues
 2026-10-11T18:08:13 https://www.scworld.com/brief/ai-agents-make-identity-the-front-line-of-enterprise-security
 2026-10-11T18:43:54 https://securityaffairs.com/200794/ai/security-affairs-ai-cybersecurity-newsletter-round-3.html
+2026-10-11T23:00:00 https://therecord.media/cyberattack-disrupts-refridgeration-in-france
 2026-10-12T01:55:21 https://www.scworld.com/brief/amazon-bedrock-agent-vulnerability-allowed-credential-theft-and-code-access
 2026-10-12T01:55:40 https://www.scworld.com/brief/hackers-use-bing-redirects-in-google-ads-for-fake-claude-installers
 2026-10-12T01:59:49 https://www.scworld.com/brief/new-characters-allow-lookalike-domains-to-fool-browsers
@@ -2727,5 +2728,19 @@
 2026-10-12T14:55:57 https://www.cybersecuritydive.com/news/gitlab-vulnerability-remote-code-execution/832736
 2026-10-12T15:01:26 https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html
 2026-10-12T15:15:00 https://www.infosecurity-magazine.com/news/luna-moth-leaks-ransomware-playbook
+2026-10-12T15:16:26 https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html
 2026-10-12T15:24:07 https://ubuntu.com/security/notices/USN-8914-1
+2026-10-12T15:27:12 https://www.cybersecuritydive.com/news/cisa-citrix-netscaler-customers-patch-new-flaws-disclosed/832741
 2026-10-12T15:37:51 https://www.scworld.com/tech-explainer/deepfake-assisted-identity-fraud-risks-detection-and-controls
+2026-10-12T16:00:00 https://www.scworld.com/podcast-segment/14664-exposure-management-stop-measuring-controls-start-measuring-risk-heather-ceylan-csp-229
+2026-10-12T16:07:33 https://www.helpnetsecurity.com/2026/10/12/france-cyberattack-supermarket-freezers
+2026-10-12T17:00:00 https://www.scworld.com/perspective/the-highest-risk-for-ai-agents-is-the-software-development-organization
+2026-10-12T17:05:04 https://www.scworld.com/brief/japanese-karaoke-maker-daiichi-kosho-reports-data-breach-affecting-8-7-million-records
+2026-10-12T17:13:33 https://www.theregister.com/ai-and-ml/2026/10/12/chatbot-refuseniks-edge-out-users-in-the-us-and-theyre-not-for-turning/5302690
+2026-10-12T17:33:37 https://www.scworld.com/brief/gta-6-leaker-cyberleek-threatens-playable-build-release-for-crypto-coin
+2026-10-12T18:12:10 https://cyberscoop.com/ionq-acquires-elisity-1-3-billion-quantum-security
+2026-10-12T19:19:47 https://www.scworld.com/news/critical-bricksforge-wordpress-flaw-exploited-in-attacks
+2026-10-12T20:00:00 https://www.cybersecuritydive.com/news/ahold-delhaize-adusa-cybersecurity/832750
+2026-10-12T20:02:20 https://securityaffairs.com/200832/security/canonical-hit-by-second-ddos-attack-in-2026.html
+2026-10-12T21:26:12 https://securityaffairs.com/200847/cyber-crime/shinyhunters-arrest-number-three-a-canadian-ransomware-negotiator.html
+2026-10-12T22:11:50 https://cyberscoop.com/flock-cve-numbering-authority-cna
