@@ -1,10 +1,3 @@
-2026-09-12T01:01:52 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-76017
-2026-09-12T01:01:54 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-76018
-2026-09-12T01:01:56 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-76019
-2026-09-12T01:01:57 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-76021
-2026-09-12T01:01:59 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-76022
-2026-09-12T01:02:00 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-76023
-2026-09-12T04:56:50 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87491
 2026-09-12T06:48:55 http://chromereleases.googleblog.com/2026/09/long-term-support-channel-update-for_0889074137.html
 2026-09-12T09:07:56 https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html
 2026-09-12T10:24:44 https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html
@@ -2677,3 +2670,12 @@
 2026-10-11T18:07:53 https://www.scworld.com/brief/openai-revenue-miss-shakes-ai-stocks-but-innovation-continues
 2026-10-11T18:08:13 https://www.scworld.com/brief/ai-agents-make-identity-the-front-line-of-enterprise-security
 2026-10-11T18:43:54 https://securityaffairs.com/200794/ai/security-affairs-ai-cybersecurity-newsletter-round-3.html
+2026-10-12T01:55:21 https://www.scworld.com/brief/amazon-bedrock-agent-vulnerability-allowed-credential-theft-and-code-access
+2026-10-12T01:55:40 https://www.scworld.com/brief/hackers-use-bing-redirects-in-google-ads-for-fake-claude-installers
+2026-10-12T01:59:49 https://www.scworld.com/brief/new-characters-allow-lookalike-domains-to-fool-browsers
+2026-10-12T02:00:03 https://isc.sans.edu/diary/rss/33416
+2026-10-12T02:53:18 https://ubuntu.com/security/notices/USN-8912-1
+2026-10-12T04:00:49 https://www.helpnetsecurity.com/2026/10/12/google-open-source-maintenance-costs-report
+2026-10-12T04:45:43 https://www.helpnetsecurity.com/2026/10/12/ai-vulnerability-patching-grading-problem
+2026-10-12T05:30:34 https://www.helpnetsecurity.com/2026/10/12/aws-strands-box-open-source-ai-agent-sandbox
+2026-10-12T06:00:12 https://www.helpnetsecurity.com/2026/10/12/akshay-joshi-wef-cyber-resilience-gap
