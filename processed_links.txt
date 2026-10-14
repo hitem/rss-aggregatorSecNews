@@ -1,5 +1,3 @@
-2026-09-14T01:27:29 https://ubuntu.com/security/notices/USN-8749-1
-2026-09-14T02:00:03 https://isc.sans.edu/diary/rss/33334
 2026-09-14T03:25:59 https://ubuntu.com/security/notices/USN-8750-1
 2026-09-14T03:34:34 https://ubuntu.com/security/notices/USN-8751-1
 2026-09-14T05:00:00 http://www.zerodayinitiative.com/advisories/ZDI-26-680
@@ -4271,6 +4269,10 @@
 2026-10-13T21:05:13 https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ucs-uefi-sb-bypass-eb6xC5GW
 2026-10-13T21:16:57 http://chromereleases.googleblog.com/2026/10/beta-channel-update-for-chromeos_0596170668.html
 2026-10-13T21:43:23 https://cyberscoop.com/doj-north-korea-remote-work-laptop-farms
+2026-10-13T22:00:00 http://chromereleases.googleblog.com/2026/10/chrome-for-android-update_01360129943.html
 2026-10-13T22:10:42 https://cyberscoop.com/ivanti-connect-secure-zero-day-actively-exploited
 2026-10-13T23:07:00 https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say
 2026-10-13T23:17:59 https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office
+2026-10-13T23:24:53 https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws
+2026-10-14T01:30:42 https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies
+2026-10-14T02:00:03 https://isc.sans.edu/diary/rss/33424
