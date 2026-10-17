@@ -1,18 +1,3 @@
-2026-09-17T14:43:48 https://www.bitdefender.com/en-us/blog/hotforsecurity/us-coast-guard-fbi-board-oil-tanker-investigate-cyber-attack
-2026-09-17T15:00:00 https://www.infosecurity-magazine.com/news/famoussparrow-sparrowocky-latin
-2026-09-17T15:06:44 https://isc.sans.edu/diary/rss/33348
-2026-09-17T15:16:26 https://www.cybersecuritydive.com/news/fbi-coast-guard-probe-cyberattacks-ships-us-waters/830668
-2026-09-17T15:26:00 https://www.scworld.com/perspective/what-the-fbis-new-offensive-cyber-strategy-means-to-the-private-sector
-2026-09-17T15:30:00 https://www.theregister.com/security/2026/09/17/london-property-manager-breach-may-have-exposed-bank-details-and-lockbox-codes/5297232
-2026-09-17T15:37:31 https://www.csoonline.com/article/4223455/security-spending-is-growing-except-for-the-typical-ciso.html
-2026-09-17T15:37:56 https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html
-2026-09-17T15:46:10 https://www.csoonline.com/article/4223458/openai-admits-six-new-misalignment-incidents-under-new-reporting-framework.html
-2026-09-17T15:48:06 https://databreaches.net/2026/09/17/eu-chief-wants-joint-response-to-cyberattacks-sabotage
-2026-09-17T15:48:11 https://databreaches.net/2026/09/17/port-of-la-fended-off-120-million-cyberattacks-in-august
-2026-09-17T15:50:32 https://ubuntu.com/security/notices/USN-8779-1
-2026-09-17T16:00:00 https://www.scworld.com/podcast-segment/15652-global-cyber-resilience-report-cyber-recovery-plans-werent-designed-for-this-moment-rob-sadowski-bh26-3
-2026-09-17T16:27:25 https://ubuntu.com/security/notices/USN-8780-1
-2026-09-17T16:30:00 https://therecord.media/china-hackers-latin-america-espionage
 2026-09-17T17:32:22 https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html
 2026-09-17T18:00:17 https://www.theregister.com/security/2026/09/17/chinas-salt-typhoon-backdoors-latin-american-orgs-with-new-snooping-malware/5297286
 2026-09-17T18:06:07 https://securityaffairs.com/199280/hacking/cyberattacks-on-oil-tankers-put-maritime-critical-infrastructure-at-risk.html
@@ -4309,3 +4294,5 @@
 2026-10-17T12:00:00 https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides
 2026-10-17T12:10:47 https://www.scworld.com/tech-explainer/ai-in-network-detection-and-response-what-still-requires-deterministic-evidence
 2026-10-17T12:29:42 https://www.scworld.com/tech-explainer/finished-intelligence-without-the-tradecraft-generated-summaries-in-intel-production
+2026-10-17T16:19:59 https://databreaches.net/2026/10/17/hack-exposes-data-on-millions-of-california-students
+2026-10-17T16:29:10 https://securityaffairs.com/201193/intelligence/north-korean-it-workers-used-stolen-us-identities-to-earn-3-million.html
