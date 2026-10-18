@@ -1,13 +1,3 @@
-2026-09-18T19:44:46 https://www.scworld.com/resource/ai-reshapes-exposure-management-around-real-world-risk-says-brinqa-exec
-2026-09-18T19:56:05 https://databreaches.net/2026/09/18/the-u-s-military-leaked-more-than-93000-tips-via-insecure-p3-global-intel-has-anyone-been-notified
-2026-09-18T20:11:01 https://databreaches.net/2026/09/18/foreign-actors-breach-colorado-water-systems
-2026-09-18T20:24:15 https://cyberscoop.com/scattered-spider-member-guilty-ahmed-elbadawy
-2026-09-18T20:32:40 https://www.scworld.com/news/congress-pledges-mental-health-support-after-cyber-command-suicides
-2026-09-18T20:43:36 https://databreaches.net/2026/09/18/ransomware-attack-on-kansas-county-will-affect-some-services
-2026-09-18T21:00:00 https://www.scworld.com/podcast-segment/15302-bacteria-spartans-ai-gone-wild-cisco-wordpress-settra-plugin4shell-josh-marpet-swn-617
-2026-09-18T21:04:53 https://www.scworld.com/resource/closing-the-ai-control-gap-from-shadow-ai-to-continuous-protection
-2026-09-18T21:06:00 https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html
-2026-09-18T21:38:15 https://securityaffairs.com/199355/hacking/brevo-supply-chain-attack-infected-over-100000-websites.html
 2026-09-18T22:01:00 https://www.scworld.com/news/new-cisa-hosted-vince-nt-system-revealed-for-coordinated-vulnerability-disclosure
 2026-09-19T00:47:51 https://databreaches.net/2026/09/18/hhs-office-for-civil-rights-settles-hipaa-investigation-of-ambry-genetics-for-security-rule-violations
 2026-09-19T02:22:54 https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees
