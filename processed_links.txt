@@ -1,4 +1,3 @@
-2026-09-18T22:01:00 https://www.scworld.com/news/new-cisa-hosted-vince-nt-system-revealed-for-coordinated-vulnerability-disclosure
 2026-09-19T00:47:51 https://databreaches.net/2026/09/18/hhs-office-for-civil-rights-settles-hipaa-investigation-of-ambry-genetics-for-security-rule-violations
 2026-09-19T02:22:54 https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees
 2026-09-19T06:24:10 https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html
