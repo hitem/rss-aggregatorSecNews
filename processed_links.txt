@@ -4248,3 +4248,15 @@
 2026-10-19T16:00:00 https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot
 2026-10-19T16:28:47 https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html
 2026-10-19T16:45:00 https://therecord.media/ahold-delhaize-cyberattack-grocery
+2026-10-19T17:32:13 https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html
+2026-10-19T18:19:55 https://www.scworld.com/perspective/mobile-communications-are-a-blind-spot-security-leaders-cant-ignore
+2026-10-19T18:23:40 https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927
+2026-10-19T18:27:32 https://cyberscoop.com/wyden-urges-federal-adoption-encrypted-client-hello
+2026-10-19T18:43:26 https://securityaffairs.com/201324/hacking/plex2shell-exploit-used-to-turn-vulnerable-plex-servers-into-crypto-miners.html
+2026-10-19T18:45:00 https://therecord.media/serbia-spyware-pegasus-elections
+2026-10-19T19:45:00 https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack
+2026-10-19T19:48:00 https://community.citrix.com/techzone-blogs/platform-services/post-quantum-cryptography-architectural-considerations
+2026-10-19T19:49:00 https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction
+2026-10-19T19:49:17 https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody
+2026-10-19T20:26:21 https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970
+2026-10-19T21:09:03 https://www.scworld.com/news/attackers-compromise-microsoft-365-credential-via-connectwise-cloud-backup
