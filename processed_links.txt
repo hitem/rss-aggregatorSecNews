@@ -4352,4 +4352,16 @@
 2026-10-20T16:30:00 https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198
 2026-10-20T16:30:45 https://www.scworld.com/brief/metas-new-terms-allow-ai-training-on-business-customer-content
 2026-10-20T17:00:47 https://www.helpnetsecurity.com/2026/10/20/google-chrome-enhanced-protection-updates
+2026-10-20T17:09:53 https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html
 2026-10-20T17:14:00 https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks
+2026-10-20T17:33:12 https://www.scworld.com/brief/gao-prioritizes-ai-and-emerging-tech-oversight-in-new-strategic-plan
+2026-10-20T17:33:26 https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226
+2026-10-20T17:33:28 https://www.scworld.com/brief/us-government-agencies-ordered-to-stop-using-deepseek-ai-products
+2026-10-20T17:55:35 https://cyberscoop.com/russian-hackers-apt28-target-nato-defense-firms
+2026-10-20T18:00:29 https://securityaffairs.com/201369/data-breach/nikkei-data-breach-affected-over-1-8-million-records.html
+2026-10-20T18:32:00 https://therecord.media/23andme-california-data-breach-settlement
+2026-10-20T19:20:00 https://therecord.media/california-warns-all-public-school-students-of-data-breach
+2026-10-20T19:33:21 https://cyberscoop.com/nigerian-sentenced-hacking-fraud-tax-investment-scheme
+2026-10-20T20:18:07 https://www.scworld.com/news/siemens-software-center-flaw-exploited-in-clickfix-dll-sideloading-attack
+2026-10-20T20:27:00 https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims
+2026-10-20T20:30:32 https://www.scworld.com/perspective/reframing-security-as-the-foundation-of-innovation
