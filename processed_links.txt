@@ -4260,3 +4260,12 @@
 2026-10-19T20:26:21 https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970
 2026-10-19T21:09:03 https://www.scworld.com/news/attackers-compromise-microsoft-365-credential-via-connectwise-cloud-backup
 2026-10-20T00:11:10 https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010
+2026-10-20T02:00:03 https://isc.sans.edu/diary/rss/33436
+2026-10-20T02:11:27 https://www.theregister.com/networks/2026/10/20/icann-testing-tech-to-let-law-enforcement-access-non-public-whois-info/5304036
+2026-10-20T03:25:43 https://www.csoonline.com/article/4237420/f5-rushes-out-emergency-nginx-patches-for-three-critical-flaws.html
+2026-10-20T03:45:03 https://www.helpnetsecurity.com/2026/10/20/cloudflare-ai-clairic-extraction-model
+2026-10-20T04:00:24 https://www.helpnetsecurity.com/2026/10/20/cybersecurity-jobs-available-right-now-october-20-2026
+2026-10-20T04:05:58 https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html
+2026-10-20T04:30:18 https://www.helpnetsecurity.com/2026/10/20/frontline-worker-authentication-passwordless
+2026-10-20T06:00:13 https://www.helpnetsecurity.com/2026/10/20/easydmarc-gmo-globalsign-partnership
+2026-10-20T06:25:12 https://www.helpnetsecurity.com/2026/10/20/mastercard-stablecoin-security
