@@ -1,7 +1,3 @@
-2026-09-21T04:00:31 https://www.helpnetsecurity.com/2026/09/21/ai-compliance-issues-research
-2026-09-21T04:30:55 https://www.helpnetsecurity.com/2026/09/21/6g-intent-injection-attacks
-2026-09-21T05:00:32 https://www.helpnetsecurity.com/2026/09/21/gopass-open-source-password-manager
-2026-09-21T05:15:12 https://isc.sans.edu/diary/rss/33354
 2026-09-21T05:30:34 https://www.helpnetsecurity.com/2026/09/21/product-showcase-helmit-parental-controls
 2026-09-21T06:00:31 https://www.helpnetsecurity.com/2026/09/21/guilherme-joventino-mignow-sap-ecc-migration
 2026-09-21T06:06:44 https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html
@@ -4371,6 +4367,8 @@
 2026-10-20T18:32:00 https://therecord.media/23andme-california-data-breach-settlement
 2026-10-20T19:20:00 https://therecord.media/california-warns-all-public-school-students-of-data-breach
 2026-10-20T19:33:21 https://cyberscoop.com/nigerian-sentenced-hacking-fraud-tax-investment-scheme
+2026-10-20T20:09:05 http://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html
+2026-10-20T20:10:45 http://chromereleases.googleblog.com/2026/10/chrome-for-android-update_095004068.html
 2026-10-20T20:18:07 https://www.scworld.com/news/siemens-software-center-flaw-exploited-in-clickfix-dll-sideloading-attack
 2026-10-20T20:27:00 https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims
 2026-10-20T20:30:32 https://www.scworld.com/perspective/reframing-security-as-the-foundation-of-innovation
@@ -4379,3 +4377,13 @@
 2026-10-20T22:00:46 https://www.theregister.com/cyber-crime/2026/10/20/auto-tech-startup-claims-it-traced-hack-attempt-back-to-rivals-ip-address/5304281
 2026-10-20T22:57:44 https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312
 2026-10-20T23:36:10 https://cyberscoop.com/identity-theft-fraud-military-servicemembers-veterans-guilty-robert-boling
+2026-10-21T00:56:18 http://chromereleases.googleblog.com/2026/10/stable-channel-update-for-chromeos_01150416531.html
+2026-10-21T01:09:32 https://www.csoonline.com/article/4238124/uk-fca-exec-wants-to-require-disclosure-of-significant-ai-failures-and-near-misses-2.html
+2026-10-21T01:55:45 https://www.csoonline.com/article/4238149/us-bans-deepseek-across-federal-agencies-putting-ai-supply-chains-under-scrutiny-2.html
+2026-10-21T02:00:03 https://isc.sans.edu/diary/rss/33438
+2026-10-21T02:07:29 https://securelist.com/lazarus-operation-flashhole/121541
+2026-10-21T03:42:06 https://www.helpnetsecurity.com/2026/10/21/torchtpu-pytorch-on-tpus
+2026-10-21T04:21:54 https://www.helpnetsecurity.com/2026/10/21/php-security-release-announcement-october-2026
+2026-10-21T04:22:11 https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities
+2026-10-21T04:30:13 https://www.helpnetsecurity.com/2026/10/21/bringing-ai-into-the-soc-video
+2026-10-21T05:00:32 https://www.helpnetsecurity.com/2026/10/21/gitguardian-securing-credential-layer
