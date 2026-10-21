@@ -1,4 +1,3 @@
-2026-09-20T23:00:00 https://therecord.media/russia-reports-cyberattacks-during-election
 2026-09-21T04:00:31 https://www.helpnetsecurity.com/2026/09/21/ai-compliance-issues-research
 2026-09-21T04:30:55 https://www.helpnetsecurity.com/2026/09/21/6g-intent-injection-attacks
 2026-09-21T05:00:32 https://www.helpnetsecurity.com/2026/09/21/gopass-open-source-password-manager
@@ -4223,6 +4222,7 @@
 2026-10-19T13:33:57 https://www.helpnetsecurity.com/2026/10/19/connectwise-cloud-backup-suspended-security-incident
 2026-10-19T13:38:11 https://www.helpnetsecurity.com/2026/10/19/axonius-ai-workforce
 2026-10-19T13:48:56 https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site
+2026-10-19T13:56:50 https://ubuntu.com/security/notices/USN-8938-1
 2026-10-19T14:14:07 https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html
 2026-10-19T14:15:00 https://www.infosecurity-magazine.com/news/conduent-settle-data-breach-action
 2026-10-19T14:17:52 https://www.scworld.com/tech-explainer/session-hijacking-how-the-attack-works-and-how-to-stop-it
@@ -4239,10 +4239,12 @@
 2026-10-19T14:39:25 https://www.cybersecuritydive.com/news/corporate-boards-cybersecurity-ai-oversight-bdo/833350
 2026-10-19T15:25:00 https://www.infosecurity-magazine.com/news/exploited-vulnerabilities-three
 2026-10-19T15:27:20 https://cyberscoop.com/dhs-bans-deepseek-federal-agencies
+2026-10-19T15:51:17 https://ubuntu.com/security/notices/USN-8927-2
 2026-10-19T15:55:00 https://therecord.media/russian-social-media-giant-vk-faces-disruptions-drone-strike-data-center
 2026-10-19T16:00:00 https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot
 2026-10-19T16:28:47 https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html
 2026-10-19T16:45:00 https://therecord.media/ahold-delhaize-cyberattack-grocery
+2026-10-19T17:17:18 https://ubuntu.com/security/notices/USN-8939-1
 2026-10-19T17:32:13 https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html
 2026-10-19T18:15:39 https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks
 2026-10-19T18:19:55 https://www.scworld.com/perspective/mobile-communications-are-a-blind-spot-security-leaders-cant-ignore
@@ -4259,6 +4261,7 @@
 2026-10-20T00:11:10 https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010
 2026-10-20T02:00:03 https://isc.sans.edu/diary/rss/33436
 2026-10-20T02:11:27 https://www.theregister.com/networks/2026/10/20/icann-testing-tech-to-let-law-enforcement-access-non-public-whois-info/5304036
+2026-10-20T03:21:29 https://ubuntu.com/security/notices/USN-8940-1
 2026-10-20T03:25:43 https://www.csoonline.com/article/4237420/f5-rushes-out-emergency-nginx-patches-for-three-critical-flaws.html
 2026-10-20T03:45:03 https://www.helpnetsecurity.com/2026/10/20/cloudflare-ai-clairic-extraction-model
 2026-10-20T04:00:24 https://www.helpnetsecurity.com/2026/10/20/cybersecurity-jobs-available-right-now-october-20-2026
@@ -4320,6 +4323,7 @@
 2026-10-20T13:35:00 https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139
 2026-10-20T13:51:01 https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign
 2026-10-20T13:55:00 https://www.infosecurity-magazine.com/news/opencode-quietly-patched-critical
+2026-10-20T13:59:52 https://ubuntu.com/security/notices/USN-8941-1
 2026-10-20T14:00:00 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62913
 2026-10-20T14:00:00 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70337
 2026-10-20T14:05:00 https://therecord.media/anti-putin-messages-disrupt-russian-education-platform
@@ -4327,11 +4331,14 @@
 2026-10-20T14:11:00 https://therecord.media/aomei-yet-to-notify-customers-hijack-software
 2026-10-20T14:12:00 https://community.citrix.com/techzone-blogs/citrix-devicetrust/protecting-automotive-and-manufacturing-innovation-without-slowing-down
 2026-10-20T14:13:04 https://www.helpnetsecurity.com/2026/10/20/ncomplete-security-patches-broken-fixes-rise
+2026-10-20T14:23:39 https://ubuntu.com/security/notices/USN-8708-2
 2026-10-20T14:32:31 https://www.cybersecuritydive.com/news/ai-security-jobs-hiring-sans-tracker/833465
 2026-10-20T14:40:00 https://www.infosecurity-magazine.com/news/head-ai-security-roles
+2026-10-20T14:49:32 https://ubuntu.com/security/notices/USN-8943-1
 2026-10-20T14:55:00 https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack
 2026-10-20T15:04:11 https://www.cybersecuritydive.com/news/ransomware-targeting-palo-alto-networks-vulnerability/833474
 2026-10-20T15:14:30 https://www.helpnetsecurity.com/2026/10/20/aomei-backupper-compromised-supply-chain
+2026-10-20T15:15:07 https://ubuntu.com/security/notices/USN-8942-1
 2026-10-20T15:28:46 https://www.scworld.com/brief/firstvds-customers-data-stolen-in-server-management-software-vulnerability
 2026-10-20T15:29:36 https://cyberscoop.com/justice-department-california-voter-arrests-noncitizen-claims
 2026-10-20T15:32:27 https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html
@@ -4341,6 +4348,7 @@
 2026-10-20T15:45:42 https://securityaffairs.com/201358/breaking-news/google-cloud-outage-in-london-disrupts-revolut-banking-services.html
 2026-10-20T15:45:54 https://www.scworld.com/brief/opencode-breach-exposes-api-keys-in-distillation-attack
 2026-10-20T15:46:53 https://www.scworld.com/brief/criminals-increasingly-use-fake-documents-and-deepfakes-to-bypass-kyc-checks
+2026-10-20T15:52:06 https://ubuntu.com/security/notices/USN-8944-1
 2026-10-20T15:55:26 https://www.scworld.com/brief/adult-content-search-spam-exploits-vulnerable-websites
 2026-10-20T15:57:07 https://www.scworld.com/brief/malicious-rank-math-pro-version-distributed-in-supply-chain-attack
 2026-10-20T15:59:52 https://www.scworld.com/brief/senator-urges-administration-to-close-encryption-gap-on-government-websites
@@ -4357,6 +4365,7 @@
 2026-10-20T17:33:12 https://www.scworld.com/brief/gao-prioritizes-ai-and-emerging-tech-oversight-in-new-strategic-plan
 2026-10-20T17:33:26 https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226
 2026-10-20T17:33:28 https://www.scworld.com/brief/us-government-agencies-ordered-to-stop-using-deepseek-ai-products
+2026-10-20T17:45:10 https://ubuntu.com/security/notices/USN-8945-1
 2026-10-20T17:55:35 https://cyberscoop.com/russian-hackers-apt28-target-nato-defense-firms
 2026-10-20T18:00:29 https://securityaffairs.com/201369/data-breach/nikkei-data-breach-affected-over-1-8-million-records.html
 2026-10-20T18:32:00 https://therecord.media/23andme-california-data-breach-settlement
@@ -4365,3 +4374,8 @@
 2026-10-20T20:18:07 https://www.scworld.com/news/siemens-software-center-flaw-exploited-in-clickfix-dll-sideloading-attack
 2026-10-20T20:27:00 https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims
 2026-10-20T20:30:32 https://www.scworld.com/perspective/reframing-security-as-the-foundation-of-innovation
+2026-10-20T21:00:00 https://www.scworld.com/podcast-segment/15320-klingons-stop-and-shop-ovhcloud-microsoft-plex2shell-reactos-and-aaran-leyland-swn-626
+2026-10-20T21:37:05 https://www.csoonline.com/article/4237999/kvm-escape-exposes-broader-attack-surface-in-linux-networking.html
+2026-10-20T22:00:46 https://www.theregister.com/cyber-crime/2026/10/20/auto-tech-startup-claims-it-traced-hack-attempt-back-to-rivals-ip-address/5304281
+2026-10-20T22:57:44 https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312
+2026-10-20T23:36:10 https://cyberscoop.com/identity-theft-fraud-military-servicemembers-veterans-guilty-robert-boling
