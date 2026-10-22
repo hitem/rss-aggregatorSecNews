@@ -1,14 +1,3 @@
-2026-09-21T22:45:03 https://www.scworld.com/brief/transparent-tribe-targets-india-afghanistan-with-new-malware-in-operation-rapidrust
-2026-09-21T22:48:09 https://www.scworld.com/brief/texas-man-pleads-guilty-in-scattered-spider-extortion-scheme
-2026-09-21T22:50:57 https://www.scworld.com/brief/army-and-air-force-exchange-service-investigating-suspicious-customer-messages
-2026-09-21T22:54:10 https://www.scworld.com/brief/shinyhunters-defaces-clop-ransomware-data-leak-site-claims-data-theft
-2026-09-21T22:56:53 https://www.scworld.com/brief/google-gemini-ai-escapes-cybersecurity-test-accesses-three-real-companies
-2026-09-21T23:00:00 https://therecord.media/russia-internet-shutdowns-disrupt-warnings-about-drone-attacks
-2026-09-21T23:03:42 https://www.scworld.com/news/trump-calls-for-ai-force-says-ai-czar-will-be-named-soon
-2026-09-21T23:03:58 https://www.scworld.com/brief/cisa-adds-linux-kernel-flaws-to-exploited-vulnerabilities-catalog
-2026-09-21T23:10:06 https://www.scworld.com/brief/google-had-undercover-analyst-inside-teampcp-hacking-group
-2026-09-21T23:12:36 https://www.scworld.com/brief/ai-intelligence-report-falsely-identifies-weapons-on-chinese-ship-nearly-triggers-us-military-operation
-2026-09-22T01:02:19 https://www.csoonline.com/article/4224570/gemini-broke-into-3-companies-but-google-kept-it-quiet-because-no-damage-was-done.html
 2026-09-22T03:48:17 https://www.helpnetsecurity.com/2026/09/22/davmail-7-0-0-microsoft-graph
 2026-09-22T03:50:10 https://isc.sans.edu/diary/rss/33356
 2026-09-22T04:00:23 https://www.helpnetsecurity.com/2026/09/22/cybersecurity-jobs-available-right-now-september-22-2026
@@ -4424,6 +4413,7 @@
 2026-10-21T20:54:06 https://www.csoonline.com/article/4238693/microsoft-treat-ai-agents-as-insider-threats.html
 2026-10-21T21:27:26 https://www.csoonline.com/article/4238692/two-critical-php-flaws-put-the-web-on-alert-as-emergency-patches-arrive.html
 2026-10-21T21:29:04 https://securityaffairs.com/201446/breaking-news/russian-satellite-makes-a-close-approach-to-a-commercial-radar-satellite-used-by-ukraine.html
+2026-10-21T21:36:06 https://ubuntu.com/security/notices/USN-8890-2
 2026-10-21T21:45:07 https://www.scworld.com/brief/u-s-citizen-pleads-guilty-to-defrauding-military-members-in-identity-theft-scheme
 2026-10-21T21:45:27 https://www.scworld.com/brief/teamupdraft-security-breach-exposes-wordpress-site-connection-keys
 2026-10-21T21:50:13 https://www.scworld.com/brief/california-student-data-breach-impacts-millions
@@ -4436,3 +4426,6 @@
 2026-10-21T22:03:41 https://www.scworld.com/brief/russia-considers-ai-powered-vpn-blocking-strategies
 2026-10-21T22:04:38 https://www.scworld.com/brief/belarus-aligned-group-maintains-long-term-access-to-russian-healthcare-network
 2026-10-21T22:30:30 https://www.helpnetsecurity.com/2026/10/22/google-chrome-https-protection
+2026-10-21T23:02:57 https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611
+2026-10-21T23:12:20 https://grahamcluley.com/smashing-security-podcast-489
+2026-10-21T23:47:34 https://www.csoonline.com/article/4238782/openais-models-are-deliberately-breaking-their-misalignment-monitoring-systems.html
