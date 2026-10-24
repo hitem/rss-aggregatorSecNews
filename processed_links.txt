@@ -1,15 +1,3 @@
-2026-09-23T22:44:38 https://www.scworld.com/brief/zte-smartlife-platform-vulnerabilities-allow-account-takeover
-2026-09-23T22:47:37 https://www.scworld.com/brief/worker-stress-increases-due-to-ai-driven-security-threats
-2026-09-23T22:55:17 https://www.scworld.com/brief/sidecopy-threat-actor-targets-indian-academic-institutions-with-new-attack-methods
-2026-09-23T23:15:05 https://grahamcluley.com/smashing-security-podcast-486
-2026-09-23T23:20:45 https://www.scworld.com/brief/ransomware-group-payload-weaponizes-microsoft-active-directory-for-disruption
-2026-09-23T23:30:45 https://www.scworld.com/brief/okta-enhances-ai-agent-security-with-new-platform-features-and-blueprint-alliance
-2026-09-23T23:33:59 https://www.scworld.com/brief/d-link-warns-of-critical-vulnerabilities-in-legacy-dir-822a-routers-with-public-exploit-code
-2026-09-23T23:47:09 https://www.scworld.com/brief/malicious-bot-traffic-surges-124-overwhelming-website-defenses
-2026-09-23T23:52:58 https://databreaches.net/2026/09/23/fbi-hack-exposed-fbis-own-hacking-unit
-2026-09-24T00:03:03 https://www.theregister.com/security/2026/09/24/openai-agents-infiltrated-australian-government-website/5298702
-2026-09-24T00:20:47 https://ubuntu.com/security/notices/USN-8810-1
-2026-09-24T00:31:36 https://cyberscoop.com/cisa-cve-data-quality-white-paper-expert-reaction
 2026-09-24T01:39:52 https://ubuntu.com/security/notices/USN-8811-1
 2026-09-24T02:05:30 https://www.csoonline.com/article/4225812/check-point-hacked-the-security-software-protecting-your-network-has-become-a-prime-attack-target.html
 2026-09-24T02:57:22 https://www.scworld.com/resource/okta-lets-collaborate-not-compete-on-agentic-ai-security
