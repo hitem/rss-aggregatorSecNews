@@ -1,13 +1,3 @@
-2026-09-24T01:39:52 https://ubuntu.com/security/notices/USN-8811-1
-2026-09-24T02:05:30 https://www.csoonline.com/article/4225812/check-point-hacked-the-security-software-protecting-your-network-has-become-a-prime-attack-target.html
-2026-09-24T02:57:22 https://www.scworld.com/resource/okta-lets-collaborate-not-compete-on-agentic-ai-security
-2026-09-24T03:50:11 https://isc.sans.edu/diary/rss/33364
-2026-09-24T04:00:02 https://www.helpnetsecurity.com/2026/09/24/enisa-eu-cyber-threats-report
-2026-09-24T04:27:02 https://www.helpnetsecurity.com/2026/09/24/ubuntu-kernel-cve-fixes-release-schedule
-2026-09-24T04:30:14 https://www.helpnetsecurity.com/2026/09/24/ot-asset-visibility-challenges
-2026-09-24T05:00:41 https://www.helpnetsecurity.com/2026/09/24/kelly-herrell-nol8-ai-agent-data-security
-2026-09-24T05:36:18 https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html
-2026-09-24T05:44:13 https://securityaffairs.com/199640/malware/closedquorum-the-malware-that-asks-four-ai-models-what-to-do-next.html
 2026-09-24T06:25:06 https://isc.sans.edu/diary/rss/33366
 2026-09-24T06:32:03 https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html
 2026-09-24T07:07:25 https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html
