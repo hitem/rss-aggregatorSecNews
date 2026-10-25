@@ -1,15 +1,3 @@
-2026-09-25T21:28:36 https://cyberscoop.com/cameron-wagenius-att-snowflake-attacks-sentenced
-2026-09-25T21:44:40 https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions
-2026-09-25T21:45:30 https://www.scworld.com/brief/cloudflare-containers-vulnerability-allowed-data-leakage
-2026-09-25T21:48:18 https://www.scworld.com/brief/new-carbonato-botnet-uses-ai-framework-to-target-insecure-docker-daemons
-2026-09-25T21:53:24 https://www.scworld.com/brief/elementor-plugin-vulnerability-allows-admin-account-creation
-2026-09-25T21:57:44 https://www.scworld.com/brief/vulnerable-obs-overlay-and-chromium-flaw-enable-twitch-chat-message-code-execution
-2026-09-25T22:05:13 https://www.scworld.com/brief/3-zero-day-flaws-in-viewsonics-vcast-software-allow-remote-screen-viewing-app-installation
-2026-09-25T22:05:27 https://www.scworld.com/brief/rydox-marketplace-operator-pleads-guilty-to-identity-theft-and-money-laundering
-2026-09-25T22:07:37 https://www.scworld.com/brief/new-pamstealer-variant-uses-server-side-decryption-for-macos-malware
-2026-09-25T22:11:54 https://www.scworld.com/brief/compromised-github-actions-re-enabled-posing-supply-chain-risks
-2026-09-25T22:12:09 https://www.scworld.com/brief/researchers-identify-aliexpress-themed-phishing-campaign-using-disposable-domains
-2026-09-25T22:14:54 https://www.scworld.com/brief/bitget-loses-351-6-million-in-suspected-north-korean-crypto-hack
 2026-09-26T00:47:51 http://chromereleases.googleblog.com/2026/09/beta-channel-update-for-chromeos_02070773832.html
 2026-09-26T07:42:26 https://securityaffairs.com/199790/security/u-s-cisa-adds-wordpress-flaw-to-its-known-exploited-vulnerabilities-catalog.html
 2026-09-26T07:48:33 https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html
@@ -4111,3 +4099,4 @@
 2026-10-25T20:54:31 https://www.scworld.com/brief/the-importance-of-usage-intelligence-for-artificial-intelligence-companies
 2026-10-25T21:03:36 https://www.scworld.com/brief/federal-judge-rules-opm-access-for-doge-personnel-was-unlawful
 2026-10-25T21:03:53 https://www.scworld.com/brief/security-researcher-identifies-potential-privilege-escalation-in-tailscale-ssh
+2026-10-25T21:15:35 https://www.scworld.com/brief/security-firm-disables-vulnerable-popcorntime-updater
