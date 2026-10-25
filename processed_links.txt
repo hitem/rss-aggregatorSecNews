@@ -1,12 +1,3 @@
-2026-09-24T23:42:13 https://www.scworld.com/brief/new-ransomware-group-n0n-escalates-threats-by-targeting-backups
-2026-09-24T23:52:35 https://www.scworld.com/brief/new-classical-computing-attack-weakens-rsa-encryption
-2026-09-24T23:56:37 https://www.scworld.com/brief/private-gitlab-email-addresses-exposed-in-public-documentation
-2026-09-25T02:39:11 https://ubuntu.com/security/notices/USN-8822-1
-2026-09-25T03:45:12 https://isc.sans.edu/diary/rss/33370
-2026-09-25T04:30:26 https://www.helpnetsecurity.com/2026/09/25/eu-usa-retail-chain-cyberattacks
-2026-09-25T04:46:34 https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html
-2026-09-25T04:49:22 https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html
-2026-09-25T05:00:56 https://www.helpnetsecurity.com/2026/09/25/sans-threat-hunting-data-quality
 2026-09-25T05:30:02 https://www.helpnetsecurity.com/2026/09/25/ariel-assaraf-coralogix-ai-agent-guardrails
 2026-09-25T06:45:47 https://isc.sans.edu/diary/rss/33368
 2026-09-25T07:30:11 https://www.helpnetsecurity.com/2026/09/25/dataiku-agent-management
