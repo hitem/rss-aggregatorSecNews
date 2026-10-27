@@ -4201,3 +4201,16 @@
 2026-10-26T22:48:34 https://www.scworld.com/brief/dreamhost-resets-user-passwords-following-service-disruption
 2026-10-26T23:34:37 https://isc.sans.edu/diary/rss/33458
 2026-10-27T00:22:54 https://cyberscoop.com/brotli-critical-vulnerability-decompression-library-node2shell-broccoli2shell
+2026-10-27T01:06:22 https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610
+2026-10-27T01:30:00 https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics
+2026-10-27T02:10:25 http://chromereleases.googleblog.com/2026/10/long-term-support-channel-update-for_0661547040.html
+2026-10-27T02:55:13 https://isc.sans.edu/diary/rss/33462
+2026-10-27T03:22:50 https://www.csoonline.com/article/4240662/openais-august-fix-for-theft-of-reasoning-traces-was-quickly-bypassed.html
+2026-10-27T04:33:34 https://www.helpnetsecurity.com/2026/10/27/gpt-6-1-terra-released
+2026-10-27T04:37:59 https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html
+2026-10-27T05:00:31 https://www.helpnetsecurity.com/2026/10/27/cybersecurity-jobs-available-right-now-october-27-2026
+2026-10-27T05:30:33 https://www.helpnetsecurity.com/2026/10/27/rapid7-vulnerability-exploitation-trends-q3-2026-report
+2026-10-27T05:44:26 https://www.helpnetsecurity.com/2026/10/27/amutable-foundations-linux-system
+2026-10-27T06:00:26 https://www.helpnetsecurity.com/2026/10/27/llm-agent-security-video
+2026-10-27T06:14:22 https://www.helpnetsecurity.com/2026/10/27/microsoft-authenticator-vulnerability-patchedcve-2026-80097
+2026-10-27T06:30:01 https://www.helpnetsecurity.com/2026/10/27/jonathan-care-kuppingercole-analysts-ai-security-market
