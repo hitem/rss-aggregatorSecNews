@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 10 Nov 2026 19:58:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:52:19 GMT</lastBuildDate>
   <item><title>Claude Fable Solves a Historical Cipher</title><link>https://www.schneier.com/blog/archives/2026/09/claude-fable-solves-a-historical-cipher.html</link><pubDate>2026-09-09T11:08:26Z</pubDate><guid isPermaLink="false">https://www.schneier.com/?p=72613</guid><description>Claude Fable 5.1 solved a 370-year-old cipher in forty-four minutes.
 This tracks with what I wrote about AIs doing mathematics: It&#8217;s good at things that involve lots of searching and testing.</description></item><item><title>Stable Channel Update for ChromeOS / ChromeOS Flex</title><link>http://chromereleases.googleblog.com/2026/09/stable-channel-update-for-chromeos_0586661566.html</link><pubDate>2026-09-08T15:31:55.472-07:00</pubDate><guid isPermaLink="false">tag:blogger.com,1999:blog-8982037438137564684.post-6736873269244247757</guid><description>The Stable channel is being updated to OS version 16765.41.0 (Browser version 152.0.7977.113) for most ChromeOS devices.If you find new issues, please let us know one of the following ways:File a bugVisit our ChromeOS communitiesGeneral: Chromebook Help CommunityBeta Specific: ChromeOS Beta Help CommunityReport an issue or send feedback on ChromeInterested in switching channels? Find out how.Luis MenezesGoogle ChromeOS&#160;...</description></item><item><title>Chrome for Android Update</title><link>http://chromereleases.googleblog.com/2026/09/chrome-for-android-update_01729269728.html</link><pubDate>2026-09-08T15:13:28.106-07:00</pubDate><guid isPermaLink="false">tag:blogger.com,1999:blog-8982037438137564684.post-5546347081970708600</guid><description>&#160; &#160;Hi, everyone! We've just released Chrome 153 (153.0.8010.36) for Android. It'll become available on Google Play over the next few days.&#160;This release includes stability and performance improvements. You can see a full list of the changes in the Git log. If you find a new issue, please let us know by filing a bug.Android releases contain the same security fixes as their corresponding Desktop releases (Windows &amp; Mac: 153.0.8010.36/.37 Linux: 153.0.8010.36) unless otherwise noted.Krishna GovindGoogle Chrome...</description></item><item><title>Stable Channel Update for Desktop</title><link>http://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0808145027.html</link><pubDate>2026-09-08T14:24:50.241-07:00</pubDate><guid isPermaLink="false">tag:blogger.com,1999:blog-8982037438137564684.post-2312771101612558943</guid><description>The Chrome team is delighted to announce the promotion of Chrome 153 to the stable channel for Windows, Mac and Linux. This will roll out over the coming days/weeks.Chrome 153.0.8010.36 (Linux)&#160;153.0.8010.36/.37&#160;Windows/Mac contains a number of fixes and improvements -- a list of changes is available in the log. Watch out for upcoming Chrome and Chromium blog posts about new features and big efforts delivered in 153.Security Fixes and RewardsNote: Access to bug details and links may be kept restricted until a majority of users are updated with a fix. We will also retain restrictions if the bug...</description></item><item><title>Cisco IOS XR Software Security Hardening Release: September 2026</title><link>https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-iosxr-qg64NcM?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20IOS%20XR%20Software%20Security%20Hardening%20Release:%20September%202026%26vs_k=1</link><pubDate>2026-09-08 19:19:57.0</pubDate><guid isPermaLink="false">https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-iosxr-qg64NcM</guid><description>As part of Cisco's ongoing commitment to proactive security and product quality, the&#160;Cisco IOS XR Software engineering team has conducted a comprehensive internal security review. This review resulted in a software hardening releases that address multiple internally discovered vulnerabilities.
 The vulnerabilities tracked by CVE-2026-20280 are related to improper checking or handling of exceptional condition issues that are grouped under the Common Weakness Enumeration (CWE) CWE-703.
@@ -258,7 +258,7 @@ The post Flock can now issue CVEs for its own products. Should we trust it? appe
 The post IonQ to buy zero-trust security firm Elisity in deal valued at up to $1.3 billion appeared first on CyberScoop.</description></item><item><title>GTA 6 leaker CyberLeek threatens playable build release for crypto coin</title><link>https://www.scworld.com/brief/gta-6-leaker-cyberleek-threatens-playable-build-release-for-crypto-coin</link><pubDate>2026-10-12T13:33:37-04:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,948429</guid><description>The anonymous figure known as CyberLeek, responsible for earlier Grand Theft Auto 6 leaks, has escalated their demands by threatening to release a complete, playable build of the game.</description></item><item><title>Chatbot refuseniks edge out users in the US, and they&#8217;re not for turning</title><link>https://www.theregister.com/ai-and-ml/2026/10/12/chatbot-refuseniks-edge-out-users-in-the-us-and-theyre-not-for-turning/5302690</link><pubDate>Mon, 12 Oct 2026 19:13:33 +0200</pubDate><guid isPermaLink="false">https://www.theregister.com/a/5302690</guid><description>Pew Research Center finds 51% of Americans say no, cite lack of interest - not know-how - as the top reason</description></item><item><title>Japanese karaoke maker Daiichi Kosho reports data breach affecting 8.7 million records</title><link>https://www.scworld.com/brief/japanese-karaoke-maker-daiichi-kosho-reports-data-breach-affecting-8-7-million-records</link><pubDate>2026-10-12T13:05:04-04:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,948411</guid><description>Japanese entertainment system maker Daiichi Kosho has disclosed a significant data breach originating from its contractor, Nippon Columbia, potentially exposing over 8.7 million customer and employee records.</description></item><item><title>The highest risk for AI agents is the software development organization</title><link>https://www.scworld.com/perspective/the-highest-risk-for-ai-agents-is-the-software-development-organization</link><pubDate>2026-10-12T13:00:00-04:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,948485</guid><description>AI coding agents inherit broad developer privileges, demanding closer monitoring of autonomous actions.</description></item><item><title>Cyberattacks hit European grocers: French supermarket freezers hijacked, Dutch and Belgian stores disrupted</title><link>https://www.helpnetsecurity.com/2026/10/12/france-cyberattack-supermarket-freezers/</link><pubDate>Mon, 12 Oct 2026 16:07:33 +0000</pubDate><guid isPermaLink="false">https://www.helpnetsecurity.com/?p=387672</guid><description>European food retailers have been affected by two separate disruptive cyberattacks: In France, several supermarket chains have had their freezers tampered with and chilled/frozen products destroyed, while in the Netherlands and Belgium workers at stores owned by Dutch multinational Ahold Delhaize have been dealing with disruption resulting from an unspecified &#8220;security issue&#8221;. Freezers turned into ovens overnight French news channel BFMTV reported today that hundreds of stores across the country were affected by a cyberattack &#8230; More &#8594;
 The post Cyberattacks hit European grocers: French supermar...</description></item><item><title>Exposure Management: Stop Measuring Controls. Start Measuring Risk. - Heather Ceylan - CSP #229</title><link>https://www.scworld.com/podcast-segment/14664-exposure-management-stop-measuring-controls-start-measuring-risk-heather-ceylan-csp-229</link><pubDate>2026-10-12T12:00:00-04:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,856393</guid><description/></item><item><title>CISA calls on Citrix NetScaler customers to patch as new flaws disclosed</title><link>https://www.cybersecuritydive.com/news/cisa-citrix-netscaler-customers-patch-new-flaws-disclosed/832741/</link><pubDate>Mon, 12 Oct 2026 11:27:12 -0400</pubDate><guid isPermaLink="false">https://www.cybersecuritydive.com/news/cisa-citrix-netscaler-customers-patch-new-flaws-disclosed/832741/</guid><description>A newly discovered critical vulnerability is adding to the workload of customers mitigating other recent flaws.</description></item><item><title>&#9889; Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More</title><link>https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html</link><pubDate>Mon, 12 Oct 2026 20:46:26 +0530</pubDate><guid isPermaLink="false">https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html</guid><description>Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it.
 
-But speed is only part of the problem. A secure connection didn't always mean a safe destination. People offering to fix a ransomware mess had questions to answer themselves....</description></item><item><title>Cyberattack disrupts refrigeration at hundreds of French supermarkets</title><link>https://therecord.media/cyberattack-disrupts-refridgeration-in-france</link><pubDate>Sun, 11 Oct 2026 23:00:00 GMT</pubDate><guid isPermaLink="false">https://therecord.media/cyberattack-disrupts-refridgeration-in-france</guid><description>A cyberattack overnight Sunday disrupted refrigerators at hundreds of French supermarkets, spoiling fresh food at stores run by some of the country&#8217;s largest grocery chains.</description></item><item><title>ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)</title><link>https://isc.sans.edu/diary/rss/33418</link><pubDate>Tue, 13 Oct 2026 02:00:02 GMT</pubDate><guid isPermaLink="false">https://isc.sans.edu/diary/rss/33418</guid><description>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</description></item><item><title>Cyberattacks crank French supermarket refrigeration systems up to 50&#176;C</title><link>https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/5302784</link><pubDate>Tue, 13 Oct 2026 14:00:00 +0200</pubDate><guid isPermaLink="false">https://www.theregister.com/a/5302784</guid><description>Stock spoiled at hundreds of stores as manufacturer says affected equipment ran outdated firmware</description></item><item><title>Cyber incident hits grocery stores in US, Netherlands and Belgium</title><link>https://therecord.media/cyberattack-groceru-ahold-delhaize</link><pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate><guid isPermaLink="false">https://therecord.media/cyberattack-groceru-ahold-delhaize</guid><description>Ahold Delhaize, the Dutch multinational retailer, announced it was taking precautionary measures following a cybersecurity incident, with stores in the U.S., Netherlands and Belgium reportedly impacted.</description></item><item><title>GitLab patches a max-severity regex flaw alongside five high-severity bugs</title><link>https://www.csoonline.com/article/4234306/gitlab-patches-a-max-severity-regex-flaw-alongside-five-high-severity-bugs.html</link><pubDate>Tue, 13 Oct 2026 11:42:47 +0000</pubDate><guid isPermaLink="false">https://www.csoonline.com/article/4234306/gitlab-patches-a-max-severity-regex-flaw-alongside-five-high-severity-bugs.html</guid><description>
+But speed is only part of the problem. A secure connection didn't always mean a safe destination. People offering to fix a ransomware mess had questions to answer themselves....</description></item><item><title>ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)</title><link>https://isc.sans.edu/diary/rss/33418</link><pubDate>Tue, 13 Oct 2026 02:00:02 GMT</pubDate><guid isPermaLink="false">https://isc.sans.edu/diary/rss/33418</guid><description>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</description></item><item><title>Cyberattacks crank French supermarket refrigeration systems up to 50&#176;C</title><link>https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/5302784</link><pubDate>Tue, 13 Oct 2026 14:00:00 +0200</pubDate><guid isPermaLink="false">https://www.theregister.com/a/5302784</guid><description>Stock spoiled at hundreds of stores as manufacturer says affected equipment ran outdated firmware</description></item><item><title>Cyber incident hits grocery stores in US, Netherlands and Belgium</title><link>https://therecord.media/cyberattack-groceru-ahold-delhaize</link><pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate><guid isPermaLink="false">https://therecord.media/cyberattack-groceru-ahold-delhaize</guid><description>Ahold Delhaize, the Dutch multinational retailer, announced it was taking precautionary measures following a cybersecurity incident, with stores in the U.S., Netherlands and Belgium reportedly impacted.</description></item><item><title>GitLab patches a max-severity regex flaw alongside five high-severity bugs</title><link>https://www.csoonline.com/article/4234306/gitlab-patches-a-max-severity-regex-flaw-alongside-five-high-severity-bugs.html</link><pubDate>Tue, 13 Oct 2026 11:42:47 +0000</pubDate><guid isPermaLink="false">https://www.csoonline.com/article/4234306/gitlab-patches-a-max-severity-regex-flaw-alongside-five-high-severity-bugs.html</guid><description>
 
 
 
@@ -3666,13 +3666,13 @@ The security update addresses the vulnerability by correcting how the Windows CN
 
 "The campaign uses Portuguese and Spanish lures that resemble court notifications, fiscal&#237;a notices, tutela proceedings, and...</description></item><item><title>iOS Sandbox Escape Is Public, and Apple Hasn&#8217;t Confirmed a Fix</title><link>https://securityaffairs.com/202788/hacking/ios-sandbox-escape-is-public-and-apple-hasnt-confirmed-a-fix.html</link><pubDate>Tue, 10 Nov 2026 15:46:20 +0000</pubDate><guid isPermaLink="false">https://securityaffairs.com/?p=202788</guid><description>A public iOS sandbox escape could expose wallet keys, Binance warns. No attacks are reported and no fix is confirmed. On 10 November, Binance warned users about a public iOS sandbox escape that lets one app read the files of other apps. Seed phrases, private keys and login credentials could be exposed to a malicious [&#8230;]</description></item><item><title>N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs</title><link>https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/</link><pubDate>Tue, 10 Nov 2026 15:45:27 +0000</pubDate><guid isPermaLink="false">https://techcrunch.com/?p=3186878</guid><description>The remote access giant also urged its self-hosted customers to take down their own servers amid a "critical security incident," fearing the possibility of cyberattacks.</description></item><item><title>Cybercriminals are increasingly infecting regular people with spyware</title><link>https://therecord.media/spyware-cyber-crime-iverify</link><pubDate>Tue, 10 Nov 2026 15:45:00 GMT</pubDate><guid isPermaLink="false">https://therecord.media/spyware-cyber-crime-iverify</guid><description>Cybercriminals are infecting devices on a large scale with spyware, increasingly compromising systems belonging to average people, according to a new report.</description></item><item><title>Trump picks Palantir cybersecurity executive to lead CISA</title><link>https://www.cybersecuritydive.com/news/trump-cisa-director-nominee-michael-losapio/874256/</link><pubDate>Tue, 10 Nov 2026 10:44:42 -0500</pubDate><guid isPermaLink="false">https://www.cybersecuritydive.com/news/trump-cisa-director-nominee-michael-losapio/874256/</guid><description>The nomination &#8212; Trump&#8217;s second attempt to fill a post that has sat vacant for his entire second term &#8212; could face steep odds in the Senate.</description></item><item><title>Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats</title><link>https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html</link><pubDate>Tue, 10 Nov 2026 21:03:59 +0530</pubDate><guid isPermaLink="false">https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html</guid><description>Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month&#160; uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a "limited set of accounts."
 
-In a notice published on October 10, 2026, the company said it detected unauthorized use of internal Fireworks...</description></item><item><title>France attributes grocery hacks to Iran-backed threat actors</title><link>https://www.cybersecuritydive.com/news/france-attributes-grocery-hacks-to-iran-backed-threat-actors/874252/</link><pubDate>Tue, 10 Nov 2026 10:33:42 -0500</pubDate><guid isPermaLink="false">https://www.cybersecuritydive.com/news/france-attributes-grocery-hacks-to-iran-backed-threat-actors/874252/</guid><description>Attackers compromised hundreds of refrigerator components at supermarkets, agricultural facilities and local shops.</description></item><item><title>Fireworks AI gets burned twice as customer data exposure widens</title><link>https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722</link><pubDate>Tue, 10 Nov 2026 16:28:00 +0100</pubDate><guid isPermaLink="false">https://www.theregister.com/a/5308722</guid><description>Inference biz pins latest breach on cloud provider and LLMJacking miscreants</description></item><item><title>UZ Brussel among hospitals experiencing severe network problems</title><link>https://databreaches.net/2026/11/10/uz-brussel-among-hospitals-experiencing-severe-network-problems/</link><pubDate>Tue, 10 Nov 2026 15:24:26 +0000</pubDate><guid isPermaLink="false">https://databreaches.net/?p=130317</guid><description>VRT reports: Brussels University Hospital UZ Brussel (VUB) was the first hospital to report network problems. These are affecting the hospital&#8217;s IT infrastructure and telephone systems. There are also problems at AZ Monica in Antwerp, at the Heilig Hart Hospital in Lier and Sint-Andries Hospital in Tielt. As a result, at UZ Brussel scheduled operations......</description></item><item><title>Fireworks discloses second security breach following third-party cloud attack</title><link>https://www.scworld.com/brief/fireworks-discloses-second-security-breach-following-third-party-cloud-attack</link><pubDate>2026-11-10T10:01:03-05:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,953487</guid><description></description></item><item><title>Today: CISO Forum Virtual Summit 2026 &#8211; Join Global Cybersecurity Leaders</title><link>https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/</link><pubDate>Tue, 10 Nov 2026 15:00:00 +0000</pubDate><guid isPermaLink="false">https://www.securityweek.com/?p=50652</guid><description>Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovative risk management and defense strategies defining the modern enterprise.
+In a notice published on October 10, 2026, the company said it detected unauthorized use of internal Fireworks...</description></item><item><title>France attributes grocery hacks to Iran-backed threat actors</title><link>https://www.cybersecuritydive.com/news/france-attributes-grocery-hacks-to-iran-backed-threat-actors/874252/</link><pubDate>Tue, 10 Nov 2026 10:33:42 -0500</pubDate><guid isPermaLink="false">https://www.cybersecuritydive.com/news/france-attributes-grocery-hacks-to-iran-backed-threat-actors/874252/</guid><description>Attackers compromised hundreds of refrigerator components at supermarkets, agricultural facilities and local shops.</description></item><item><title>Fireworks AI gets burned twice as customer data exposure widens</title><link>https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722</link><pubDate>Tue, 10 Nov 2026 16:28:00 +0100</pubDate><guid isPermaLink="false">https://www.theregister.com/a/5308722</guid><description>Inference biz pins latest breach on cloud provider and LLMJacking miscreants</description></item><item><title>UZ Brussel among hospitals experiencing severe network problems</title><link>https://databreaches.net/2026/11/10/uz-brussel-among-hospitals-experiencing-severe-network-problems/</link><pubDate>Tue, 10 Nov 2026 15:24:26 +0000</pubDate><guid isPermaLink="false">https://databreaches.net/?p=130317</guid><description>VRT reports: Brussels University Hospital UZ Brussel (VUB) was the first hospital to report network problems. These are affecting the hospital&#8217;s IT infrastructure and telephone systems. There are also problems at AZ Monica in Antwerp, at the Heilig Hart Hospital in Lier and Sint-Andries Hospital in Tielt. As a result, at UZ Brussel scheduled operations......</description></item><item><title>Fireworks discloses second security breach following third-party cloud attack</title><link>https://www.scworld.com/brief/fireworks-discloses-second-security-breach-following-third-party-cloud-attack</link><pubDate>2026-11-10T10:01:03-05:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,953487</guid><description/></item><item><title>Today: CISO Forum Virtual Summit 2026 &#8211; Join Global Cybersecurity Leaders</title><link>https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/</link><pubDate>Tue, 10 Nov 2026 15:00:00 +0000</pubDate><guid isPermaLink="false">https://www.securityweek.com/?p=50652</guid><description>Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovative risk management and defense strategies defining the modern enterprise.
 The post Today: CISO Forum Virtual Summit 2026 &#8211; Join Global Cybersecurity Leaders appeared first on SecurityWeek.</description></item><item><title>WhiteMatter Raises $20 Million in Series A Funding</title><link>https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/</link><pubDate>Tue, 10 Nov 2026 14:58:19 +0000</pubDate><guid isPermaLink="false">https://www.securityweek.com/?p=50660</guid><description>The cybersecurity startup deploys a dedicated guardian agent for every AI agent in an organization&#8217;s environment.
 The post WhiteMatter Raises $20 Million in Series A Funding appeared first on SecurityWeek.</description></item><item><title>HIPAA Enforcement by State Attorneys General</title><link>https://databreaches.net/2026/11/10/hipaa-enforcement-by-state-attorneys-general-3/</link><pubDate>Tue, 10 Nov 2026 14:55:10 +0000</pubDate><guid isPermaLink="false">https://databreaches.net/?p=130315</guid><description>HIPAA Journal has a convenient table of HIPAA enforcement actions by state attorneys general. Most entries involve violations of the Security Rule and/or HITECH, but a few appear to relate more to the Privacy Rule or access to records. You can find the table at https://www.hipaajournal.com/hipaa-enforcement-by-state-attorneys-general/ DataBreaches.net has reported on most of the incidents or......</description></item><item><title>SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities</title><link>https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/</link><pubDate>Tue, 10 Nov 2026 14:46:28 +0000</pubDate><guid isPermaLink="false">https://www.securityweek.com/?p=50655</guid><description>SAP has published 42 new and updated security advisories, including nine that address critical-severity vulnerabilities.
 The post SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities appeared first on SecurityWeek.</description></item><item><title>AI reverse engineering let researchers add a new feature to Slack</title><link>https://www.helpnetsecurity.com/2026/11/10/slack-ai-reverse-engineering/</link><pubDate>Tue, 10 Nov 2026 14:45:18 +0000</pubDate><guid isPermaLink="false">https://www.helpnetsecurity.com/?p=390876</guid><description>Intezer researchers used AI agents to rebuild source code for Slack, Apple&#8217;s Finder and a TinyTurla-NG sample, from a backdoor family Cisco Talos attributes to the Turla group. They worked from the shipped programs and vendor documentation. The rebuilt Slack ran well enough that the team added a new feature to it: AI text autocomplete, powered by a small local model. Software vendors that count on compiling their programs to keep source code private are &#8230; More &#8594;
-The post AI reverse engineering let researchers add a new feature to Slack appeared first on Help Net Security....</description></item><item><title>Wyndham addresses security flaw in Android app</title><link>https://www.scworld.com/brief/wyndham-addresses-security-flaw-in-android-app</link><pubDate>2026-11-10T09:40:34-05:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,953486</guid><description></description></item><item><title>Palantir exec nominated to lead CISA; lame-duck Senate vote is uncertain</title><link>https://therecord.media/michael-losapio-cisa-director-nomination</link><pubDate>Tue, 10 Nov 2026 14:31:00 GMT</pubDate><guid isPermaLink="false">https://therecord.media/michael-losapio-cisa-director-nomination</guid><description>Michael LoSapio, Palantir's chief information security officer, is officially President Donald Trump's pick to lead the Cybersecurity and Infrastructure Security Agency.</description></item><item><title>Russia-Linked Turla Hijacks Exchange Servers to Spy on NATO and EU Emails</title><link>https://www.infosecurity-magazine.com/news/turla-cereal-exchange-email/</link><pubDate>Tue, 10 Nov 2026 14:30:00 GMT</pubDate><guid isPermaLink="false">https://www.infosecurity-magazine.com/news/turla-cereal-exchange-email/</guid><description>Turla used compromised Exchange servers to collect NATO and EU-linked emails</description></item><item><title>Remus stealer adds persistent Gmail access feature</title><link>https://www.scworld.com/brief/remus-stealer-adds-persistent-gmail-access-feature</link><pubDate>2026-11-10T09:27:32-05:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,953485</guid><description>The operators of the Remus stealer malware are marketing a new capability that allows criminals to access victims' Gmail inboxes directly from a control panel, according to insights from Cyber Insider.</description></item><item><title>Black Hat India 2026 concludes inaugural edition in Bengaluru</title><link>https://www.scworld.com/brief/black-hat-india-2026-concludes-inaugural-edition-in-bengaluru</link><pubDate>2026-11-10T09:10:30-05:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,953417</guid><description></description></item><item><title>Post-Quantum Cryptography architectural considerations</title><link>https://community.citrix.com/techzone-blogs/platform-services/post-quantum-cryptography-architectural-considerations-pt5/</link><pubDate>Tue, 10 Nov 2026 14:03:00 +0000</pubDate><guid isPermaLink="false">https://community.citrix.com/techzone-blogs/platform-services/post-quantum-cryptography-architectural-considerations-pt5/</guid><description>PT5: Entropy  Fifth in a series on post-quantum cryptography architectural considerations for architects and engineers designing encryption for the pre-quantum era while preparing for post-quantum protection.  Entropy: the hidden foundation of quantum-safe cryptography Post-quantum cryptography is often discussed in terms of algorithms, key sizes, migration roadmaps, and hybrid deployment models. Those topics matter, but they all depend on something more fundamental: entropy. Entropy is the source of unpredictability that makes cryptographic secrets difficult to guess, reproduce, or break. Wit...</description></item><item><title>Dreeze raises $33 million to automate recovery of entire cloud applications</title><link>https://www.helpnetsecurity.com/2026/11/10/dreeze-application-revival-33-million-funding/</link><pubDate>Tue, 10 Nov 2026 14:00:13 +0000</pubDate><guid isPermaLink="false">https://www.helpnetsecurity.com/?p=390649</guid><description>Dreeze emerged from stealth with $33 million in seed funding and announced the general availability of its Application Revival platform for Amazon Web Services (AWS). Norwest and Bessemer Venture Partners led the round, with participation from Claltech. The platform helps enterprises recover complete cloud applications by restoring data, infrastructure, and dependencies in the order they need to come back online. A successful backup can still leave a business offline. Cloud applications rely on infrastructure, configurations, &#8230; More &#8594;
+The post AI reverse engineering let researchers add a new feature to Slack appeared first on Help Net Security....</description></item><item><title>Wyndham addresses security flaw in Android app</title><link>https://www.scworld.com/brief/wyndham-addresses-security-flaw-in-android-app</link><pubDate>2026-11-10T09:40:34-05:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,953486</guid><description/></item><item><title>Palantir exec nominated to lead CISA; lame-duck Senate vote is uncertain</title><link>https://therecord.media/michael-losapio-cisa-director-nomination</link><pubDate>Tue, 10 Nov 2026 14:31:00 GMT</pubDate><guid isPermaLink="false">https://therecord.media/michael-losapio-cisa-director-nomination</guid><description>Michael LoSapio, Palantir's chief information security officer, is officially President Donald Trump's pick to lead the Cybersecurity and Infrastructure Security Agency.</description></item><item><title>Russia-Linked Turla Hijacks Exchange Servers to Spy on NATO and EU Emails</title><link>https://www.infosecurity-magazine.com/news/turla-cereal-exchange-email/</link><pubDate>Tue, 10 Nov 2026 14:30:00 GMT</pubDate><guid isPermaLink="false">https://www.infosecurity-magazine.com/news/turla-cereal-exchange-email/</guid><description>Turla used compromised Exchange servers to collect NATO and EU-linked emails</description></item><item><title>Remus stealer adds persistent Gmail access feature</title><link>https://www.scworld.com/brief/remus-stealer-adds-persistent-gmail-access-feature</link><pubDate>2026-11-10T09:27:32-05:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,953485</guid><description>The operators of the Remus stealer malware are marketing a new capability that allows criminals to access victims' Gmail inboxes directly from a control panel, according to insights from Cyber Insider.</description></item><item><title>Black Hat India 2026 concludes inaugural edition in Bengaluru</title><link>https://www.scworld.com/brief/black-hat-india-2026-concludes-inaugural-edition-in-bengaluru</link><pubDate>2026-11-10T09:10:30-05:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,953417</guid><description/></item><item><title>Post-Quantum Cryptography architectural considerations</title><link>https://community.citrix.com/techzone-blogs/platform-services/post-quantum-cryptography-architectural-considerations-pt5/</link><pubDate>Tue, 10 Nov 2026 14:03:00 +0000</pubDate><guid isPermaLink="false">https://community.citrix.com/techzone-blogs/platform-services/post-quantum-cryptography-architectural-considerations-pt5/</guid><description>PT5: Entropy  Fifth in a series on post-quantum cryptography architectural considerations for architects and engineers designing encryption for the pre-quantum era while preparing for post-quantum protection.  Entropy: the hidden foundation of quantum-safe cryptography Post-quantum cryptography is often discussed in terms of algorithms, key sizes, migration roadmaps, and hybrid deployment models. Those topics matter, but they all depend on something more fundamental: entropy. Entropy is the source of unpredictability that makes cryptographic secrets difficult to guess, reproduce, or break. Wit...</description></item><item><title>Dreeze raises $33 million to automate recovery of entire cloud applications</title><link>https://www.helpnetsecurity.com/2026/11/10/dreeze-application-revival-33-million-funding/</link><pubDate>Tue, 10 Nov 2026 14:00:13 +0000</pubDate><guid isPermaLink="false">https://www.helpnetsecurity.com/?p=390649</guid><description>Dreeze emerged from stealth with $33 million in seed funding and announced the general availability of its Application Revival platform for Amazon Web Services (AWS). Norwest and Bessemer Venture Partners led the round, with participation from Claltech. The platform helps enterprises recover complete cloud applications by restoring data, infrastructure, and dependencies in the order they need to come back online. A successful backup can still leave a business offline. Cloud applications rely on infrastructure, configurations, &#8230; More &#8594;
 The post Dreeze raises $33 million to automate recovery of ...</description></item><item><title>Cloud Vulnerabilities Surge Fourfold in Less Than a Year</title><link>https://www.infosecurity-magazine.com/news/cloud-vulnerabilities-surge/</link><pubDate>Tue, 10 Nov 2026 14:00:00 GMT</pubDate><guid isPermaLink="false">https://www.infosecurity-magazine.com/news/cloud-vulnerabilities-surge/</guid><description>AI is amplifying the impact of vulnerabilities, long-lived credentials and other cloud risks, says Datadog</description></item><item><title>Chrome zero-day whack-a-mole continues as 2026 tally hits 8</title><link>https://www.theregister.com/security/2026/11/10/chrome-zero-day-whack-a-mole-continues-as-2026-tally-hits-8/5308732</link><pubDate>Tue, 10 Nov 2026 14:28:00 +0100</pubDate><guid isPermaLink="false">https://www.theregister.com/a/5308732</guid><description>Another Chrome memory bug gets squashed, but not before attackers got their hands on it</description></item><item><title>Over a Dozen Organizations Hit in Qubole Supply Chain Attack</title><link>https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/</link><pubDate>Tue, 10 Nov 2026 13:27:44 +0000</pubDate><guid isPermaLink="false">https://www.securityweek.com/?p=50648</guid><description>Hackers used compromised Qubole IAM credentials to steal customer files, secrets, keys, environment variables, and credentials.
-The post Over a Dozen Organizations Hit in Qubole Supply Chain Attack appeared first on SecurityWeek.</description></item><item><title>Vanderbilt University responds to cyberattack by BYOD ransomware group</title><link>https://www.scworld.com/brief/vanderbilt-university-responds-to-cyberattack-by-byod-ransomware-group</link><pubDate>2026-11-10T08:27:33-05:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,953490</guid><description></description></item><item><title>CISA tweaks cyber incident form to spot attacks that might be linked</title><link>https://www.helpnetsecurity.com/2026/11/10/cisa-incident-reporting-form-update/</link><pubDate>Tue, 10 Nov 2026 13:17:50 +0000</pubDate><guid isPermaLink="false">https://www.helpnetsecurity.com/?p=390861</guid><description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its online incident reporting form to help analysts spot when attacks on different organizations may be part of the same campaign. The revised questionnaire asks more specific questions and removes duplicate ones. The form asks whether an incident involved malware, attempts to trick people, hacking techniques, or an insider threat. It also uses terms from MITRE ATT&amp;CK, a catalog of attacker techniques. When organizations describe &#8230; More &#8594;
+The post Over a Dozen Organizations Hit in Qubole Supply Chain Attack appeared first on SecurityWeek.</description></item><item><title>Vanderbilt University responds to cyberattack by BYOD ransomware group</title><link>https://www.scworld.com/brief/vanderbilt-university-responds-to-cyberattack-by-byod-ransomware-group</link><pubDate>2026-11-10T08:27:33-05:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,953490</guid><description/></item><item><title>CISA tweaks cyber incident form to spot attacks that might be linked</title><link>https://www.helpnetsecurity.com/2026/11/10/cisa-incident-reporting-form-update/</link><pubDate>Tue, 10 Nov 2026 13:17:50 +0000</pubDate><guid isPermaLink="false">https://www.helpnetsecurity.com/?p=390861</guid><description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its online incident reporting form to help analysts spot when attacks on different organizations may be part of the same campaign. The revised questionnaire asks more specific questions and removes duplicate ones. The form asks whether an incident involved malware, attempts to trick people, hacking techniques, or an insider threat. It also uses terms from MITRE ATT&amp;CK, a catalog of attacker techniques. When organizations describe &#8230; More &#8594;
 The post CISA tweaks cyber incident form to spot attacks that might be linked ap...</description></item><item><title>Ransomware threat blares from Vanderbilt University computers during cyberattack</title><link>https://www.theregister.com/cyber-crime/2026/11/10/ransomware-threat-blares-from-vanderbilt-university-computers-during-cyberattack/5308687</link><pubDate>Tue, 10 Nov 2026 14:00:00 +0100</pubDate><guid isPermaLink="false">https://www.theregister.com/a/5308687</guid><description>BYOD claims extensive data theft as campus Wi-Fi returns, most systems remain restricted, and classes carry on</description></item><item><title>Russian hackers compromised government email servers to steal NATO, EU correspondence</title><link>https://therecord.media/russia-hackers-espionage-romania-kazakhstan</link><pubDate>Tue, 10 Nov 2026 13:00:00 GMT</pubDate><guid isPermaLink="false">https://therecord.media/russia-hackers-espionage-romania-kazakhstan</guid><description>Russian state-linked hackers have compromised government email servers in Romania and Kazakhstan  to secretly intercept messages exchanged with NATO and European Union officials, researchers said.</description></item><item><title>Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns</title><link>https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/</link><pubDate>Tue, 10 Nov 2026 13:00:00 +0000</pubDate><guid isPermaLink="false">https://techcrunch.com/?p=3185992</guid><description>Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.</description></item><item><title>Apple Patches Everyting: November 2026 Edition, (Tue, Nov 10th)</title><link>https://isc.sans.edu/diary/rss/33506</link><pubDate>Tue, 10 Nov 2026 12:48:55 GMT</pubDate><guid isPermaLink="false">https://isc.sans.edu/diary/rss/33506</guid><description>  </description></item><item><title>Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence &#8216;going rogue&#8217;</title><link>https://databreaches.net/2026/11/10/australia-to-introduce-mandatory-reporting-after-openai-hack-to-combat-artificial-intelligence-going-rogue/</link><pubDate>Tue, 10 Nov 2026 12:47:45 +0000</pubDate><guid isPermaLink="false">https://databreaches.net/?p=130300</guid><description>Tess Ikonomou and Josh Butler report: OpenAI will not face criminal penalties over the Medicare data breach, but the prime minister has flagged changes to Australia&#8217;s criminal law to crack down on future breaches by artificial intelligence companies. Anthony Albanese on Tuesday released the recommendations of a &#8220;rapid review&#8221; into the June breach of a......</description></item><item><title>Ransomware Attack Puts Vanderbilt University on Lockdown</title><link>https://databreaches.net/2026/11/10/ransomware-attack-puts-vanderbilt-university-on-lockdown/</link><pubDate>Tue, 10 Nov 2026 12:47:36 +0000</pubDate><guid isPermaLink="false">https://databreaches.net/?p=130304</guid><description>Eli Motycka reports: A broad announcement to shut down university devices and disconnect from university Wi-Fi went out on Monday morning as malicious software began spreading through computers, files and digital infrastructure. The incident follows similar hacks at universities across the country. &#8220;We are currently responding to an active cybersecurity incident that may impact university......</description></item><item><title>SG: SPH Media hit by cyberattacks; says no customer financial data or access exposed</title><link>https://databreaches.net/2026/11/10/sg-sph-media-hit-by-cyberattacks-says-no-customer-financial-data-or-access-exposed/</link><pubDate>Tue, 10 Nov 2026 12:47:25 +0000</pubDate><guid isPermaLink="false">https://databreaches.net/?p=130302</guid><description>CNA reports: SPH Media has been hit by cyberattacks on five of its systems, but no customer financial information or account access was compromised, the company said on Tuesday (Nov 10). &#8220;(The cyberattacks) are believed to be a concerted effort that was carried out by the same threat actor,&#8221; an SPH Media spokesperson said in...</description></item><item><title>Ca: Data breach at The Children&#8217;s Foundation</title><link>https://databreaches.net/2026/11/10/ca-data-breach-at-the-childrens-foundation/</link><pubDate>Tue, 10 Nov 2026 12:47:10 +0000</pubDate><guid isPermaLink="false">https://databreaches.net/?p=130306</guid><description>Tim Durkin reports: The Children&#8217;s Foundation has issued a privacy notice following a data breach involving its IT service provider, Highland Shores Children&#8217;s Aid Society. An unauthorized third party accessed the IT network on July 6, 2026 and encrypted systems before being detected on August 25. The breach may have exposed personal information belonging to......</description></item><item><title>Ph: NPC receives data breach reports from 10 agencies</title><link>https://databreaches.net/2026/11/10/ph-npc-receives-data-breach-reports-from-10-agencies/</link><pubDate>Tue, 10 Nov 2026 12:47:02 +0000</pubDate><guid isPermaLink="false">https://databreaches.net/?p=130308</guid><description>Othel V. Campos &amp; Rex Espiritu report: The National Privacy Commission (NPC) said Tuesday it has received personal data breach notifications from 10 government agencies, including the Bureau of Internal Revenue (BIR), the Department of Information and Communications Technology (DICT) and the Securities and Exchange Commission (SEC). The other agencies are the Presidential Commission on......</description></item><item><title>Kr: Financial Security Institute reports data leak following hacking incident</title><link>https://databreaches.net/2026/11/10/kr-financial-security-institute-reports-data-leak-following-hacking-incident/</link><pubDate>Tue, 10 Nov 2026 12:46:15 +0000</pubDate><guid isPermaLink="false">https://databreaches.net/?p=130310</guid><description>Yonhap News reports: Korea&#8217;s state-run Financial Security Institute (FSI) reported a data leak following a hacking attack targeting its security assessment system, officials said on Tuesday. The FSI, which oversees financial information provided by banks and insurers, detected the breach the previous day, according to financial authorities. The leaked information reportedly came from the FSI&#8217;s......</description></item><item><title>Microsoft&#8217;s AI bug hunter finds Rust flaw that went undetected for nearly 11 years</title><link>https://www.csoonline.com/article/4246787/microsofts-ai-bug-hunter-finds-rust-flaw-that-went-undetected-for-nearly-11-years.html</link><pubDate>Tue, 10 Nov 2026 12:36:55 +0000</pubDate><guid isPermaLink="false">https://www.csoonline.com/article/4246787/microsofts-ai-bug-hunter-finds-rust-flaw-that-went-undetected-for-nearly-11-years.html</guid><description>
 
 
@@ -3698,5 +3698,685 @@ The post Claude Mythos 5.2 arrives with stronger bug hunting and less sandbox-br
 
 After the alert
 
-The alert tells you something happened. However, gaining...</description></item><item><title>Truth or consequences: What your AI strategy is standing on</title><link>https://www.cybersecuritydive.com/spons/truth-or-consequences-what-your-ai-strategy-is-standing-on/873999/</link><pubDate>Tue, 10 Nov 2026 05:00:00 -0500</pubDate><guid isPermaLink="false">https://www.cybersecuritydive.com/spons/truth-or-consequences-what-your-ai-strategy-is-standing-on/873999/</guid><description>AI acts on bad asset data as confidently as good. Verify the foundation first.&#160;</description></item><item><title>ZDI-26-906: X.Org Server libX11 XkbGetMap Reply Heap-based Buffer Overflow Remote Code Execution Vulnerability</title><link>http://www.zerodayinitiative.com/advisories/ZDI-26-906/</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0600</pubDate><guid isPermaLink="false">ZDI-CAN-32061</guid><description>This vulnerability allows remote attackers to execute arbitrary code on affected installations of X.Org Server. User interaction is required to exploit this vulnerability in that the target must connect to a malicious X11 server. The ZDI has assigned a CVSS rating of 8.8. The following CVEs are assigned: CVE-2026-88806.</description></item><item><title>ZDI-26-905: X.Org Server libXrender RenderQueryPictFormats Reply Heap-based Buffer Overflow Remote Code Execution Vulnerability</title><link>http://www.zerodayinitiative.com/advisories/ZDI-26-905/</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0600</pubDate><guid isPermaLink="false">ZDI-CAN-32093</guid><description>This vulnerability allows remote attackers to execute arbitrary code on affected installations of X.Org Server. User interaction is required to exploit this vulnerability in that the target must connect to a malicious X11 server. The ZDI has assigned a CVSS rating of 8.8. The following CVEs are assigned: CVE-2026-88807.</description></item><item><title>ZDI-26-904: NVIDIA Megatron-LM Checkpoint Deserialization of Untrusted Data Remote Code Execution Vulnerability</title><link>http://www.zerodayinitiative.com/advisories/ZDI-26-904/</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0600</pubDate><guid isPermaLink="false">ZDI-CAN-29291</guid><description>This vulnerability allows remote attackers to execute arbitrary code on affected installations of NVIDIA Megatron-LM. User interaction is required to exploit this vulnerability in that the target must open a malicious file. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-65110.</description></item><item><title>ZDI-26-903: X.Org Server Font Alias Resolution Heap-based Buffer Overflow Privilege Escalation Vulnerability</title><link>http://www.zerodayinitiative.com/advisories/ZDI-26-903/</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0600</pubDate><guid isPermaLink="false">ZDI-CAN-30444</guid><description>This vulnerability allows local attackers to escalate privileges on affected installations of X.Org Server. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-50256.</description></item><item><title>ZDI-26-902: X.Org Server XkbResizeKeySyms Integer Overflow Privilege Escalation Vulnerability</title><link>http://www.zerodayinitiative.com/advisories/ZDI-26-902/</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0600</pubDate><guid isPermaLink="false">ZDI-CAN-30443</guid><description>This vulnerability allows local attackers to escalate privileges on affected installations of X.Org Server. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-50258.</description></item><item><title>ZDI-26-901: X.Org Server ProcDRI2GetBuffers Heap-based Buffer Overflow Privilege Escalation Vulnerability</title><link>http://www.zerodayinitiative.com/advisories/ZDI-26-901/</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0600</pubDate><guid isPermaLink="false">ZDI-CAN-30557</guid><description>This vulnerability allows local attackers to escalate privileges on affected installations of X.Org Server. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-50264.</description></item><item><title>ZDI-26-900: Wireshark SMB Object Export Integer Overflow Remote Code Execution Vulnerability</title><link>http://www.zerodayinitiative.com/advisories/ZDI-26-900/</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0600</pubDate><guid isPermaLink="false">ZDI-CAN-31676</guid><description>This vulnerability allows remote attackers to execute arbitrary code on affected installations of Wireshark. User interaction is required to exploit this vulnerability. The ZDI has assigned a CVSS rating of 8.8.</description></item><item><title>ZDI-26-899: Wireshark LBMC Fragment Reassembly Integer Overflow Remote Code Execution Vulnerability</title><link>http://www.zerodayinitiative.com/advisories/ZDI-26-899/</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0600</pubDate><guid isPermaLink="false">ZDI-CAN-32846</guid><description>This vulnerability allows remote attackers to execute arbitrary code on affected installations of Wireshark. Authentication is not required to exploit this vulnerability. However, only instances with LBMC fragment reassembly enabled are vulnerable. The ZDI has assigned a CVSS rating of 7.5.</description></item><item><title>ZDI-26-898: Wireshark LoRaWAN Decryption Numeric Truncation Error Remote Code Execution Vulnerability</title><link>http://www.zerodayinitiative.com/advisories/ZDI-26-898/</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0600</pubDate><guid isPermaLink="false">ZDI-CAN-32851</guid><description>This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Wireshark. Authentication is not required to exploit this vulnerability. However, only instances with LoRaWAN decryption enabled are vulnerable. The ZDI has assigned a CVSS rating of 7.1.</description></item></channel>
+The alert tells you something happened. However, gaining...</description></item><item><title>Truth or consequences: What your AI strategy is standing on</title><link>https://www.cybersecuritydive.com/spons/truth-or-consequences-what-your-ai-strategy-is-standing-on/873999/</link><pubDate>Tue, 10 Nov 2026 05:00:00 -0500</pubDate><guid isPermaLink="false">https://www.cybersecuritydive.com/spons/truth-or-consequences-what-your-ai-strategy-is-standing-on/873999/</guid><description>AI acts on bad asset data as confidently as good. Verify the foundation first.&#160;</description></item><item><title>ZDI-26-906: X.Org Server libX11 XkbGetMap Reply Heap-based Buffer Overflow Remote Code Execution Vulnerability</title><link>http://www.zerodayinitiative.com/advisories/ZDI-26-906/</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0600</pubDate><guid isPermaLink="false">ZDI-CAN-32061</guid><description>This vulnerability allows remote attackers to execute arbitrary code on affected installations of X.Org Server. User interaction is required to exploit this vulnerability in that the target must connect to a malicious X11 server. The ZDI has assigned a CVSS rating of 8.8. The following CVEs are assigned: CVE-2026-88806.</description></item><item><title>ZDI-26-905: X.Org Server libXrender RenderQueryPictFormats Reply Heap-based Buffer Overflow Remote Code Execution Vulnerability</title><link>http://www.zerodayinitiative.com/advisories/ZDI-26-905/</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0600</pubDate><guid isPermaLink="false">ZDI-CAN-32093</guid><description>This vulnerability allows remote attackers to execute arbitrary code on affected installations of X.Org Server. User interaction is required to exploit this vulnerability in that the target must connect to a malicious X11 server. The ZDI has assigned a CVSS rating of 8.8. The following CVEs are assigned: CVE-2026-88807.</description></item><item><title>ZDI-26-904: NVIDIA Megatron-LM Checkpoint Deserialization of Untrusted Data Remote Code Execution Vulnerability</title><link>http://www.zerodayinitiative.com/advisories/ZDI-26-904/</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0600</pubDate><guid isPermaLink="false">ZDI-CAN-29291</guid><description>This vulnerability allows remote attackers to execute arbitrary code on affected installations of NVIDIA Megatron-LM. User interaction is required to exploit this vulnerability in that the target must open a malicious file. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-65110.</description></item><item><title>ZDI-26-903: X.Org Server Font Alias Resolution Heap-based Buffer Overflow Privilege Escalation Vulnerability</title><link>http://www.zerodayinitiative.com/advisories/ZDI-26-903/</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0600</pubDate><guid isPermaLink="false">ZDI-CAN-30444</guid><description>This vulnerability allows local attackers to escalate privileges on affected installations of X.Org Server. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-50256.</description></item><item><title>ZDI-26-902: X.Org Server XkbResizeKeySyms Integer Overflow Privilege Escalation Vulnerability</title><link>http://www.zerodayinitiative.com/advisories/ZDI-26-902/</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0600</pubDate><guid isPermaLink="false">ZDI-CAN-30443</guid><description>This vulnerability allows local attackers to escalate privileges on affected installations of X.Org Server. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-50258.</description></item><item><title>ZDI-26-901: X.Org Server ProcDRI2GetBuffers Heap-based Buffer Overflow Privilege Escalation Vulnerability</title><link>http://www.zerodayinitiative.com/advisories/ZDI-26-901/</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0600</pubDate><guid isPermaLink="false">ZDI-CAN-30557</guid><description>This vulnerability allows local attackers to escalate privileges on affected installations of X.Org Server. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-50264.</description></item><item><title>ZDI-26-900: Wireshark SMB Object Export Integer Overflow Remote Code Execution Vulnerability</title><link>http://www.zerodayinitiative.com/advisories/ZDI-26-900/</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0600</pubDate><guid isPermaLink="false">ZDI-CAN-31676</guid><description>This vulnerability allows remote attackers to execute arbitrary code on affected installations of Wireshark. User interaction is required to exploit this vulnerability. The ZDI has assigned a CVSS rating of 8.8.</description></item><item><title>ZDI-26-899: Wireshark LBMC Fragment Reassembly Integer Overflow Remote Code Execution Vulnerability</title><link>http://www.zerodayinitiative.com/advisories/ZDI-26-899/</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0600</pubDate><guid isPermaLink="false">ZDI-CAN-32846</guid><description>This vulnerability allows remote attackers to execute arbitrary code on affected installations of Wireshark. Authentication is not required to exploit this vulnerability. However, only instances with LBMC fragment reassembly enabled are vulnerable. The ZDI has assigned a CVSS rating of 7.5.</description></item><item><title>ZDI-26-898: Wireshark LoRaWAN Decryption Numeric Truncation Error Remote Code Execution Vulnerability</title><link>http://www.zerodayinitiative.com/advisories/ZDI-26-898/</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0600</pubDate><guid isPermaLink="false">ZDI-CAN-32851</guid><description>This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Wireshark. Authentication is not required to exploit this vulnerability. However, only instances with LoRaWAN decryption enabled are vulnerable. The ZDI has assigned a CVSS rating of 7.1.</description></item><item><title>Managed service providers face client trust challenges during ransomware recovery</title><link>https://www.scworld.com/brief/managed-service-providers-face-client-trust-challenges-during-ransomware-recovery</link><pubDate>2026-11-10T18:05:02-05:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,953609</guid><description>Managed service providers often struggle to maintain client trust following ransomware attacks due to communication gaps and billing inconsistencies, based on information published by Bleeping Computer.</description></item><item><title>Amplifon Americas discloses data breach affecting sensitive customer information</title><link>https://www.scworld.com/brief/amplifon-americas-discloses-data-breach-affecting-sensitive-customer-information</link><pubDate>2026-11-10T18:00:59-05:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,953597</guid><description>Tech Radar reports that Amplifon Americas has disclosed a significant cyberattack resulting in the unauthorized exposure of sensitive personal, insurance and healthcare-related information.</description></item><item><title>Flashpoint launches agentic AI to automate cybersecurity threat investigations</title><link>https://www.scworld.com/brief/flashpoint-launches-agentic-ai-to-automate-cybersecurity-threat-investigations</link><pubDate>2026-11-10T17:56:47-05:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,953600</guid><description>Flashpoint Agentic AI has been introduced to help organizations accelerate threat investigations, automate cybersecurity intelligence tasks and scale operations, with further coverage provided by Silicon Angle.</description></item><item><title>Critical authentication bypass vulnerability in Xen Orchestra under active exploitation</title><link>https://www.scworld.com/brief/critical-authentication-bypass-vulnerability-in-xen-orchestra-under-active-exploitation</link><pubDate>2026-11-10T17:54:21-05:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,953606</guid><description>A critical authentication bypass vulnerability in Xen Orchestra is currently being exploited in the wild, potentially granting unauthorized actors administrator privileges and full control over XCP-ng virtualization hosts, based on information published by Bleeping Computer.</description></item><item><title>Cowbell Cyber introduces AI liability insurance for small and midsized businesses</title><link>https://www.scworld.com/brief/cowbell-cyber-introduces-ai-liability-insurance-for-small-and-midsized-businesses</link><pubDate>2026-11-10T17:38:34-05:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,953610</guid><description>Silicon Angle disclosed that Cowbell Cyber Inc. has launched a standalone insurance policy designed to protect small and midsized businesses against financial losses stemming from the deployment of artificial intelligence agents.</description></item><item><title>CISA director pick already drawing concern from Hill Dems over Palantir connection</title><link>https://cyberscoop.com/michael-losapio-cisa-director-nomination-palantir-scrutiny/</link><pubDate>Tue, 10 Nov 2026 22:38:16 +0000</pubDate><guid isPermaLink="false">https://cyberscoop.com/?p=91527</guid><description>Others touted Michael LoSapio as a fit for the job due to his technical credentials as CISO for the company.
+The post CISA director pick already drawing concern from Hill Dems over Palantir connection appeared first on CyberScoop.</description></item><item><title>Blind Eagle threat group launches new phishing campaign in Latin America</title><link>https://www.scworld.com/brief/blind-eagle-threat-group-launches-new-phishing-campaign-in-latin-america</link><pubDate>2026-11-10T17:37:57-05:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,953607</guid><description>Blind Eagle, a threat actor also known as APT-C-36, has initiated a new cyberattack campaign targeting organizations across Latin America using judicial and administrative-themed phishing lures to distribute a remote access trojan, as first reported by The Hacker News.</description></item><item><title>November Patch Tuesday boasts over 1,000 bugs but only one zero-day so far</title><link>https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-but-only-one-zero-day-so-far/5308946</link><pubDate>Tue, 10 Nov 2026 23:37:01 +0100</pubDate><guid isPermaLink="false">https://www.theregister.com/a/5308946</guid><description>Microsoft admins wail and gnash their teeth</description></item><item><title>Teleport releases beams to secure artificial intelligence agents in production</title><link>https://www.scworld.com/brief/teleport-releases-beams-to-secure-artificial-intelligence-agents-in-production</link><pubDate>2026-11-10T17:33:23-05:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,953611</guid><description>As noted by Silicon Angle, Teleport has launched Teleport Beams, a runtime environment designed to securely integrate artificial intelligence agents into production infrastructure.</description></item><item><title>Lake County School Board seeks injunction requiring a parent who received unredacted data because of the district&#8217;s error to destroy the data</title><link>https://databreaches.net/2026/11/10/lake-county-school-board-seeks-injunction-requiring-a-parent-who-received-unredacted-data-because-the-districts-error-to-destroy-the-data/</link><pubDate>Tue, 10 Nov 2026 22:33:14 +0000</pubDate><guid isPermaLink="false">https://databreaches.net/?p=130326</guid><description>Fox35 in Orlando, Florida, reports that a school district is suing a parent after the district mistakenly sent them unredacted data in 47,000 records: The Lake County School Board filed a lawsuit against a parent after an employee mistakenly shared the confidential education and disability records of approximately 47,000 students. The district is asking a......</description></item><item><title>Bay AI launches with $50 million to secure enterprise AI agents</title><link>https://www.scworld.com/brief/bay-ai-launches-with-50-million-to-secure-enterprise-ai-agents</link><pubDate>2026-11-10T17:31:21-05:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,953601</guid><description>As noted by Silicon Angle, Israeli startup Bay AI Inc. has launched with $50 million in funding to provide security for autonomous AI agents within enterprise environments.</description></item><item><title>Cloud security risks rise as AI adoption accelerates</title><link>https://www.scworld.com/brief/cloud-security-risks-rise-as-ai-adoption-accelerates</link><pubDate>2026-11-10T17:29:10-05:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,953613</guid><description>As noted by Infosecurity Magazine, the median number of high or critical vulnerabilities in cloud workloads increased fourfold between May and November 2026, a trend attributed to the rapid integration of frontier artificial intelligence.</description></item><item><title>UK military deploys cyber hunt forces to track adversaries overseas</title><link>https://www.scworld.com/brief/uk-military-deploys-cyber-hunt-forces-to-track-adversaries-overseas</link><pubDate>2026-11-10T17:26:24-05:00</pubDate><guid isPermaLink="false">tag:www.scworld.com:post,953585</guid><description>Reported by IT Pro. The United Kingdom military is deploying specialized cybersecurity hunt forces overseas to physically track and disrupt cyber criminals targeting British military systems.</description></item><item><title>N-able N-central gets emergency fix two days after 33 exploits published</title><link>https://www.csoonline.com/article/4247028/n-able-n-central-gets-emergency-fix-two-days-after-33-exploits-published.html</link><pubDate>Tue, 10 Nov 2026 22:05:12 +0000</pubDate><guid isPermaLink="false">https://www.csoonline.com/article/4247028/n-able-n-central-gets-emergency-fix-two-days-after-33-exploits-published.html</guid><description>
+
+
+
+
+N-able has taken its hosted N-central remote monitoring and management (RMM) platform offline worldwide and shipped an emergency hotfix after a security researcher released 33 zero-day exploits for the software, including attack chains that could let unauthenticated attackers take over servers.
+N-central is used by managed service providers (MSPs) and enterprise IT teams to remotely manage, patch, and support endpoint systems, so a compromised server can expose every computer under its control. N-able said it took the hosted environments offline as a precaution and advised customers using...</description></item><item><title>Microsoft Fixes Nearly 1,100 Security Vulnerabilities</title><link>https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/</link><pubDate>Tue, 10 Nov 2026 21:55:03 +0000</pubDate><guid isPermaLink="false">https://krebsonsecurity.com/?p=74619</guid><description>Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from other software makers, including Adobe, Apple, Google&#160;and Mozilla....</description></item><item><title>The US wants its quantum lead to turn into factories and supply chains</title><link>https://cyberscoop.com/us-quantum-computing-industry-manufacturing-push/</link><pubDate>Tue, 10 Nov 2026 21:50:46 +0000</pubDate><guid isPermaLink="false">https://cyberscoop.com/?p=91518</guid><description>There&#8217;s bipartisan support for further investment in the U.S. quantum industry, along with worries that America&#8217;s industrial capacity won&#8217;t keep up with demand.
+The post The US wants its quantum lead to turn into factories and supply chains appeared first on CyberScoop.</description></item><item><title>Microsoft fixes over 1,000 vulnerabilities in November Patch Tuesday</title><link>https://cyberscoop.com/microsoft-patch-tuesday-november-2026/</link><pubDate>Tue, 10 Nov 2026 21:47:01 +0000</pubDate><guid isPermaLink="false">https://cyberscoop.com/?p=91521</guid><description>Microsoft&#8217;s November security update addresses roughly 1,090 vulnerabilities across Windows, Office, Azure and the company&#8217;s other product lines, the second consecutive monthly release to exceed the totals of all previous years. The release formally lists 1,094 CVEs, with Windows accounting for 726 and Office 174. A smaller number of patches went to SQL Server, Exchange [&#8230;]
+The post Microsoft fixes over 1,000 vulnerabilities in November Patch Tuesday appeared first on CyberScoop....</description></item><item><title>Ring robots ready to patrol paranoids&#8217; pads</title><link>https://www.theregister.com/offbeat/2026/11/10/ring-robots-ready-to-patrol-paranoids-pads/5308932</link><pubDate>Tue, 10 Nov 2026 22:45:45 +0100</pubDate><guid isPermaLink="false">https://www.theregister.com/a/5308932</guid><description>Amazon calls its home security drone and business patrol bot 'proactive protection'</description></item><item><title>U.S. CISA adds IBM, SignalWire FreeSwitch,&#160;OpenSSH, and GPUStack&#160;flaws to its Known Exploited Vulnerabilities catalog</title><link>https://securityaffairs.com/202813/hacking/u-s-cisa-adds-ibm-signalwire-freeswitch-openssh-and-gpustack-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link><pubDate>Tue, 10 Nov 2026 21:31:24 +0000</pubDate><guid isPermaLink="false">https://securityaffairs.com/?p=202813</guid><description>U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds IBM, SignalWire FreeSwitch,&#160;OpenSSH, and GPUStack flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA)&#160;added IBM, SignalWire FreeSwitch,&#160;OpenSSH, and GPUStack vulnerabilities to its&#160;Known Exploited Vulnerabilities (KEV) catalog: Below are the flaws added to the catalog: The first issue added to the catalog, [&#8230;]...</description></item><item><title>US Army member arrested in UK over allegations of spying for Russia</title><link>https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia</link><pubDate>Tue, 10 Nov 2026 21:13:00 GMT</pubDate><guid isPermaLink="false">https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia</guid><description>The unnamed soldier was arrested by British counterterrorism police &#8220;working closely&#8221; with U.S. authorities, including the FBI and the military, the Metropolitan Police said in a statement.</description></item><item><title>Microsoft&#8217;s Patch Tuesday surpasses 1,000 bugs for second month in a row</title><link>https://therecord.media/patch-tuesday-microsoft-1000-bugs-again</link><pubDate>Tue, 10 Nov 2026 20:55:00 GMT</pubDate><guid isPermaLink="false">https://therecord.media/patch-tuesday-microsoft-1000-bugs-again</guid><description>An exploited Outlook vulnerability drew most of the attention in Microsoft's latest Patch Tuesday, which listed 1,093 bugs total.</description></item><item><title>Russia-Linked APT Turla Turned Exchange Servers Into Their Own Control Room</title><link>https://securityaffairs.com/202800/apt/russia-linked-apt-turla-turned-exchange-servers-into-their-own-control-room.html</link><pubDate>Tue, 10 Nov 2026 20:40:48 +0000</pubDate><guid isPermaLink="false">https://securityaffairs.com/?p=202800</guid><description>ESET found Russia-Linked APT group Turla using a new toolset, dubbed Cereal, on government Exchange servers in Kazakhstan and Romania. ESET Research detailed a previously undocumented toolset it calls Cereal, built to run on Microsoft Exchange servers. The researchers found it on 28 November 2025 at a government body in Kazakhstan, and later at a [&#8230;]...</description></item><item><title>Near AI Breach Exposes User Details and Data From 18 AI Agents</title><link>https://databreaches.net/2026/11/10/near-ai-breach-exposes-user-details-and-data-from-18-ai-agents/</link><pubDate>Tue, 10 Nov 2026 20:39:48 +0000</pubDate><guid isPermaLink="false">https://databreaches.net/?p=130324</guid><description>Jose Antonio Lanz reports: Near AI has disclosed a breach that exposed account information belonging to about 100 users and data from 18 AI agents after an attacker exploited software running its servers. The company said in a November 9 report that an attacker used a remote code execution vulnerability in SGLang, an open-source engine...</description></item><item><title>Finally, Payment by Bank Transfer Comes to Have I Been Pwned</title><link>https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/</link><pubDate>Tue, 10 Nov 2026 20:26:15 GMT</pubDate><guid isPermaLink="false">6af2692fff45f200010d229b</guid><description>This is simultaneously the most boring yet exciting blog title I've written in a long time. How you pay for services isn't exactly a sexy topic, but it solves a problem that's been a massive bugbear for a long time.Here's a</description></item><item><title>Chrome Stable for iOS Update</title><link>http://chromereleases.googleblog.com/2026/11/chrome-stable-for-ios-update_01666689214.html</link><pubDate>2026-11-10T11:58:32.576-08:00</pubDate><guid isPermaLink="false">tag:blogger.com,1999:blog-8982037438137564684.post-1451359561887227232</guid><description>Hi everyone! We've just released Chrome Stable 158 (158.0.8127.32) for iOS; it'll become available on App Store in the next few hours.This release includes stability and performance improvements. You can see a full list of the changes in the Git log. If you find a new issue, please let us know by filing a bug.Chrome Release TeamGoogle Chrome</description></item><item><title>USN-9037-1: HPLIP vulnerabilities</title><link>https://ubuntu.com/security/notices/USN-9037-1</link><pubDate>Tue, 10 Nov 2026 19:50:31 +0000</pubDate><guid isPermaLink="false">https://ubuntu.com/security/notices/USN-9037-1</guid><description>It was discovered that HPLIP did not properly handle certain data, which
+could result in an out-of-bounds write. An attacker could possibly use this
+issue to cause a denial of service, expose sensitive information or execute
+arbitrary code. (CVE-2026-91097)
+
+It was discovered that HPLIP did not properly handle certain input, which
+could result in a heap-based buffer overflow. An attacker could possibly
+use this issue to cause a denial of service, expose sensitive information
+or execute arbitrary code. (CVE-2026-91098)
+
+It was discovered that HPLIP created certain files with insecure
+permission...</description></item><item><title>USN-9038-1: GStreamer Good Plugins, GStreamer Base Plugins vulnerabilities</title><link>https://ubuntu.com/security/notices/USN-9038-1</link><pubDate>Tue, 10 Nov 2026 18:38:56 +0000</pubDate><guid isPermaLink="false">https://ubuntu.com/security/notices/USN-9038-1</guid><description>It was discovered that GStreamer Good Plugins did not properly handle
+certain network streams. A remote attacker could possibly use this issue
+to cause an application crash or execute arbitrary code. This issue only
+affected Ubuntu 16.04 LTS, Ubuntu 18.04 LTS, and Ubuntu 20.04 LTS.
+(CVE-2026-3083, CVE-2026-3085)
+
+It was discovered that GStreamer Good Plugins incorrectly handled certain
+Matroska files. An attacker could possibly use this issue to cause an
+application crash, resulting in a denial of service. This issue only
+affected Ubuntu 16.04 LTS, Ubuntu 18.04 LTS, and Ubuntu 20.04 LTS.
+(CVE-...</description></item><item><title>CVE-2026-45465 Microsoft SharePoint Server Spoofing Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-45465</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-45465</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-44815 Windows DHCP Client Elevation of Privilege Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-44815</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-44815</guid><description>Updated Impact in the Security Updates table, CVE Title, and FAQs. This is an informational change only.</description></item><item><title>CVE-2026-50423 Windows Kernel Elevation of Privilege Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50423</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-50423</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-55043 Microsoft PowerPoint Remote Code Execution Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-55043</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-55043</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-55123 Microsoft PowerPoint Remote Code Execution Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-55123</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-55123</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-62784 Microsoft Local Security Authority Server (lsasrv) Remote Code Execution Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62784</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-62784</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-68794 Microsoft Excel Remote Code Execution Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68794</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-68794</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-66810 Microsoft Office Word Information Disclosure Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66810</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-66810</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-62694 Windows Installer Elevation of Privilege Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62694</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-62694</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-85360 Windows Kernel Elevation of Privilege Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85360</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-85360</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-68833 Windows NTFS Remote Code Execution Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68833</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-68833</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-68884 Windows Kernel Elevation of Privilege Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68884</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-68884</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-69548 Windows RNDIS Information Disclosure Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69548</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-69548</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-69767 Microsoft Office PowerPoint Remote Code Execution Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69767</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-69767</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-83952 Windows Resilient File System (ReFS) Elevation of Privilege Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83952</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-83952</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-69492 Windows Partition Management Driver Elevation of Privilege Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69492</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-69492</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-56172 Windows VHD miniport driver Elevation of Privilege Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56172</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-56172</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-68839 Windows USB Mass Storage Class Driver Remote Code Execution Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68839</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-68839</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-68880 Windows Win32k Elevation of Privilege Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68880</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-68880</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-69280 Windows Push Notifications Elevation of Privilege Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69280</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-69280</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-69277 Microsoft Local Security Authority (LSA) Server Elevation of Privilege Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69277</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-69277</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-69407 Volume Manager Driver Elevation of Privilege Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69407</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-69407</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-69453 Microsoft Windows Search Component Tampering Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69453</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-69453</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-69467 Microsoft Graphics Component Elevation of Privilege Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69467</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-69467</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-69409 Microsoft Office SharePoint Information Disclosure Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69409</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-69409</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-72974 Microsoft Office Excel Information Disclosure Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72974</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-72974</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-69465 Microsoft Office SharePoint Remote Code Execution Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69465</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-69465</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-73016 DirectWrite Remote Code Execution Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-73016</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-73016</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-77911 Microsoft Office Word Information Disclosure Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-77911</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-77911</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-81398 Microsoft Excel Remote Code Execution Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81398</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-81398</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-81954 Microsoft Excel Remote Code Execution Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81954</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-81954</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-81394 Microsoft Excel Information Disclosure Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81394</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-81394</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-81957 Microsoft Excel Remote Code Execution Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81957</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-81957</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-81951 Microsoft Excel Remote Code Execution Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81951</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-81951</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-81949 Microsoft Excel Remote Code Execution Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81949</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-81949</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-83978 Windows Biometric Service Elevation of Privilege Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83978</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-83978</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>CVE-2026-83985 Windows Biometric Service Elevation of Privilege Vulnerability</title><link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83985</link><pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate><guid isPermaLink="false">CVE-2026-83985</guid><description>Updated an acknowledgement. This is an informational change only.</description></item><item><title>Allocation of resources without limits or throttling in fastapi</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-258</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-258</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.5
+
+
+ An Allocation of Resources Without Limits or Throttling vulnerability [CWE-770] in FortiAuthenticator may allow an unauthenticated attacker to exhaust system resources, potentially resulting in a denial of service (DoS).
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Arbitrary file write and delete in JSON API</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-190</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-190</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.3
+
+
+ An improper limitation of a pathname to a restricted directory ('Path Traversal') vulnerability [CWE-22] in FortiManager and FortiAnalyzer API may allow an authenticated attacker whose profile only has read permission to write and delete files from the underlying filesystem via crafted HTTP or HTTPs requests.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+...</description></item><item><title>Authentication bypass</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-271</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-271</guid><description>
+
+  CVSSv3 Score:
+ 
+ 9.0
+
+
+ A Use of Hard-coded Password [CWE-259] vulnerability in FortiAuthenticator may allow an unauthenticated attacker to bypass credential validation in certain circumstances outside of the attacker's control and gain unauthorized access.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Authentication bypass by primary weakness</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-267</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-267</guid><description>
+
+  CVSSv3 Score:
+ 
+ 9.3
+
+
+ An Authentication Bypass by Primary Weakness vulnerability [cwe-305] in FortiOS and FortiSASE ospf daemon may allow an unauthenticated attacker to broadcast LSA via specially crafted request
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Authentication bypass by spoofing</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-229</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-229</guid><description>
+
+  CVSSv3 Score:
+ 
+ 8.2
+
+
+ An authentication bypass by spoofing vulnerability (CWE-290) in FortiAnalyzer, FortiAnalyzer Cloud, FortiAnalyzer-BigData, FortiManager, FortiManager Cloud, FortiSASE-Sovereign fortilogd may allow an attacker to disrupt the HA state.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Authorization bypass through user-controlled key</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-208</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-208</guid><description>
+
+  CVSSv3 Score:
+ 
+ 9.1
+
+
+ An Authorization Bypass Through User-Controlled Key vulnerability [CWE-639] in FortiMail may allow an unauthenticated remote attacker to take over an arbitrary IBE recipient account via crafted HTTP requests.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Authorization bypass through user-controlled key</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-235</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-235</guid><description>
+
+  CVSSv3 Score:
+ 
+ 8.2
+
+
+ An Authorization Bypass Through User-Controlled Key vulnerability [CWE-639] in FortiManager may allow a remote authenticated attacker with admin permission to elevate their privileges to root via crafted HTTP requests.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Authorization bypass through user-controlled key</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-204</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-204</guid><description>
+
+  CVSSv3 Score:
+ 
+ 8.1
+
+
+ An Authorization Bypass Through User-Controlled Key vulnerability [CWE-639] in FortiMail may allow an authenticated remote attacker to delete arbitrary directories as root, or to access or delete other users' calendar and mailbox data across tenant domains, via crafted HTTP requests to the webmail and administrative interfaces.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+...</description></item><item><title>Authorization bypass through user-controlled key</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-211</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-211</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.5
+
+
+ An Authorization Bypass Through User-Controlled Key vulnerability [CWE-639] in FortiMail may allow an unauthenticated attacker to release or delete quarantined messages for arbitrary mailboxes via a crafted quarantine release request.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Authorization bypass through user-controlled key in GUI</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-228</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-228</guid><description>
+
+  CVSSv3 Score:
+ 
+ 8.7
+
+
+ An Authorization Bypass Through User-Controlled Key vulnerability [cwe-639] in FortiManager, FortiManager Cloud and FortiSase-Sovereign GUI may allow an authenticated attacker to execute commands outside of the expected scope via specially crafted HTTP request.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Authorization bypass through user-controlled key in dmserver</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-244</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-244</guid><description>
+
+  CVSSv3 Score:
+ 
+ 9.1
+
+
+ An Authorization Bypass Through User-Controlled Key [CWE-639] in FortiManager, FortiAnalyzer, FortiManager Cloud and FortiAnalyzer Cloud could allow an authenticated administrator to access to other VDOMs via specially crafted HTTP requests.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Broken Access Control in Two-Factor-Authentication</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-195</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-195</guid><description>
+
+  CVSSv3 Score:
+ 
+ 5.9
+
+
+ An Improper Authentication vulnerability [CWE-287] in the FortiOS Remote Radius Type Admin Two-Factor (TFA) Authentication may allow a remote authenticated attacker with at least read-only permission to log in to the FortiOS GUI with an invalid token after entering a valid username and password, in scenarios where the  RADIUS server returns an additional "Access-Challenge" response following an invalid TFA token.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+...</description></item><item><title>FGFM elevation before registration password is verified</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-275</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-275</guid><description>
+
+  CVSSv3 Score:
+ 
+ 9.0
+
+
+ An improper authorization vulnerability in FortiManager FGFM may allow an unauthenticated attacker that can reach the FGFM port to execute code or commands via crafted FGFM packets.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Heap-based buffer overflow</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-232</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-232</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.2
+
+
+ A Heap-based Buffer Overflow vulnerability [CWE-122] in FortiManager, FortiManager Cloud, FortiAnalyzer and FortiAnalyzer Cloud may allow an authenticated administrator to execute unauthorized code or commands or cause a denial of service via specially crafted JSON-RPC requests.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Heap-based buffer overflow</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-223</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-223</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.2
+
+
+ A Heap-based Buffer Overflow vulnerability [CWE-122] in FortiManager, FortiAnalyzer, FortiManager Cloud and FortiAnalyzer Cloud may allow an authenticated attacker with admin privileges to execute unauthorized code or commands via a crafted request.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper authentication in releasecontrol</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-212</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-212</guid><description>
+
+  CVSSv3 Score:
+ 
+ 8.2
+
+
+ An Improper Authentication vulnerability [CWE-287] in FortiMail may allow an unauthenticated attacker to escalate privileges and release or delete quarantined messages for arbitrary mailboxes via a crafted quarantine release requests.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper certificate validation in RADIUS protocol</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-247</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-247</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.5
+
+
+ An Improper Certificate Validation vulnerability [CWE-295] in FortiSASE Sovereign, FortiManager, Fortianalyzer, FortiManager Cloud and FortiAnalyzer Cloud RADIUS protocol may allow a MITM attacker to impersonate the radius server via a rogue RADIUS server.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper control of generation of code</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-230</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-230</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.2
+
+
+ A Code Injection vulnerability [CWE-94] in FortiManager, FortiManager Cloud, FortiAnalyzer and FortiAnalyzer Cloud may allow an authenticated administrator to execute unauthorized code or commands via specially crafted requests.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper control of generation of code in GUI</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-227</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-227</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.2
+
+
+ An Improper Control of Generation of Code ('Code Injection') vulnerability [CWE-94] and a Buffer Copy without Checking Size of Input ('Classic Buffer Overflow') vulnerability [CWE-120] in FortiManager, FortiAnalyzer, FortiManager Cloud, and FortiAnalyzer Cloud may allow a remote authenticated attacker to execute unauthorized code or commands via crafted HTTP requests.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+...</description></item><item><title>Improper limitation of a pathname to a restricted directory</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-237</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-237</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.2
+
+
+ An Improper Limitation of a Pathname to a Restricted Directory (CWE-22) vulnerability in FortiManager, FortiAnalyzer, FortiManager Cloud and FortiAnalyzer Cloud may allow an authenticated attacker with admin privileges to execute unauthorized code or commands via crafted requests.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper limitation of a pathname to a restricted directory</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-199</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-199</guid><description>
+
+  CVSSv3 Score:
+ 
+ 9.8
+
+
+ An Improper limitation of a pathname to a restricted directory ('path traversal') vulnerability [CWE-22] in FortiMail may allow an unauthenticated attacker to execute unauthorized code or commands via crafted requests.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper limitation of a pathname to a restricted directory</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-236</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-236</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.2
+
+
+ An External Control of File Name or Path vulnerability [CWE-22] and an Improper Neutralization of Special Elements vulnerability [CWE-74] in FortiManager, FortiManager Cloud, FortiAnalyzer, and FortiAnalyzer Cloud may allow an authenticated administrator to read or write arbitrary files or execute unauthorized code or commands via specially crafted requests to the GUI.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+...</description></item><item><title>Improper limitation of a pathname to a restricted directory</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-205</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-205</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.5
+
+
+ An Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability [CWE-22] in FortiMai may allow an unauthenticated attacker to execute unauthorized commands via crafted requests.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper limitation of a pathname to a restricted directory in apache_mod</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-250</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-250</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.2
+
+
+ A Path Traversal vulnerability [CWE-22] in FortiManager, FortiManager Cloud, FortiAnalyzer and FortiAnalyzer Cloud may allow an authenticated administrator to write arbitrary files via a specially crafted archive.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper neutralization of argument delimiters in a command</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-239</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-239</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.2
+
+
+ An Improper Neutralization of Argument Delimiters in a Command ('Argument Injection')[CWE-88] vulnerability in FortiManager,FortiAnalyzer, FortiManager Cloud, FortiAnalyzer Cloud may allow an authenticated privileged admin user to execute unauthorized code or commands.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper neutralization of special elements in output used by a downstream component in sshd</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-269</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-269</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.4
+
+
+ A  Path Traversal vulnerability [cwe-24] in FortiOS, FortiSASE, FortiProxy and FortiPam ssh daemon may allow an unauthenticated attacker to bypass authentication via specially crafted credentials.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper neutralization of special elements used in a command</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-218</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-218</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.6
+
+
+ An Improper Neutralization of Argument Delimiters in a Command ('Argument Injection') [CWE-88] in FortiMail may allow an authenticated remote attacker with domain admin or admin privileges to delete users of other tenant domains on a paired FortiAuthenticator, execute arbitrary code as root or arbitrary CLI commands, and read or write arbitrary files as root via crafted HTTP requests to the administrative interface.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+...</description></item><item><title>Improper neutralization of special elements used in a template engine</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-249</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-249</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.2
+
+
+ A Server-Side Template Injection vulnerability [CWE-1336] in FortiManager, FortiManager Cloud, FortiAnalyzer and FortiAnalyzer Cloud may allow an authenticated attacker with restricted privileges to execute unauthorized code or commands via a specially crafted request.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper neutralization of special elements used in a template engine i</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-225</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-225</guid><description>
+
+  CVSSv3 Score:
+ 
+ 8.4
+
+
+ An Improper Neutralization of Special Elements Used in a Template Engine vulnerability [CWE-1336] in FortiManager and FortiManager Cloud may allow a low privileged Device Manager admin to obtain super admin privilege on managed FortiGates via injecting malicious commands.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper neutralization of special elements used in a template engine in fortisoc</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-220</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-220</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.2
+
+
+ A Use of Externally-Controlled Format String [CWE-134] in FortiManager, FortiAnalyzer, FortiManager Cloud and FortiAnalyzer Cloud API may allow an authenticated attacker to execute unauthorized commands via specially crafted HTTP request
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper neutralization of special elements used in an OS command</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-198</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-198</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.2
+
+
+ An improper neutralization of special elements used in an OS Command ('OS Command Injection') vulnerability [CWE-78] in FortiMail, FortiRecorder may allow an authenticated privileged attacker to execute unauthorized code or commands via a specifically crafted archive account configuration.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+...</description></item><item><title>Improper neutralization of special elements used in an OS command</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-246</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-246</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.2
+
+
+ An improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability (CWE-78) in FortiAnalyzer, FortiAnalyzer Cloud, FortiManager, FortiManager Cloud system-ha plugin may allow an authenticated attacker to execute unauthorized commands via a crafted HTTP request.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+...</description></item><item><title>Improper neutralization of special elements used in an OS command</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-197</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-197</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.2
+
+
+ An Improper Neutralization of Special Elements used in an OS Command (&#8220;OS Command Injection&#8221;) vulnerability [CWE-78] in FortiMail may allow an authenticated administrator with system-time read-write access to execute unauthorized code or commands as root.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper neutralization of special elements used in an OS command</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-241</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-241</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.2
+
+
+ An improper neutralization of special elements used in an OS Command ('OS Command Injection') vulnerability [CWE-78] in FortiAnalyzer, FortiAnalyzer Cloud, FortiManager and FortiManager Cloud may allow an authenticated privileged attacker to execute unauthorized code or commands via crafted report schedule name.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+...</description></item><item><title>Improper neutralization of special elements used in an OS command in webmail</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-196</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-196</guid><description>
+
+  CVSSv3 Score:
+ 
+ 8.8
+
+
+ An improper neutralization of special elements used in an OS Command ('OS Command Injection') vulnerability [CWE-78] in FortiMail, FortiRecorder and FortiVoice may allow an authenticated attacker to execute unauthorized code or commands via specifically crafted HTTP requests.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper neutralization of special elements used in an SQL command</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-233</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-233</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.1
+
+
+ An SQL Injection vulnerability [CWE-89] in FortiManager, FortiManager Cloud, FortiAnalyzer, FortiAnalyzer Cloud may allow an authenticated attacker to execute unauthorized SQL commands via specially crafted requests.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper neutralization of special elements used in an SQL command</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-256</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-256</guid><description>
+
+  CVSSv3 Score:
+ 
+ 8.8
+
+
+ An Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')[CWE-89] in FortiAuthenticator may allow an authenticated attacker to execute unauthorized SQL commands on the underlying database.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper neutralization of special elements used in an SQL command</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-221</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-221</guid><description>
+
+  CVSSv3 Score:
+ 
+ 8.8
+
+
+ An improper neutralization of special elements used in an SQL Command ('SQL Injection') vulnerability [CWE-89] in FortiAnalyzer, FortiAnalyzer Cloud, FortiManager and FortiManager Cloud may allow an authenticated attacker to execute unauthorized code or commands via crafted JSON-RPC requests.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+...</description></item><item><title>Improper neutralization of special elements used in an SQL command</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-216</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-216</guid><description>
+
+  CVSSv3 Score:
+ 
+ 9.4
+
+
+ An Improper neutralization of special elements used in an SQL command ('SQL injection') [CWE-89] in FortiMail may allow an unauthenticated attacker to execute unauthorized code or commands via crafted requests.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper neutralization of special elements used in an SQL command in collectoragent</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-266</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-266</guid><description>
+
+  CVSSv3 Score:
+ 
+ 8.3
+
+
+ An improper neutralization of special elements used in an sql command ('sql injection')[CWE-89] vulnerability may allow an authenticated attacker to execute unauthorized code or commands via http requests
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper neutralization of special elements used in an ldap query</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-255</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-255</guid><description>
+
+  CVSSv3 Score:
+ 
+ 8.2
+
+
+ An Improper Neutralization of Special Elements used in an LDAP Query ('LDAP Injection')[CWE-90] in FortiAuthenticator may allow an authenticated attacker to bypass authentication. Successful exploitation requires either a malicious/compromised upstream IdP, or an IdP configuration that allows the user to control the NameID (or the SAML attribute used as the username).
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+...</description></item><item><title>Improper neutralization of special elements used in an os command</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-224</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-224</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.2
+
+
+ An OS Command Injection vulnerability [CWE-78] in FortiManager, FortiManager Cloud, FortiAnalyzer and FortiAnalyzer Cloud may allow an authenticated administrator to execute unauthorized code or commands via specially crafted requests
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper neutralization of special elements used in an os command</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-210</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-210</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.2
+
+
+ An Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability [CWE-78] in FortiMail may allow an authenticated administrator to execute unauthorized code or commands as root via specially crafted HTTP requests.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper neutralization of special elements used in an os command</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-200</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-200</guid><description>
+
+  CVSSv3 Score:
+ 
+ 9.8
+
+
+ An Improper neutralization of special elements used in a command ('command injection') [CWE-77] in FortiMail may allow an unauthenticated attacker to execute unauthorized code or commands via crafted HA join-request packets.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper neutralization of special elements used in an os command in GUI</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-251</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-251</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.2
+
+
+ An Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability [cwe-78] in FortiManager, FortiAnalyzer, FortiManager Cloud, FortiAnalyzer Cloud, FortiSASE-Sovereign GUI may allow an authenticated attacker to execute unauthorized code or commands via specially crafted HTTP requests
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+...</description></item><item><title>Improper privilege management</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-263</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-263</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.2
+
+
+ An Improper Privilege Management vulnerability[CWE-269] in FortiAuthenticator may allow an authenticated attacker to escalate privileges.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Improper privilege management</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-231</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-231</guid><description>
+
+  CVSSv3 Score:
+ 
+ 7.2
+
+
+ An improper privilege management vulnerability [CWE-269] in FortiAnalyzer, FortiAnalyzer Cloud, FortiManager and FortiManager Cloud may allow an authenticated privileged attacker to elevate their privileges via crafted JSON-RPC request.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Incorrect authorization</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-234</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-234</guid><description>
+
+  CVSSv3 Score:
+ 
+ 8.7
+
+
+ An Incorrect Authorization vulnerability [CWE-863], an Improper Privilege Management vulnerability [CWE-269] and an Authentication Bypass by Spoofing vulnerability [CWE-290] in FortiManager, FortiManager Cloud, FortiAnalyzer,  FortiAnalyzer Cloud, and FortiAnalyzer-BigData may allow an authenticated administrator to escalate their privileges, bypass authorization controls or impersonate internal services via specially crafted requests to the GUI.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+...</description></item><item><title>Incorrect authorization</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-265</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-265</guid><description>
+
+  CVSSv3 Score:
+ 
+ 9.1
+
+
+ An Incorrect Authorization vulnerability [CWE-863] in FortiAuthenticator may allow an attacker to bypass authentication and gain unauthorized access.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item><item><title>Incorrect authorization</title><link>https://fortiguard.fortinet.com/psirt/FG-IR-26-207</link><pubDate>Tue, 10 Nov 2026 00:00:00 -0800</pubDate><guid isPermaLink="false">https://fortiguard.fortinet.com/psirt/FG-IR-26-207</guid><description>
+
+  CVSSv3 Score:
+ 
+ 9.1
+
+
+ An Incorrect Authorization vulnerability [CWE-863] in FortiMail may allow an unauthenticated remote attacker to obtain an authenticated IBE webmail session as any IBE recipient and read or send their encrypted mail via crafted HTTP requests.
+
+
+
+  Revised on 2026-11-10 00:00:00
+ 
+</description></item></channel>
 </rss>
