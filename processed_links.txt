@@ -1,13 +1,3 @@
-2026-10-16T18:00:50 https://www.bitdefender.com/en-us/blog/hotforsecurity/irish-police-twitter-hacked-crypto-scam
-2026-10-16T18:21:54 https://www.wired.com/story/chicago-area-cops-helped-hsi-spy-on-minnesota-anti-ice-activists
-2026-10-16T18:47:15 https://www.scworld.com/news/beyondtrust-zero-day-exploited-by-china-linked-group-armory-castle
-2026-10-16T20:06:25 https://www.scworld.com/executive-decision-guide/how-ai-is-changing-the-soc
-2026-10-16T20:49:19 https://www.scworld.com/tech-explainer/federation-centralises-authentication-and-distributes-an-unverifiable-authorisation-premise
-2026-10-16T21:00:00 https://www.scworld.com/podcast-segment/15318-mr-sparkle-burger-king-pwnscape-linux-cisco-github-microsoft-josh-marpet-swn-625
-2026-10-16T21:06:47 https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html
-2026-10-16T21:15:42 https://www.scworld.com/buyers-guide/how-to-evaluate-provenance-identity-verification-and-trust-evidence-platforms
-2026-10-16T22:19:36 https://www.scworld.com/tech-explainer/testing-a-compensating-control-on-its-own-terms
-2026-10-16T22:39:11 https://www.scworld.com/tech-explainer/setting-an-acceptance-period-and-the-conditions-that-end-it-early
 2026-10-17T00:34:02 https://cyberscoop.com/federal-ai-agent-sandbox-security-guidance
 2026-10-17T06:16:46 https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html
 2026-10-17T08:55:55 https://securityaffairs.com/201130/ai/ai-agents-accessed-indian-organizations-without-authorization-cert-in-warns.html
@@ -4439,3 +4429,7 @@
 2026-11-15T15:49:04 https://securityaffairs.com/203156/malware/security-affairs-malware-newsletter-round-123.html
 2026-11-15T15:49:15 https://databreaches.net/2026/11/15/hack-at-french-postal-unit-exposes-22-million-peoples-data
 2026-11-15T16:06:11 https://securityaffairs.com/203165/ai/security-affairs-ai-cybersecurity-newsletter-round-8.html
+2026-11-15T18:11:56 https://securityaffairs.com/203174/laws-and-regulations/meta-fined-e805-million-in-italy-over-facebooks-default-photo-gallery-access.html
+2026-11-15T18:17:27 https://isc.sans.edu/diary/rss/33496
+2026-11-15T20:56:08 https://databreaches.net/2026/11/15/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks
+2026-11-15T22:38:00 https://securityaffairs.com/203189/security/the-microsoft-outage-left-15-hotel-guests-poisoned-by-chlorine.html
