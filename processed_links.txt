@@ -4584,3 +4584,17 @@
 2026-11-22T14:31:35 https://securityaffairs.com/203725/ai/security-affairs-ai-cybersecurity-newsletter-round-9.html
 2026-11-22T18:01:22 https://securityaffairs.com/203742/ai/signal-is-blocking-ai-agents-from-reading-your-screen.html
 2026-11-22T18:40:18 https://isc.sans.edu/diary/rss/33530
+2026-11-22T23:05:09 https://www.helpnetsecurity.com/2026/11/23/debian-13-8-released
+2026-11-23T00:23:31 https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532
+2026-11-23T00:27:25 https://www.helpnetsecurity.com/2026/11/23/google-semantic-governance-policies
+2026-11-23T02:00:04 https://isc.sans.edu/diary/rss/33548
+2026-11-23T02:13:18 https://www.scworld.com/brief/cisa-adds-four-critical-vulnerabilities-to-its-known-exploited-catalog
+2026-11-23T02:15:30 https://www.scworld.com/brief/whatsapp-patches-three-security-flaws-including-one-exploited-in-scam-campaign
+2026-11-23T02:20:17 https://www.scworld.com/brief/silicon-valley-faces-rising-threat-of-corporate-honey-traps
+2026-11-23T02:24:47 https://www.scworld.com/brief/microsoft-discloses-data-breach-involving-entra-connect-health-service
+2026-11-23T02:25:22 https://www.scworld.com/brief/army-partners-with-openai-to-accelerate-software-accreditation
+2026-11-23T02:31:50 https://www.scworld.com/brief/researchers-uncover-widespread-data-leakage-in-ai-service-networks
+2026-11-23T02:39:35 https://www.scworld.com/brief/rackspace-discloses-security-breach-of-spot-cloud-platform
+2026-11-23T02:44:06 https://www.scworld.com/brief/gl-inet-confirms-cloud-vulnerability-led-to-router-and-kvm-malware-infections
+2026-11-23T02:45:54 https://www.scworld.com/brief/cleverbridge-reports-data-breach-involving-payment-card-information
+2026-11-23T02:52:51 https://www.scworld.com/brief/microsoft-ceo-warns-of-critical-infrastructure-vulnerabilities
