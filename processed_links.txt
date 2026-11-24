@@ -4813,3 +4813,4 @@
 2026-11-24T18:12:30 http://chromereleases.googleblog.com/2026/11/chrome-for-android-update_082592203.html
 2026-11-24T18:28:33 http://chromereleases.googleblog.com/2026/11/chrome-beta-for-desktop-update_0422009936.html
 2026-11-24T18:36:59 http://chromereleases.googleblog.com/2026/11/early-stable-update-for-desktop_027920431.html
+2026-11-24T18:52:59 https://www.scworld.com/brief/next-reports-cyber-incident-involving-third-party-supplier
